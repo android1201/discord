@@ -7,10 +7,11 @@ module.exports = class Embed extends MessageEmbed {
 		super(data);
 		var colorList = color_list;
 		this.list = [];
-		let {
-			color = null
-		} = opts;
-	}
+		this.opts = {
+			color: '#000001'
+		};
+		this.setColor(this.opts.color);
+	};
 	getColors() {
 		let data = color_list.reduce((map, obj, i, a) => {
 			map[obj.name] = obj.hex;
@@ -22,5 +23,42 @@ module.exports = class Embed extends MessageEmbed {
 		});
 		this.list.join(',');
 		return this.list;
-	}
+	};
+	Color(d) {
+		if (!d) {
+			d = this.opts.color;
+		}
+		if (d) {
+			let finded = color_list.find((x) => x.name.toLowerCase() === d.toLowerCase());
+			if (typeof finded === "undefined") {
+				d = d || this.opts.color;
+			} else {
+				d = finded.hex;
+			}
+		}
+		this.setColor(d);
+		return this;
+	};
+	Json() {
+		return {
+			title: this.title,
+			type: 'rich',
+			description: this.description,
+			url: this.url,
+			timestamp: this.timestamp && new Date(this.timestamp),
+			color: this.color,
+			fields: this.fields,
+			thumbnail: this.thumbnail,
+			image: this.image,
+			author: this.author && {
+				name: this.author.name,
+				url: this.author.url,
+				icon_url: this.author.iconURL,
+			},
+			footer: this.footer && {
+				text: this.footer.text,
+				icon_url: this.footer.iconURL,
+			},
+		};
+	};
 };
