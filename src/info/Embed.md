@@ -1,9 +1,17 @@
 **EMBED**
 ```
-const discord = require('dk-discors');
+const {
+	Embed
+} = require('dk-discord');
+
+```
+```
+const embed = new Embed();
+embed.getColors();
+embed.Color('air_force_blue_raf');
 ```
 **COLORS**
-| NAME | HEX |
+| NAME 🛸 | HEX 💦 |
 |------------------------------------|-----------|
 |air_force_blue_raf|#5d8aa8|
 |air_force_blue_usaf|#00308f|
