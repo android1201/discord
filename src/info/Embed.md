@@ -18,7 +18,20 @@ AddColor
 AddDescription
 AddField
 AddFields
-
+AddFooter
+AddImage
+AddThumbnail
+AddTimestamp
+AddTitle
+AddUrl
+CreatedAt
+Equals
+FieldEquals
+GetColors
+HexColor
+Json
+Length
+RemoveFields
 ```
 **COLORS**
 | NAME 🛸 | HEX 💦 |
