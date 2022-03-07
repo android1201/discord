@@ -4,6 +4,6 @@ const {
 
 module.exports = class Embed extends MessageEmbed {
   constructor(opt = {}, data = {}) {
-    
+    super(data);
   }
 }
