@@ -1,14 +1,14 @@
 {
-  "name": "dk-embeds",
-  "version": "0.0.0",
-  "description": "An embed module for discord embeds",
+  "name": "dk-discord",
+  "version": "1.0.0",
+  "description": "An discord module for discord bots",
   "main": "src/module.js",
   "scripts": {
     "test": "npm install && node ."
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/devdk2004/embeds.git"
+    "url": "git+https://github.com/devdk2004/discord.git"
   },
   "author": "devdk",
   "license": "ISC",
@@ -28,7 +28,7 @@
     "nodemon": "^2.0.15"
   },
   "bugs": {
-    "url": "https://github.com/devdk2004/embeds/issues"
+    "url": "https://github.com/devdk2004/discord/issues"
   },
-  "homepage": "https://github.com/devdk2004/embeds#readme"
+  "homepage": "https://github.com/devdk2004/discord#readme"
 }
