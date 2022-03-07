@@ -1,2598 +1,2598 @@
 module.exports = {
 	database: [{
-			air_force_blue_raf: "#5d8aa8"
-		},
-		{
-			air_force_blue_usaf: "#00308f"
-		},
-		{
-			air_superiority_blue: "#72a0c1"
-		},
-		{
-			alabama_crimson: "#a32638"
-		},
-		{
-			alice_blue: "#f0f8ff"
-		},
-		{
-			alizarin_crimson: "#e32636"
-		},
-		{
-			alloy_orange: "#c46210"
-		},
-		{
-			almond: "#efdecd"
-		},
-		{
-			amaranth: "#e52b50"
-		},
-		{
-			amber: "#ffbf00"
-		},
-		{
-			amber_sae_ece: "#ff7e00"
-		},
-		{
-			american_rose: "#ff033e"
-		},
-		{
-			amethyst: "#96c"
-		},
-		{
-			android_green: "#a4c639"
-		},
-		{
-			anti_flash_white: "#f2f3f4"
-		},
-		{
-			antique_brass: "#cd9575"
-		},
-		{
-			antique_fuchsia: "#915c83"
-		},
-		{
-			antique_ruby: "#841b2d"
-		},
-		{
-			antique_white: "#faebd7"
-		},
-		{
-			ao_english: "#008000"
-		},
-		{
-			apple_green: "#8db600"
-		},
-		{
-			apricot: "#fbceb1"
-		},
-		{
-			aqua: "#0ff"
-		},
-		{
-			aquamarine: "#7fffd4"
-		},
-		{
-			army_green: "#4b5320"
-		},
-		{
-			arsenic: "#3b444b"
-		},
-		{
-			arylide_yellow: "#e9d66b"
-		},
-		{
-			ash_grey: "#b2beb5"
-		},
-		{
-			asparagus: "#87a96b"
-		},
-		{
-			atomic_tangerine: "#f96"
-		},
-		{
-			auburn: "#a52a2a"
-		},
-		{
-			aureolin: "#fdee00"
-		},
-		{
-			aurometalsaurus: "#6e7f80"
-		},
-		{
-			avocado: "#568203"
-		},
-		{
-			azure: "#007fff"
-		},
-		{
-			azure_mist_web: "#f0ffff"
-		},
-		{
-			baby_blue: "#89cff0"
-		},
-		{
-			baby_blue_eyes: "#a1caf1"
-		},
-		{
-			baby_pink: "#f4c2c2"
-		},
-		{
-			ball_blue: "#21abcd"
-		},
-		{
-			banana_mania: "#fae7b5"
-		},
-		{
-			banana_yellow: "#ffe135"
-		},
-		{
-			barn_red: "#7c0a02"
-		},
-		{
-			battleship_grey: "#848482"
-		},
-		{
-			bazaar: "#98777b"
-		},
-		{
-			beau_blue: "#bcd4e6"
-		},
-		{
-			beaver: "#9f8170"
-		},
-		{
-			beige: "#f5f5dc"
-		},
-		{
-			big_dip_o_ruby: "#9c2542"
-		},
-		{
-			bisque: "#ffe4c4"
-		},
-		{
-			bistre: "#3d2b1f"
-		},
-		{
-			bittersweet: "#fe6f5e"
-		},
-		{
-			bittersweet_shimmer: "#bf4f51"
-		},
-		{
-			black: "#000"
-		},
-		{
-			black_bean: "#3d0c02"
-		},
-		{
-			black_leather_jacket: "#253529"
-		},
-		{
-			black_olive: "#3b3c36"
-		},
-		{
-			blanched_almond: "#ffebcd"
-		},
-		{
-			blast_off_bronze: "#a57164"
-		},
-		{
-			bleu_de_france: "#318ce7"
-		},
-		{
-			blizzard_blue: "#ace5ee"
-		},
-		{
-			blond: "#faf0be"
-		},
-		{
-			blue: "#00f"
-		},
-		{
-			blue_bell: "#a2a2d0"
-		},
-		{
-			blue_crayola: "#1f75fe"
-		},
-		{
-			blue_gray: "#69c"
-		},
-		{
-			blue_green: "#0d98ba"
-		},
-		{
-			blue_munsell: "#0093af"
-		},
-		{
-			blue_ncs: "#0087bd"
-		},
-		{
-			blue_pigment: "#339"
-		},
-		{
-			blue_ryb: "#0247fe"
-		},
-		{
-			blue_sapphire: "#126180"
-		},
-		{
-			blue_violet: "#8a2be2"
-		},
-		{
-			blush: "#de5d83"
-		},
-		{
-			bole: "#79443b"
-		},
-		{
-			bondi_blue: "#0095b6"
-		},
-		{
-			bone: "#e3dac9"
-		},
-		{
-			boston_university_red: "#c00"
-		},
-		{
-			bottle_green: "#006a4e"
-		},
-		{
-			boysenberry: "#873260"
-		},
-		{
-			brandeis_blue: "#0070ff"
-		},
-		{
-			brass: "#b5a642"
-		},
-		{
-			brick_red: "#cb4154"
-		},
-		{
-			bright_cerulean: "#1dacd6"
-		},
-		{
-			bright_green: "#6f0"
-		},
-		{
-			bright_lavender: "#bf94e4"
-		},
-		{
-			bright_maroon: "#c32148"
-		},
-		{
-			bright_pink: "#ff007f"
-		},
-		{
-			bright_turquoise: "#08e8de"
-		},
-		{
-			bright_ube: "#d19fe8"
-		},
-		{
-			brilliant_lavender: "#f4bbff"
-		},
-		{
-			brilliant_rose: "#ff55a3"
-		},
-		{
-			brink_pink: "#fb607f"
-		},
-		{
-			british_racing_green: "#004225"
-		},
-		{
-			bronze: "#cd7f32"
-		},
-		{
-			brown_traditional: "#964b00"
-		},
-		{
-			brown_web: "#a52a2a"
-		},
-		{
-			bubble_gum: "#ffc1cc"
-		},
-		{
-			bubbles: "#e7feff"
-		},
-		{
-			buff: "#f0dc82"
-		},
-		{
-			bulgarian_rose: "#480607"
-		},
-		{
-			burgundy: "#800020"
-		},
-		{
-			burlywood: "#deb887"
-		},
-		{
-			burnt_orange: "#c50"
-		},
-		{
-			burnt_sienna: "#e97451"
-		},
-		{
-			burnt_umber: "#8a3324"
-		},
-		{
-			byzantine: "#bd33a4"
-		},
-		{
-			byzantium: "#702963"
-		},
-		{
-			cadet: "#536872"
-		},
-		{
-			cadet_blue: "#5f9ea0"
-		},
-		{
-			cadet_grey: "#91a3b0"
-		},
-		{
-			cadmium_green: "#006b3c"
-		},
-		{
-			cadmium_orange: "#ed872d"
-		},
-		{
-			cadmium_red: "#e30022"
-		},
-		{
-			cadmium_yellow: "#fff600"
-		},
-		{
-			caf_au_lait: "#a67b5b"
-		},
-		{
-			caf_noir: "#4b3621"
-		},
-		{
-			cal_poly_green: "#1e4d2b"
-		},
-		{
-			cambridge_blue: "#a3c1ad"
-		},
-		{
-			camel: "#c19a6b"
-		},
-		{
-			cameo_pink: "#efbbcc"
-		},
-		{
-			camouflage_green: "#78866b"
-		},
-		{
-			canary_yellow: "#ffef00"
-		},
-		{
-			candy_apple_red: "#ff0800"
-		},
-		{
-			candy_pink: "#e4717a"
-		},
-		{
-			capri: "#00bfff"
-		},
-		{
-			caput_mortuum: "#592720"
-		},
-		{
-			cardinal: "#c41e3a"
-		},
-		{
-			caribbean_green: "#0c9"
-		},
-		{
-			carmine: "#960018"
-		},
-		{
-			carmine_m_p: "#d70040"
-		},
-		{
-			carmine_pink: "#eb4c42"
-		},
-		{
-			carmine_red: "#ff0038"
-		},
-		{
-			carnation_pink: "#ffa6c9"
-		},
-		{
-			carnelian: "#b31b1b"
-		},
-		{
-			carolina_blue: "#99badd"
-		},
-		{
-			carrot_orange: "#ed9121"
-		},
-		{
-			catalina_blue: "#062a78"
-		},
-		{
-			ceil: "#92a1cf"
-		},
-		{
-			celadon: "#ace1af"
-		},
-		{
-			celadon_blue: "#007ba7"
-		},
-		{
-			celadon_green: "#2f847c"
-		},
-		{
-			celeste_colour: "#b2ffff"
-		},
-		{
-			celestial_blue: "#4997d0"
-		},
-		{
-			cerise: "#de3163"
-		},
-		{
-			cerise_pink: "#ec3b83"
-		},
-		{
-			cerulean: "#007ba7"
-		},
-		{
-			cerulean_blue: "#2a52be"
-		},
-		{
-			cerulean_frost: "#6d9bc3"
-		},
-		{
-			cg_blue: "#007aa5"
-		},
-		{
-			cg_red: "#e03c31"
-		},
-		{
-			chamoisee: "#a0785a"
-		},
-		{
-			champagne: "#fad6a5"
-		},
-		{
-			charcoal: "#36454f"
-		},
-		{
-			charm_pink: "#e68fac"
-		},
-		{
-			chartreuse_traditional: "#dfff00"
-		},
-		{
-			chartreuse_web: "#7fff00"
-		},
-		{
-			cherry: "#de3163"
-		},
-		{
-			cherry_blossom_pink: "#ffb7c5"
-		},
-		{
-			chestnut: "#cd5c5c"
-		},
-		{
-			china_pink: "#de6fa1"
-		},
-		{
-			china_rose: "#a8516e"
-		},
-		{
-			chinese_red: "#aa381e"
-		},
-		{
-			chocolate_traditional: "#7b3f00"
-		},
-		{
-			chocolate_web: "#d2691e"
-		},
-		{
-			chrome_yellow: "#ffa700"
-		},
-		{
-			cinereous: "#98817b"
-		},
-		{
-			cinnabar: "#e34234"
-		},
-		{
-			cinnamon: "#d2691e"
-		},
-		{
-			citrine: "#e4d00a"
-		},
-		{
-			classic_rose: "#fbcce7"
-		},
-		{
-			cobalt: "#0047ab"
-		},
-		{
-			cocoa_brown: "#d2691e"
-		},
-		{
-			coffee: "#6f4e37"
-		},
-		{
-			columbia_blue: "#9bddff"
-		},
-		{
-			congo_pink: "#f88379"
-		},
-		{
-			cool_black: "#002e63"
-		},
-		{
-			cool_grey: "#8c92ac"
-		},
-		{
-			copper: "#b87333"
-		},
-		{
-			copper_crayola: "#da8a67"
-		},
-		{
-			copper_penny: "#ad6f69"
-		},
-		{
-			copper_red: "#cb6d51"
-		},
-		{
-			copper_rose: "#966"
-		},
-		{
-			coquelicot: "#ff3800"
-		},
-		{
-			coral: "#ff7f50"
-		},
-		{
-			coral_pink: "#f88379"
-		},
-		{
-			coral_red: "#ff4040"
-		},
-		{
-			cordovan: "#893f45"
-		},
-		{
-			corn: "#fbec5d"
-		},
-		{
-			cornell_red: "#b31b1b"
-		},
-		{
-			cornflower_blue: "#6495ed"
-		},
-		{
-			cornsilk: "#fff8dc"
-		},
-		{
-			cosmic_latte: "#fff8e7"
-		},
-		{
-			cotton_candy: "#ffbcd9"
-		},
-		{
-			cream: "#fffdd0"
-		},
-		{
-			crimson: "#dc143c"
-		},
-		{
-			crimson_glory: "#be0032"
-		},
-		{
-			cyan: "#0ff"
-		},
-		{
-			cyan_process: "#00b7eb"
-		},
-		{
-			daffodil: "#ffff31"
-		},
-		{
-			dandelion: "#f0e130"
-		},
-		{
-			dark_blue: "#00008b"
-		},
-		{
-			dark_brown: "#654321"
-		},
-		{
-			dark_byzantium: "#5d3954"
-		},
-		{
-			dark_candy_apple_red: "#a40000"
-		},
-		{
-			dark_cerulean: "#08457e"
-		},
-		{
-			dark_chestnut: "#986960"
-		},
-		{
-			dark_coral: "#cd5b45"
-		},
-		{
-			dark_cyan: "#008b8b"
-		},
-		{
-			dark_electric_blue: "#536878"
-		},
-		{
-			dark_goldenrod: "#b8860b"
-		},
-		{
-			dark_gray: "#a9a9a9"
-		},
-		{
-			dark_green: "#013220"
-		},
-		{
-			dark_imperial_blue: "#00416a"
-		},
-		{
-			dark_jungle_green: "#1a2421"
-		},
-		{
-			dark_khaki: "#bdb76b"
-		},
-		{
-			dark_lava: "#483c32"
-		},
-		{
-			dark_lavender: "#734f96"
-		},
-		{
-			dark_magenta: "#8b008b"
-		},
-		{
-			dark_midnight_blue: "#036"
-		},
-		{
-			dark_olive_green: "#556b2f"
-		},
-		{
-			dark_orange: "#ff8c00"
-		},
-		{
-			dark_orchid: "#9932cc"
-		},
-		{
-			dark_pastel_blue: "#779ecb"
-		},
-		{
-			dark_pastel_green: "#03c03c"
-		},
-		{
-			dark_pastel_purple: "#966fd6"
-		},
-		{
-			dark_pastel_red: "#c23b22"
-		},
-		{
-			dark_pink: "#e75480"
-		},
-		{
-			dark_powder_blue: "#039"
-		},
-		{
-			dark_raspberry: "#872657"
-		},
-		{
-			dark_red: "#8b0000"
-		},
-		{
-			dark_salmon: "#e9967a"
-		},
-		{
-			dark_scarlet: "#560319"
-		},
-		{
-			dark_sea_green: "#8fbc8f"
-		},
-		{
-			dark_sienna: "#3c1414"
-		},
-		{
-			dark_slate_blue: "#483d8b"
-		},
-		{
-			dark_slate_gray: "#2f4f4f"
-		},
-		{
-			dark_spring_green: "#177245"
-		},
-		{
-			dark_tan: "#918151"
-		},
-		{
-			dark_tangerine: "#ffa812"
-		},
-		{
-			dark_taupe: "#483c32"
-		},
-		{
-			dark_terra_cotta: "#cc4e5c"
-		},
-		{
-			dark_turquoise: "#00ced1"
-		},
-		{
-			dark_violet: "#9400d3"
-		},
-		{
-			dark_yellow: "#9b870c"
-		},
-		{
-			dartmouth_green: "#00703c"
-		},
-		{
-			davy_s_grey: "#555"
-		},
-		{
-			debian_red: "#d70a53"
-		},
-		{
-			deep_carmine: "#a9203e"
-		},
-		{
-			deep_carmine_pink: "#ef3038"
-		},
-		{
-			deep_carrot_orange: "#e9692c"
-		},
-		{
-			deep_cerise: "#da3287"
-		},
-		{
-			deep_champagne: "#fad6a5"
-		},
-		{
-			deep_chestnut: "#b94e48"
-		},
-		{
-			deep_coffee: "#704241"
-		},
-		{
-			deep_fuchsia: "#c154c1"
-		},
-		{
-			deep_jungle_green: "#004b49"
-		},
-		{
-			deep_lilac: "#95b"
-		},
-		{
-			deep_magenta: "#c0c"
-		},
-		{
-			deep_peach: "#ffcba4"
-		},
-		{
-			deep_pink: "#ff1493"
-		},
-		{
-			deep_ruby: "#843f5b"
-		},
-		{
-			deep_saffron: "#f93"
-		},
-		{
-			deep_sky_blue: "#00bfff"
-		},
-		{
-			deep_tuscan_red: "#66424d"
-		},
-		{
-			denim: "#1560bd"
-		},
-		{
-			desert: "#c19a6b"
-		},
-		{
-			desert_sand: "#edc9af"
-		},
-		{
-			dim_gray: "#696969"
-		},
-		{
-			dodger_blue: "#1e90ff"
-		},
-		{
-			dogwood_rose: "#d71868"
-		},
-		{
-			dollar_bill: "#85bb65"
-		},
-		{
-			drab: "#967117"
-		},
-		{
-			duke_blue: "#00009c"
-		},
-		{
-			earth_yellow: "#e1a95f"
-		},
-		{
-			ebony: "#555d50"
-		},
-		{
-			ecru: "#c2b280"
-		},
-		{
-			eggplant: "#614051"
-		},
-		{
-			eggshell: "#f0ead6"
-		},
-		{
-			egyptian_blue: "#1034a6"
-		},
-		{
-			electric_blue: "#7df9ff"
-		},
-		{
-			electric_crimson: "#ff003f"
-		},
-		{
-			electric_cyan: "#0ff"
-		},
-		{
-			electric_green: "#0f0"
-		},
-		{
-			electric_indigo: "#6f00ff"
-		},
-		{
-			electric_lavender: "#f4bbff"
-		},
-		{
-			electric_lime: "#cf0"
-		},
-		{
-			electric_purple: "#bf00ff"
-		},
-		{
-			electric_ultramarine: "#3f00ff"
-		},
-		{
-			electric_violet: "#8f00ff"
-		},
-		{
-			electric_yellow: "#ff0"
-		},
-		{
-			emerald: "#50c878"
-		},
-		{
-			english_lavender: "#b48395"
-		},
-		{
-			eton_blue: "#96c8a2"
-		},
-		{
-			fallow: "#c19a6b"
-		},
-		{
-			falu_red: "#801818"
-		},
-		{
-			fandango: "#b53389"
-		},
-		{
-			fashion_fuchsia: "#f400a1"
-		},
-		{
-			fawn: "#e5aa70"
-		},
-		{
-			feldgrau: "#4d5d53"
-		},
-		{
-			fern_green: "#4f7942"
-		},
-		{
-			ferrari_red: "#ff2800"
-		},
-		{
-			field_drab: "#6c541e"
-		},
-		{
-			fire_engine_red: "#ce2029"
-		},
-		{
-			firebrick: "#b22222"
-		},
-		{
-			flame: "#e25822"
-		},
-		{
-			flamingo_pink: "#fc8eac"
-		},
-		{
-			flavescent: "#f7e98e"
-		},
-		{
-			flax: "#eedc82"
-		},
-		{
-			floral_white: "#fffaf0"
-		},
-		{
-			fluorescent_orange: "#ffbf00"
-		},
-		{
-			fluorescent_pink: "#ff1493"
-		},
-		{
-			fluorescent_yellow: "#cf0"
-		},
-		{
-			folly: "#ff004f"
-		},
-		{
-			forest_green_traditional: "#014421"
-		},
-		{
-			forest_green_web: "#228b22"
-		},
-		{
-			french_beige: "#a67b5b"
-		},
-		{
-			french_blue: "#0072bb"
-		},
-		{
-			french_lilac: "#86608e"
-		},
-		{
-			french_lime: "#cf0"
-		},
-		{
-			french_raspberry: "#c72c48"
-		},
-		{
-			french_rose: "#f64a8a"
-		},
-		{
-			fuchsia: "#f0f"
-		},
-		{
-			fuchsia_crayola: "#c154c1"
-		},
-		{
-			fuchsia_pink: "#f7f"
-		},
-		{
-			fuchsia_rose: "#c74375"
-		},
-		{
-			fulvous: "#e48400"
-		},
-		{
-			fuzzy_wuzzy: "#c66"
-		},
-		{
-			gainsboro: "#dcdcdc"
-		},
-		{
-			gamboge: "#e49b0f"
-		},
-		{
-			ghost_white: "#f8f8ff"
-		},
-		{
-			ginger: "#b06500"
-		},
-		{
-			glaucous: "#6082b6"
-		},
-		{
-			glitter: "#e6e8fa"
-		},
-		{
-			gold_metallic: "#d4af37"
-		},
-		{
-			gold_web_golden: "#ffd700"
-		},
-		{
-			golden_brown: "#996515"
-		},
-		{
-			golden_poppy: "#fcc200"
-		},
-		{
-			golden_yellow: "#ffdf00"
-		},
-		{
-			goldenrod: "#daa520"
-		},
-		{
-			granny_smith_apple: "#a8e4a0"
-		},
-		{
-			gray: "#808080"
-		},
-		{
-			gray_asparagus: "#465945"
-		},
-		{
-			gray_html_css_gray: "#808080"
-		},
-		{
-			gray_x11_gray: "#bebebe"
-		},
-		{
-			green_color_wheel_x11_green: "#0f0"
-		},
-		{
-			green_crayola: "#1cac78"
-		},
-		{
-			green_html_css_green: "#008000"
-		},
-		{
-			green_munsell: "#00a877"
-		},
-		{
-			green_ncs: "#009f6b"
-		},
-		{
-			green_pigment: "#00a550"
-		},
-		{
-			green_ryb: "#66b032"
-		},
-		{
-			green_yellow: "#adff2f"
-		},
-		{
-			grullo: "#a99a86"
-		},
-		{
-			guppie_green: "#00ff7f"
-		},
-		{
-			halay_be: "#663854"
-		},
-		{
-			han_blue: "#446ccf"
-		},
-		{
-			han_purple: "#5218fa"
-		},
-		{
-			hansa_yellow: "#e9d66b"
-		},
-		{
-			harlequin: "#3fff00"
-		},
-		{
-			harvard_crimson: "#c90016"
-		},
-		{
-			harvest_gold: "#da9100"
-		},
-		{
-			heart_gold: "#808000"
-		},
-		{
-			heliotrope: "#df73ff"
-		},
-		{
-			hollywood_cerise: "#f400a1"
-		},
-		{
-			honeydew: "#f0fff0"
-		},
-		{
-			honolulu_blue: "#007fbf"
-		},
-		{
-			hooker_s_green: "#49796b"
-		},
-		{
-			hot_magenta: "#ff1dce"
-		},
-		{
-			hot_pink: "#ff69b4"
-		},
-		{
-			hunter_green: "#355e3b"
-		},
-		{
-			iceberg: "#71a6d2"
-		},
-		{
-			icterine: "#fcf75e"
-		},
-		{
-			imperial_blue: "#002395"
-		},
-		{
-			inchworm: "#b2ec5d"
-		},
-		{
-			india_green: "#138808"
-		},
-		{
-			indian_red: "#cd5c5c"
-		},
-		{
-			indian_yellow: "#e3a857"
-		},
-		{
-			indigo: "#6f00ff"
-		},
-		{
-			indigo_dye: "#00416a"
-		},
-		{
-			indigo_web: "#4b0082"
-		},
-		{
-			international_klein_blue: "#002fa7"
-		},
-		{
-			international_orange_aerospace: "#ff4f00"
-		},
-		{
-			international_orange_engineering: "#ba160c"
-		},
-		{
-			international_orange_golden_gate_bridge: "#c0362c"
-		},
-		{
-			iris: "#5a4fcf"
-		},
-		{
-			isabelline: "#f4f0ec"
-		},
-		{
-			islamic_green: "#009000"
-		},
-		{
-			ivory: "#fffff0"
-		},
-		{
-			jade: "#00a86b"
-		},
-		{
-			jasmine: "#f8de7e"
-		},
-		{
-			jasper: "#d73b3e"
-		},
-		{
-			jazzberry_jam: "#a50b5e"
-		},
-		{
-			jet: "#343434"
-		},
-		{
-			jonquil: "#fada5e"
-		},
-		{
-			june_bud: "#bdda57"
-		},
-		{
-			jungle_green: "#29ab87"
-		},
-		{
-			kelly_green: "#4cbb17"
-		},
-		{
-			kenyan_copper: "#7c1c05"
-		},
-		{
-			khaki_html_css_khaki: "#c3b091"
-		},
-		{
-			khaki_x11_light_khaki: "#f0e68c"
-		},
-		{
-			ku_crimson: "#e8000d"
-		},
-		{
-			la_salle_green: "#087830"
-		},
-		{
-			languid_lavender: "#d6cadd"
-		},
-		{
-			lapis_lazuli: "#26619c"
-		},
-		{
-			laser_lemon: "#fefe22"
-		},
-		{
-			laurel_green: "#a9ba9d"
-		},
-		{
-			lava: "#cf1020"
-		},
-		{
-			lavender_blue: "#ccf"
-		},
-		{
-			lavender_blush: "#fff0f5"
-		},
-		{
-			lavender_floral: "#b57edc"
-		},
-		{
-			lavender_gray: "#c4c3d0"
-		},
-		{
-			lavender_indigo: "#9457eb"
-		},
-		{
-			lavender_magenta: "#ee82ee"
-		},
-		{
-			lavender_mist: "#e6e6fa"
-		},
-		{
-			lavender_pink: "#fbaed2"
-		},
-		{
-			lavender_purple: "#967bb6"
-		},
-		{
-			lavender_rose: "#fba0e3"
-		},
-		{
-			lavender_web: "#e6e6fa"
-		},
-		{
-			lawn_green: "#7cfc00"
-		},
-		{
-			lemon: "#fff700"
-		},
-		{
-			lemon_chiffon: "#fffacd"
-		},
-		{
-			lemon_lime: "#e3ff00"
-		},
-		{
-			licorice: "#1a1110"
-		},
-		{
-			light_apricot: "#fdd5b1"
-		},
-		{
-			light_blue: "#add8e6"
-		},
-		{
-			light_brown: "#b5651d"
-		},
-		{
-			light_carmine_pink: "#e66771"
-		},
-		{
-			light_coral: "#f08080"
-		},
-		{
-			light_cornflower_blue: "#93ccea"
-		},
-		{
-			light_crimson: "#f56991"
-		},
-		{
-			light_cyan: "#e0ffff"
-		},
-		{
-			light_fuchsia_pink: "#f984ef"
-		},
-		{
-			light_goldenrod_yellow: "#fafad2"
-		},
-		{
-			light_gray: "#d3d3d3"
-		},
-		{
-			light_green: "#90ee90"
-		},
-		{
-			light_khaki: "#f0e68c"
-		},
-		{
-			light_pastel_purple: "#b19cd9"
-		},
-		{
-			light_pink: "#ffb6c1"
-		},
-		{
-			light_red_ochre: "#e97451"
-		},
-		{
-			light_salmon: "#ffa07a"
-		},
-		{
-			light_salmon_pink: "#f99"
-		},
-		{
-			light_sea_green: "#20b2aa"
-		},
-		{
-			light_sky_blue: "#87cefa"
-		},
-		{
-			light_slate_gray: "#789"
-		},
-		{
-			light_taupe: "#b38b6d"
-		},
-		{
-			light_thulian_pink: "#e68fac"
-		},
-		{
-			light_yellow: "#ffffe0"
-		},
-		{
-			lilac: "#c8a2c8"
-		},
-		{
-			lime_color_wheel: "#bfff00"
-		},
-		{
-			lime_green: "#32cd32"
-		},
-		{
-			lime_web_x11_green: "#0f0"
-		},
-		{
-			limerick: "#9dc209"
-		},
-		{
-			lincoln_green: "#195905"
-		},
-		{
-			linen: "#faf0e6"
-		},
-		{
-			lion: "#c19a6b"
-		},
-		{
-			little_boy_blue: "#6ca0dc"
-		},
-		{
-			liver: "#534b4f"
-		},
-		{
-			lust: "#e62020"
-		},
-		{
-			magenta: "#f0f"
-		},
-		{
-			magenta_dye: "#ca1f7b"
-		},
-		{
-			magenta_process: "#ff0090"
-		},
-		{
-			magic_mint: "#aaf0d1"
-		},
-		{
-			magnolia: "#f8f4ff"
-		},
-		{
-			mahogany: "#c04000"
-		},
-		{
-			maize: "#fbec5d"
-		},
-		{
-			majorelle_blue: "#6050dc"
-		},
-		{
-			malachite: "#0bda51"
-		},
-		{
-			manatee: "#979aaa"
-		},
-		{
-			mango_tango: "#ff8243"
-		},
-		{
-			mantis: "#74c365"
-		},
-		{
-			mardi_gras: "#880085"
-		},
-		{
-			maroon_crayola: "#c32148"
-		},
-		{
-			maroon_html_css: "#800000"
-		},
-		{
-			maroon_x11: "#b03060"
-		},
-		{
-			mauve: "#e0b0ff"
-		},
-		{
-			mauve_taupe: "#915f6d"
-		},
-		{
-			mauvelous: "#ef98aa"
-		},
-		{
-			maya_blue: "#73c2fb"
-		},
-		{
-			meat_brown: "#e5b73b"
-		},
-		{
-			medium_aquamarine: "#6da"
-		},
-		{
-			medium_blue: "#0000cd"
-		},
-		{
-			medium_candy_apple_red: "#e2062c"
-		},
-		{
-			medium_carmine: "#af4035"
-		},
-		{
-			medium_champagne: "#f3e5ab"
-		},
-		{
-			medium_electric_blue: "#035096"
-		},
-		{
-			medium_jungle_green: "#1c352d"
-		},
-		{
-			medium_lavender_magenta: "#dda0dd"
-		},
-		{
-			medium_orchid: "#ba55d3"
-		},
-		{
-			medium_persian_blue: "#0067a5"
-		},
-		{
-			medium_purple: "#9370db"
-		},
-		{
-			medium_red_violet: "#bb3385"
-		},
-		{
-			medium_ruby: "#aa4069"
-		},
-		{
-			medium_sea_green: "#3cb371"
-		},
-		{
-			medium_slate_blue: "#7b68ee"
-		},
-		{
-			medium_spring_bud: "#c9dc87"
-		},
-		{
-			medium_spring_green: "#00fa9a"
-		},
-		{
-			medium_taupe: "#674c47"
-		},
-		{
-			medium_turquoise: "#48d1cc"
-		},
-		{
-			medium_tuscan_red: "#79443b"
-		},
-		{
-			medium_vermilion: "#d9603b"
-		},
-		{
-			medium_violet_red: "#c71585"
-		},
-		{
-			mellow_apricot: "#f8b878"
-		},
-		{
-			mellow_yellow: "#f8de7e"
-		},
-		{
-			melon: "#fdbcb4"
-		},
-		{
-			midnight_blue: "#191970"
-		},
-		{
-			midnight_green_eagle_green: "#004953"
-		},
-		{
-			mikado_yellow: "#ffc40c"
-		},
-		{
-			mint: "#3eb489"
-		},
-		{
-			mint_cream: "#f5fffa"
-		},
-		{
-			mint_green: "#98ff98"
-		},
-		{
-			misty_rose: "#ffe4e1"
-		},
-		{
-			moccasin: "#faebd7"
-		},
-		{
-			mode_beige: "#967117"
-		},
-		{
-			moonstone_blue: "#73a9c2"
-		},
-		{
-			mordant_red_19: "#ae0c00"
-		},
-		{
-			moss_green: "#addfad"
-		},
-		{
-			mountain_meadow: "#30ba8f"
-		},
-		{
-			mountbatten_pink: "#997a8d"
-		},
-		{
-			msu_green: "#18453b"
-		},
-		{
-			mulberry: "#c54b8c"
-		},
-		{
-			mustard: "#ffdb58"
-		},
-		{
-			myrtle: "#21421e"
-		},
-		{
-			nadeshiko_pink: "#f6adc6"
-		},
-		{
-			napier_green: "#2a8000"
-		},
-		{
-			naples_yellow: "#fada5e"
-		},
-		{
-			navajo_white: "#ffdead"
-		},
-		{
-			navy_blue: "#000080"
-		},
-		{
-			neon_carrot: "#ffa343"
-		},
-		{
-			neon_fuchsia: "#fe4164"
-		},
-		{
-			neon_green: "#39ff14"
-		},
-		{
-			new_york_pink: "#d7837f"
-		},
-		{
-			non_photo_blue: "#a4dded"
-		},
-		{
-			north_texas_green: "#059033"
-		},
-		{
-			ocean_boat_blue: "#0077be"
-		},
-		{
-			ochre: "#c72"
-		},
-		{
-			office_green: "#008000"
-		},
-		{
-			old_gold: "#cfb53b"
-		},
-		{
-			old_lace: "#fdf5e6"
-		},
-		{
-			old_lavender: "#796878"
-		},
-		{
-			old_mauve: "#673147"
-		},
-		{
-			old_rose: "#c08081"
-		},
-		{
-			olive: "#808000"
-		},
-		{
-			olive_drab_7: "#3c341f"
-		},
-		{
-			olive_drab_web_olive_drab_3: "#6b8e23"
-		},
-		{
-			olivine: "#9ab973"
-		},
-		{
-			onyx: "#353839"
-		},
-		{
-			opera_mauve: "#b784a7"
-		},
-		{
-			orange_color_wheel: "#ff7f00"
-		},
-		{
-			orange_peel: "#ff9f00"
-		},
-		{
-			orange_red: "#ff4500"
-		},
-		{
-			orange_ryb: "#fb9902"
-		},
-		{
-			orange_web_color: "#ffa500"
-		},
-		{
-			orchid: "#da70d6"
-		},
-		{
-			otter_brown: "#654321"
-		},
-		{
-			ou_crimson_red: "#900"
-		},
-		{
-			outer_space: "#414a4c"
-		},
-		{
-			outrageous_orange: "#ff6e4a"
-		},
-		{
-			oxford_blue: "#002147"
-		},
-		{
-			pakistan_green: "#060"
-		},
-		{
-			palatinate_blue: "#273be2"
-		},
-		{
-			palatinate_purple: "#682860"
-		},
-		{
-			pale_aqua: "#bcd4e6"
-		},
-		{
-			pale_blue: "#afeeee"
-		},
-		{
-			pale_brown: "#987654"
-		},
-		{
-			pale_carmine: "#af4035"
-		},
-		{
-			pale_cerulean: "#9bc4e2"
-		},
-		{
-			pale_chestnut: "#ddadaf"
-		},
-		{
-			pale_copper: "#da8a67"
-		},
-		{
-			pale_cornflower_blue: "#abcdef"
-		},
-		{
-			pale_gold: "#e6be8a"
-		},
-		{
-			pale_goldenrod: "#eee8aa"
-		},
-		{
-			pale_green: "#98fb98"
-		},
-		{
-			pale_lavender: "#dcd0ff"
-		},
-		{
-			pale_magenta: "#f984e5"
-		},
-		{
-			pale_pink: "#fadadd"
-		},
-		{
-			pale_plum: "#dda0dd"
-		},
-		{
-			pale_red_violet: "#db7093"
-		},
-		{
-			pale_robin_egg_blue: "#96ded1"
-		},
-		{
-			pale_silver: "#c9c0bb"
-		},
-		{
-			pale_spring_bud: "#ecebbd"
-		},
-		{
-			pale_taupe: "#bc987e"
-		},
-		{
-			pale_violet_red: "#db7093"
-		},
-		{
-			pansy_purple: "#78184a"
-		},
-		{
-			papaya_whip: "#ffefd5"
-		},
-		{
-			paris_green: "#50c878"
-		},
-		{
-			pastel_blue: "#aec6cf"
-		},
-		{
-			pastel_brown: "#836953"
-		},
-		{
-			pastel_gray: "#cfcfc4"
-		},
-		{
-			pastel_green: "#7d7"
-		},
-		{
-			pastel_magenta: "#f49ac2"
-		},
-		{
-			pastel_orange: "#ffb347"
-		},
-		{
-			pastel_pink: "#dea5a4"
-		},
-		{
-			pastel_purple: "#b39eb5"
-		},
-		{
-			pastel_red: "#ff6961"
-		},
-		{
-			pastel_violet: "#cb99c9"
-		},
-		{
-			pastel_yellow: "#fdfd96"
-		},
-		{
-			patriarch: "#800080"
-		},
-		{
-			payne_s_grey: "#536878"
-		},
-		{
-			peach: "#ffe5b4"
-		},
-		{
-			peach_crayola: "#ffcba4"
-		},
-		{
-			peach_orange: "#fc9"
-		},
-		{
-			peach_puff: "#ffdab9"
-		},
-		{
-			peach_yellow: "#fadfad"
-		},
-		{
-			pear: "#d1e231"
-		},
-		{
-			pearl: "#eae0c8"
-		},
-		{
-			pearl_aqua: "#88d8c0"
-		},
-		{
-			pearly_purple: "#b768a2"
-		},
-		{
-			peridot: "#e6e200"
-		},
-		{
-			periwinkle: "#ccf"
-		},
-		{
-			persian_blue: "#1c39bb"
-		},
-		{
-			persian_green: "#00a693"
-		},
-		{
-			persian_indigo: "#32127a"
-		},
-		{
-			persian_orange: "#d99058"
-		},
-		{
-			persian_pink: "#f77fbe"
-		},
-		{
-			persian_plum: "#701c1c"
-		},
-		{
-			persian_red: "#c33"
-		},
-		{
-			persian_rose: "#fe28a2"
-		},
-		{
-			persimmon: "#ec5800"
-		},
-		{
-			peru: "#cd853f"
-		},
-		{
-			phlox: "#df00ff"
-		},
-		{
-			phthalo_blue: "#000f89"
-		},
-		{
-			phthalo_green: "#123524"
-		},
-		{
-			piggy_pink: "#fddde6"
-		},
-		{
-			pine_green: "#01796f"
-		},
-		{
-			pink: "#ffc0cb"
-		},
-		{
-			pink_lace: "#ffddf4"
-		},
-		{
-			pink_orange: "#f96"
-		},
-		{
-			pink_pearl: "#e7accf"
-		},
-		{
-			pink_sherbet: "#f78fa7"
-		},
-		{
-			pistachio: "#93c572"
-		},
-		{
-			platinum: "#e5e4e2"
-		},
-		{
-			plum_traditional: "#8e4585"
-		},
-		{
-			plum_web: "#dda0dd"
-		},
-		{
-			portland_orange: "#ff5a36"
-		},
-		{
-			powder_blue_web: "#b0e0e6"
-		},
-		{
-			princeton_orange: "#ff8f00"
-		},
-		{
-			prune: "#701c1c"
-		},
-		{
-			prussian_blue: "#003153"
-		},
-		{
-			psychedelic_purple: "#df00ff"
-		},
-		{
-			puce: "#c89"
-		},
-		{
-			pumpkin: "#ff7518"
-		},
-		{
-			purple_heart: "#69359c"
-		},
-		{
-			purple_html_css: "#800080"
-		},
-		{
-			purple_mountain_majesty: "#9678b6"
-		},
-		{
-			purple_munsell: "#9f00c5"
-		},
-		{
-			purple_pizzazz: "#fe4eda"
-		},
-		{
-			purple_taupe: "#50404d"
-		},
-		{
-			purple_x11: "#a020f0"
-		},
-		{
-			quartz: "#51484f"
-		},
-		{
-			rackley: "#5d8aa8"
-		},
-		{
-			radical_red: "#ff355e"
-		},
-		{
-			rajah: "#fbab60"
-		},
-		{
-			raspberry: "#e30b5d"
-		},
-		{
-			raspberry_glace: "#915f6d"
-		},
-		{
-			raspberry_pink: "#e25098"
-		},
-		{
-			raspberry_rose: "#b3446c"
-		},
-		{
-			raw_umber: "#826644"
-		},
-		{
-			razzle_dazzle_rose: "#f3c"
-		},
-		{
-			razzmatazz: "#e3256b"
-		},
-		{
-			red: "#f00"
-		},
-		{
-			red_brown: "#a52a2a"
-		},
-		{
-			red_devil: "#860111"
-		},
-		{
-			red_munsell: "#f2003c"
-		},
-		{
-			red_ncs: "#c40233"
-		},
-		{
-			red_orange: "#ff5349"
-		},
-		{
-			red_pigment: "#ed1c24"
-		},
-		{
-			red_ryb: "#fe2712"
-		},
-		{
-			red_violet: "#c71585"
-		},
-		{
-			redwood: "#ab4e52"
-		},
-		{
-			regalia: "#522d80"
-		},
-		{
-			resolution_blue: "#002387"
-		},
-		{
-			rich_black: "#004040"
-		},
-		{
-			rich_brilliant_lavender: "#f1a7fe"
-		},
-		{
-			rich_carmine: "#d70040"
-		},
-		{
-			rich_electric_blue: "#0892d0"
-		},
-		{
-			rich_lavender: "#a76bcf"
-		},
-		{
-			rich_lilac: "#b666d2"
-		},
-		{
-			rich_maroon: "#b03060"
-		},
-		{
-			rifle_green: "#414833"
-		},
-		{
-			robin_egg_blue: "#0cc"
-		},
-		{
-			rose: "#ff007f"
-		},
-		{
-			rose_bonbon: "#f9429e"
-		},
-		{
-			rose_ebony: "#674846"
-		},
-		{
-			rose_gold: "#b76e79"
-		},
-		{
-			rose_madder: "#e32636"
-		},
-		{
-			rose_pink: "#f6c"
-		},
-		{
-			rose_quartz: "#aa98a9"
-		},
-		{
-			rose_taupe: "#905d5d"
-		},
-		{
-			rose_vale: "#ab4e52"
-		},
-		{
-			rosewood: "#65000b"
-		},
-		{
-			rosso_corsa: "#d40000"
-		},
-		{
-			rosy_brown: "#bc8f8f"
-		},
-		{
-			royal_azure: "#0038a8"
-		},
-		{
-			royal_blue_traditional: "#002366"
-		},
-		{
-			royal_blue_web: "#4169e1"
-		},
-		{
-			royal_fuchsia: "#ca2c92"
-		},
-		{
-			royal_purple: "#7851a9"
-		},
-		{
-			royal_yellow: "#fada5e"
-		},
-		{
-			rubine_red: "#d10056"
-		},
-		{
-			ruby: "#e0115f"
-		},
-		{
-			ruby_red: "#9b111e"
-		},
-		{
-			ruddy: "#ff0028"
-		},
-		{
-			ruddy_brown: "#bb6528"
-		},
-		{
-			ruddy_pink: "#e18e96"
-		},
-		{
-			rufous: "#a81c07"
-		},
-		{
-			russet: "#80461b"
-		},
-		{
-			rust: "#b7410e"
-		},
-		{
-			rusty_red: "#da2c43"
-		},
-		{
-			sacramento_state_green: "#00563f"
-		},
-		{
-			saddle_brown: "#8b4513"
-		},
-		{
-			safety_orange_blaze_orange: "#ff6700"
-		},
-		{
-			saffron: "#f4c430"
-		},
-		{
-			salmon: "#ff8c69"
-		},
-		{
-			salmon_pink: "#ff91a4"
-		},
-		{
-			sand: "#c2b280"
-		},
-		{
-			sand_dune: "#967117"
-		},
-		{
-			sandstorm: "#ecd540"
-		},
-		{
-			sandy_brown: "#f4a460"
-		},
-		{
-			sandy_taupe: "#967117"
-		},
-		{
-			sangria: "#92000a"
-		},
-		{
-			sap_green: "#507d2a"
-		},
-		{
-			sapphire: "#0f52ba"
-		},
-		{
-			sapphire_blue: "#0067a5"
-		},
-		{
-			satin_sheen_gold: "#cba135"
-		},
-		{
-			scarlet: "#ff2400"
-		},
-		{
-			scarlet_crayola: "#fd0e35"
-		},
-		{
-			school_bus_yellow: "#ffd800"
-		},
-		{
-			screamin_green: "#76ff7a"
-		},
-		{
-			sea_blue: "#006994"
-		},
-		{
-			sea_green: "#2e8b57"
-		},
-		{
-			seal_brown: "#321414"
-		},
-		{
-			seashell: "#fff5ee"
-		},
-		{
-			selective_yellow: "#ffba00"
-		},
-		{
-			sepia: "#704214"
-		},
-		{
-			shadow: "#8a795d"
-		},
-		{
-			shamrock_green: "#009e60"
-		},
-		{
-			shocking_pink: "#fc0fc0"
-		},
-		{
-			shocking_pink_crayola: "#ff6fff"
-		},
-		{
-			sienna: "#882d17"
-		},
-		{
-			silver: "#c0c0c0"
-		},
-		{
-			sinopia: "#cb410b"
-		},
-		{
-			skobeloff: "#007474"
-		},
-		{
-			sky_blue: "#87ceeb"
-		},
-		{
-			sky_magenta: "#cf71af"
-		},
-		{
-			slate_blue: "#6a5acd"
-		},
-		{
-			slate_gray: "#708090"
-		},
-		{
-			smalt_dark_powder_blue: "#039"
-		},
-		{
-			smokey_topaz: "#933d41"
-		},
-		{
-			smoky_black: "#100c08"
-		},
-		{
-			snow: "#fffafa"
-		},
-		{
-			spiro_disco_ball: "#0fc0fc"
-		},
-		{
-			spring_bud: "#a7fc00"
-		},
-		{
-			spring_green: "#00ff7f"
-		},
-		{
-			st_patrick_s_blue: "#23297a"
-		},
-		{
-			steel_blue: "#4682b4"
-		},
-		{
-			stil_de_grain_yellow: "#fada5e"
-		},
-		{
-			stizza: "#900"
-		},
-		{
-			stormcloud: "#4f666a"
-		},
-		{
-			straw: "#e4d96f"
-		},
-		{
-			sunglow: "#fc3"
-		},
-		{
-			sunset: "#fad6a5"
-		},
-		{
-			tan: "#d2b48c"
-		},
-		{
-			tangelo: "#f94d00"
-		},
-		{
-			tangerine: "#f28500"
-		},
-		{
-			tangerine_yellow: "#fc0"
-		},
-		{
-			tango_pink: "#e4717a"
-		},
-		{
-			taupe: "#483c32"
-		},
-		{
-			taupe_gray: "#8b8589"
-		},
-		{
-			tea_green: "#d0f0c0"
-		},
-		{
-			tea_rose_orange: "#f88379"
-		},
-		{
-			tea_rose_rose: "#f4c2c2"
-		},
-		{
-			teal: "#008080"
-		},
-		{
-			teal_blue: "#367588"
-		},
-		{
-			teal_green: "#00827f"
-		},
-		{
-			telemagenta: "#cf3476"
-		},
-		{
-			tenn_tawny: "#cd5700"
-		},
-		{
-			terra_cotta: "#e2725b"
-		},
-		{
-			thistle: "#d8bfd8"
-		},
-		{
-			thulian_pink: "#de6fa1"
-		},
-		{
-			tickle_me_pink: "#fc89ac"
-		},
-		{
-			tiffany_blue: "#0abab5"
-		},
-		{
-			tiger_s_eye: "#e08d3c"
-		},
-		{
-			timberwolf: "#dbd7d2"
-		},
-		{
-			titanium_yellow: "#eee600"
-		},
-		{
-			tomato: "#ff6347"
-		},
-		{
-			toolbox: "#746cc0"
-		},
-		{
-			topaz: "#ffc87c"
-		},
-		{
-			tractor_red: "#fd0e35"
-		},
-		{
-			trolley_grey: "#808080"
-		},
-		{
-			tropical_rain_forest: "#00755e"
-		},
-		{
-			true_blue: "#0073cf"
-		},
-		{
-			tufts_blue: "#417dc1"
-		},
-		{
-			tumbleweed: "#deaa88"
-		},
-		{
-			turkish_rose: "#b57281"
-		},
-		{
-			turquoise: "#30d5c8"
-		},
-		{
-			turquoise_blue: "#00ffef"
-		},
-		{
-			turquoise_green: "#a0d6b4"
-		},
-		{
-			tuscan_red: "#7c4848"
-		},
-		{
-			twilight_lavender: "#8a496b"
-		},
-		{
-			tyrian_purple: "#66023c"
-		},
-		{
-			ua_blue: "#03a"
-		},
-		{
-			ua_red: "#d9004c"
-		},
-		{
-			ube: "#8878c3"
-		},
-		{
-			ucla_blue: "#536895"
-		},
-		{
-			ucla_gold: "#ffb300"
-		},
-		{
-			ufo_green: "#3cd070"
-		},
-		{
-			ultra_pink: "#ff6fff"
-		},
-		{
-			ultramarine: "#120a8f"
-		},
-		{
-			ultramarine_blue: "#4166f5"
-		},
-		{
-			umber: "#635147"
-		},
-		{
-			unbleached_silk: "#ffddca"
-		},
-		{
-			united_nations_blue: "#5b92e5"
-		},
-		{
-			university_of_california_gold: "#b78727"
-		},
-		{
-			unmellow_yellow: "#ff6"
-		},
-		{
-			up_forest_green: "#014421"
-		},
-		{
-			up_maroon: "#7b1113"
-		},
-		{
-			upsdell_red: "#ae2029"
-		},
-		{
-			urobilin: "#e1ad21"
-		},
-		{
-			usafa_blue: "#004f98"
-		},
-		{
-			usc_cardinal: "#900"
-		},
-		{
-			usc_gold: "#fc0"
-		},
-		{
-			utah_crimson: "#d3003f"
-		},
-		{
-			vanilla: "#f3e5ab"
-		},
-		{
-			vegas_gold: "#c5b358"
-		},
-		{
-			venetian_red: "#c80815"
-		},
-		{
-			verdigris: "#43b3ae"
-		},
-		{
-			vermilion_cinnabar: "#e34234"
-		},
-		{
-			vermilion_plochere: "#d9603b"
-		},
-		{
-			veronica: "#a020f0"
-		},
-		{
-			violet: "#8f00ff"
-		},
-		{
-			violet_blue: "#324ab2"
-		},
-		{
-			violet_color_wheel: "#7f00ff"
-		},
-		{
-			violet_ryb: "#8601af"
-		},
-		{
-			violet_web: "#ee82ee"
-		},
-		{
-			viridian: "#40826d"
-		},
-		{
-			vivid_auburn: "#922724"
-		},
-		{
-			vivid_burgundy: "#9f1d35"
-		},
-		{
-			vivid_cerise: "#da1d81"
-		},
-		{
-			vivid_tangerine: "#ffa089"
-		},
-		{
-			vivid_violet: "#9f00ff"
-		},
-		{
-			warm_black: "#004242"
-		},
-		{
-			waterspout: "#a4f4f9"
-		},
-		{
-			wenge: "#645452"
-		},
-		{
-			wheat: "#f5deb3"
-		},
-		{
-			white: "#fff"
-		},
-		{
-			white_smoke: "#f5f5f5"
-		},
-		{
-			wild_blue_yonder: "#a2add0"
-		},
-		{
-			wild_strawberry: "#ff43a4"
-		},
-		{
-			wild_watermelon: "#fc6c85"
-		},
-		{
-			wine: "#722f37"
-		},
-		{
-			wine_dregs: "#673147"
-		},
-		{
-			wisteria: "#c9a0dc"
-		},
-		{
-			wood_brown: "#c19a6b"
-		},
-		{
-			xanadu: "#738678"
-		},
-		{
-			yale_blue: "#0f4d92"
-		},
-		{
-			yellow: "#ff0"
-		},
-		{
-			yellow_green: "#9acd32"
-		},
-		{
-			yellow_munsell: "#efcc00"
-		},
-		{
-			yellow_ncs: "#ffd300"
-		},
-		{
-			yellow_orange: "#ffae42"
-		},
-		{
-			yellow_process: "#ffef00"
-		},
-		{
-			yellow_ryb: "#fefe33"
-		},
-		{
-			zaffre: "#0014a8"
-		},
-		{
-			zinnwaldite_brown: "#2c1608"
-		}
-	]
+		name: "air_force_blue_raf",
+		hex: "#5d8aa8"
+	}, {
+		name: "air_force_blue_usaf",
+		hex: "#00308f"
+	}, {
+		name: "air_superiority_blue",
+		hex: "#72a0c1"
+	}, {
+		name: "alabama_crimson",
+		hex: "#a32638"
+	}, {
+		name: "alice_blue",
+		hex: "#f0f8ff"
+	}, {
+		name: "alizarin_crimson",
+		hex: "#e32636"
+	}, {
+		name: "alloy_orange",
+		hex: "#c46210"
+	}, {
+		name: "almond",
+		hex: "#efdecd"
+	}, {
+		name: "amaranth",
+		hex: "#e52b50"
+	}, {
+		name: "amber",
+		hex: "#ffbf00"
+	}, {
+		name: "amber_sae_ece",
+		hex: "#ff7e00"
+	}, {
+		name: "american_rose",
+		hex: "#ff033e"
+	}, {
+		name: "amethyst",
+		hex: "#96c"
+	}, {
+		name: "android_green",
+		hex: "#a4c639"
+	}, {
+		name: "anti_flash_white",
+		hex: "#f2f3f4"
+	}, {
+		name: "antique_brass",
+		hex: "#cd9575"
+	}, {
+		name: "antique_fuchsia",
+		hex: "#915c83"
+	}, {
+		name: "antique_ruby",
+		hex: "#841b2d"
+	}, {
+		name: "antique_white",
+		hex: "#faebd7"
+	}, {
+		name: "ao_english",
+		hex: "#008000"
+	}, {
+		name: "apple_green",
+		hex: "#8db600"
+	}, {
+		name: "apricot",
+		hex: "#fbceb1"
+	}, {
+		name: "aqua",
+		hex: "#0ff"
+	}, {
+		name: "aquamarine",
+		hex: "#7fffd4"
+	}, {
+		name: "army_green",
+		hex: "#4b5320"
+	}, {
+		name: "arsenic",
+		hex: "#3b444b"
+	}, {
+		name: "arylide_yellow",
+		hex: "#e9d66b"
+	}, {
+		name: "ash_grey",
+		hex: "#b2beb5"
+	}, {
+		name: "asparagus",
+		hex: "#87a96b"
+	}, {
+		name: "atomic_tangerine",
+		hex: "#f96"
+	}, {
+		name: "auburn",
+		hex: "#a52a2a"
+	}, {
+		name: "aureolin",
+		hex: "#fdee00"
+	}, {
+		name: "aurometalsaurus",
+		hex: "#6e7f80"
+	}, {
+		name: "avocado",
+		hex: "#568203"
+	}, {
+		name: "azure",
+		hex: "#007fff"
+	}, {
+		name: "azure_mist_web",
+		hex: "#f0ffff"
+	}, {
+		name: "baby_blue",
+		hex: "#89cff0"
+	}, {
+		name: "baby_blue_eyes",
+		hex: "#a1caf1"
+	}, {
+		name: "baby_pink",
+		hex: "#f4c2c2"
+	}, {
+		name: "ball_blue",
+		hex: "#21abcd"
+	}, {
+		name: "banana_mania",
+		hex: "#fae7b5"
+	}, {
+		name: "banana_yellow",
+		hex: "#ffe135"
+	}, {
+		name: "barn_red",
+		hex: "#7c0a02"
+	}, {
+		name: "battleship_grey",
+		hex: "#848482"
+	}, {
+		name: "bazaar",
+		hex: "#98777b"
+	}, {
+		name: "beau_blue",
+		hex: "#bcd4e6"
+	}, {
+		name: "beaver",
+		hex: "#9f8170"
+	}, {
+		name: "beige",
+		hex: "#f5f5dc"
+	}, {
+		name: "big_dip_o_ruby",
+		hex: "#9c2542"
+	}, {
+		name: "bisque",
+		hex: "#ffe4c4"
+	}, {
+		name: "bistre",
+		hex: "#3d2b1f"
+	}, {
+		name: "bittersweet",
+		hex: "#fe6f5e"
+	}, {
+		name: "bittersweet_shimmer",
+		hex: "#bf4f51"
+	}, {
+		name: "black",
+		hex: "#000"
+	}, {
+		name: "black_bean",
+		hex: "#3d0c02"
+	}, {
+		name: "black_leather_jacket",
+		hex: "#253529"
+	}, {
+		name: "black_olive",
+		hex: "#3b3c36"
+	}, {
+		name: "blanched_almond",
+		hex: "#ffebcd"
+	}, {
+		name: "blast_off_bronze",
+		hex: "#a57164"
+	}, {
+		name: "bleu_de_france",
+		hex: "#318ce7"
+	}, {
+		name: "blizzard_blue",
+		hex: "#ace5ee"
+	}, {
+		name: "blond",
+		hex: "#faf0be"
+	}, {
+		name: "blue",
+		hex: "#00f"
+	}, {
+		name: "blue_bell",
+		hex: "#a2a2d0"
+	}, {
+		name: "blue_crayola",
+		hex: "#1f75fe"
+	}, {
+		name: "blue_gray",
+		hex: "#69c"
+	}, {
+		name: "blue_green",
+		hex: "#0d98ba"
+	}, {
+		name: "blue_munsell",
+		hex: "#0093af"
+	}, {
+		name: "blue_ncs",
+		hex: "#0087bd"
+	}, {
+		name: "blue_pigment",
+		hex: "#339"
+	}, {
+		name: "blue_ryb",
+		hex: "#0247fe"
+	}, {
+		name: "blue_sapphire",
+		hex: "#126180"
+	}, {
+		name: "blue_violet",
+		hex: "#8a2be2"
+	}, {
+		name: "blush",
+		hex: "#de5d83"
+	}, {
+		name: "bole",
+		hex: "#79443b"
+	}, {
+		name: "bondi_blue",
+		hex: "#0095b6"
+	}, {
+		name: "bone",
+		hex: "#e3dac9"
+	}, {
+		name: "boston_university_red",
+		hex: "#c00"
+	}, {
+		name: "bottle_green",
+		hex: "#006a4e"
+	}, {
+		name: "boysenberry",
+		hex: "#873260"
+	}, {
+		name: "brandeis_blue",
+		hex: "#0070ff"
+	}, {
+		name: "brass",
+		hex: "#b5a642"
+	}, {
+		name: "brick_red",
+		hex: "#cb4154"
+	}, {
+		name: "bright_cerulean",
+		hex: "#1dacd6"
+	}, {
+		name: "bright_green",
+		hex: "#6f0"
+	}, {
+		name: "bright_lavender",
+		hex: "#bf94e4"
+	}, {
+		name: "bright_maroon",
+		hex: "#c32148"
+	}, {
+		name: "bright_pink",
+		hex: "#ff007f"
+	}, {
+		name: "bright_turquoise",
+		hex: "#08e8de"
+	}, {
+		name: "bright_ube",
+		hex: "#d19fe8"
+	}, {
+		name: "brilliant_lavender",
+		hex: "#f4bbff"
+	}, {
+		name: "brilliant_rose",
+		hex: "#ff55a3"
+	}, {
+		name: "brink_pink",
+		hex: "#fb607f"
+	}, {
+		name: "british_racing_green",
+		hex: "#004225"
+	}, {
+		name: "bronze",
+		hex: "#cd7f32"
+	}, {
+		name: "brown_traditional",
+		hex: "#964b00"
+	}, {
+		name: "brown_web",
+		hex: "#a52a2a"
+	}, {
+		name: "bubble_gum",
+		hex: "#ffc1cc"
+	}, {
+		name: "bubbles",
+		hex: "#e7feff"
+	}, {
+		name: "buff",
+		hex: "#f0dc82"
+	}, {
+		name: "bulgarian_rose",
+		hex: "#480607"
+	}, {
+		name: "burgundy",
+		hex: "#800020"
+	}, {
+		name: "burlywood",
+		hex: "#deb887"
+	}, {
+		name: "burnt_orange",
+		hex: "#c50"
+	}, {
+		name: "burnt_sienna",
+		hex: "#e97451"
+	}, {
+		name: "burnt_umber",
+		hex: "#8a3324"
+	}, {
+		name: "byzantine",
+		hex: "#bd33a4"
+	}, {
+		name: "byzantium",
+		hex: "#702963"
+	}, {
+		name: "cadet",
+		hex: "#536872"
+	}, {
+		name: "cadet_blue",
+		hex: "#5f9ea0"
+	}, {
+		name: "cadet_grey",
+		hex: "#91a3b0"
+	}, {
+		name: "cadmium_green",
+		hex: "#006b3c"
+	}, {
+		name: "cadmium_orange",
+		hex: "#ed872d"
+	}, {
+		name: "cadmium_red",
+		hex: "#e30022"
+	}, {
+		name: "cadmium_yellow",
+		hex: "#fff600"
+	}, {
+		name: "caf_au_lait",
+		hex: "#a67b5b"
+	}, {
+		name: "caf_noir",
+		hex: "#4b3621"
+	}, {
+		name: "cal_poly_green",
+		hex: "#1e4d2b"
+	}, {
+		name: "cambridge_blue",
+		hex: "#a3c1ad"
+	}, {
+		name: "camel",
+		hex: "#c19a6b"
+	}, {
+		name: "cameo_pink",
+		hex: "#efbbcc"
+	}, {
+		name: "camouflage_green",
+		hex: "#78866b"
+	}, {
+		name: "canary_yellow",
+		hex: "#ffef00"
+	}, {
+		name: "candy_apple_red",
+		hex: "#ff0800"
+	}, {
+		name: "candy_pink",
+		hex: "#e4717a"
+	}, {
+		name: "capri",
+		hex: "#00bfff"
+	}, {
+		name: "caput_mortuum",
+		hex: "#592720"
+	}, {
+		name: "cardinal",
+		hex: "#c41e3a"
+	}, {
+		name: "caribbean_green",
+		hex: "#0c9"
+	}, {
+		name: "carmine",
+		hex: "#960018"
+	}, {
+		name: "carmine_m_p",
+		hex: "#d70040"
+	}, {
+		name: "carmine_pink",
+		hex: "#eb4c42"
+	}, {
+		name: "carmine_red",
+		hex: "#ff0038"
+	}, {
+		name: "carnation_pink",
+		hex: "#ffa6c9"
+	}, {
+		name: "carnelian",
+		hex: "#b31b1b"
+	}, {
+		name: "carolina_blue",
+		hex: "#99badd"
+	}, {
+		name: "carrot_orange",
+		hex: "#ed9121"
+	}, {
+		name: "catalina_blue",
+		hex: "#062a78"
+	}, {
+		name: "ceil",
+		hex: "#92a1cf"
+	}, {
+		name: "celadon",
+		hex: "#ace1af"
+	}, {
+		name: "celadon_blue",
+		hex: "#007ba7"
+	}, {
+		name: "celadon_green",
+		hex: "#2f847c"
+	}, {
+		name: "celeste_colour",
+		hex: "#b2ffff"
+	}, {
+		name: "celestial_blue",
+		hex: "#4997d0"
+	}, {
+		name: "cerise",
+		hex: "#de3163"
+	}, {
+		name: "cerise_pink",
+		hex: "#ec3b83"
+	}, {
+		name: "cerulean",
+		hex: "#007ba7"
+	}, {
+		name: "cerulean_blue",
+		hex: "#2a52be"
+	}, {
+		name: "cerulean_frost",
+		hex: "#6d9bc3"
+	}, {
+		name: "cg_blue",
+		hex: "#007aa5"
+	}, {
+		name: "cg_red",
+		hex: "#e03c31"
+	}, {
+		name: "chamoisee",
+		hex: "#a0785a"
+	}, {
+		name: "champagne",
+		hex: "#fad6a5"
+	}, {
+		name: "charcoal",
+		hex: "#36454f"
+	}, {
+		name: "charm_pink",
+		hex: "#e68fac"
+	}, {
+		name: "chartreuse_traditional",
+		hex: "#dfff00"
+	}, {
+		name: "chartreuse_web",
+		hex: "#7fff00"
+	}, {
+		name: "cherry",
+		hex: "#de3163"
+	}, {
+		name: "cherry_blossom_pink",
+		hex: "#ffb7c5"
+	}, {
+		name: "chestnut",
+		hex: "#cd5c5c"
+	}, {
+		name: "china_pink",
+		hex: "#de6fa1"
+	}, {
+		name: "china_rose",
+		hex: "#a8516e"
+	}, {
+		name: "chinese_red",
+		hex: "#aa381e"
+	}, {
+		name: "chocolate_traditional",
+		hex: "#7b3f00"
+	}, {
+		name: "chocolate_web",
+		hex: "#d2691e"
+	}, {
+		name: "chrome_yellow",
+		hex: "#ffa700"
+	}, {
+		name: "cinereous",
+		hex: "#98817b"
+	}, {
+		name: "cinnabar",
+		hex: "#e34234"
+	}, {
+		name: "cinnamon",
+		hex: "#d2691e"
+	}, {
+		name: "citrine",
+		hex: "#e4d00a"
+	}, {
+		name: "classic_rose",
+		hex: "#fbcce7"
+	}, {
+		name: "cobalt",
+		hex: "#0047ab"
+	}, {
+		name: "cocoa_brown",
+		hex: "#d2691e"
+	}, {
+		name: "coffee",
+		hex: "#6f4e37"
+	}, {
+		name: "columbia_blue",
+		hex: "#9bddff"
+	}, {
+		name: "congo_pink",
+		hex: "#f88379"
+	}, {
+		name: "cool_black",
+		hex: "#002e63"
+	}, {
+		name: "cool_grey",
+		hex: "#8c92ac"
+	}, {
+		name: "copper",
+		hex: "#b87333"
+	}, {
+		name: "copper_crayola",
+		hex: "#da8a67"
+	}, {
+		name: "copper_penny",
+		hex: "#ad6f69"
+	}, {
+		name: "copper_red",
+		hex: "#cb6d51"
+	}, {
+		name: "copper_rose",
+		hex: "#966"
+	}, {
+		name: "coquelicot",
+		hex: "#ff3800"
+	}, {
+		name: "coral",
+		hex: "#ff7f50"
+	}, {
+		name: "coral_pink",
+		hex: "#f88379"
+	}, {
+		name: "coral_red",
+		hex: "#ff4040"
+	}, {
+		name: "cordovan",
+		hex: "#893f45"
+	}, {
+		name: "corn",
+		hex: "#fbec5d"
+	}, {
+		name: "cornell_red",
+		hex: "#b31b1b"
+	}, {
+		name: "cornflower_blue",
+		hex: "#6495ed"
+	}, {
+		name: "cornsilk",
+		hex: "#fff8dc"
+	}, {
+		name: "cosmic_latte",
+		hex: "#fff8e7"
+	}, {
+		name: "cotton_candy",
+		hex: "#ffbcd9"
+	}, {
+		name: "cream",
+		hex: "#fffdd0"
+	}, {
+		name: "crimson",
+		hex: "#dc143c"
+	}, {
+		name: "crimson_glory",
+		hex: "#be0032"
+	}, {
+		name: "cyan",
+		hex: "#0ff"
+	}, {
+		name: "cyan_process",
+		hex: "#00b7eb"
+	}, {
+		name: "daffodil",
+		hex: "#ffff31"
+	}, {
+		name: "dandelion",
+		hex: "#f0e130"
+	}, {
+		name: "dark_blue",
+		hex: "#00008b"
+	}, {
+		name: "dark_brown",
+		hex: "#654321"
+	}, {
+		name: "dark_byzantium",
+		hex: "#5d3954"
+	}, {
+		name: "dark_candy_apple_red",
+		hex: "#a40000"
+	}, {
+		name: "dark_cerulean",
+		hex: "#08457e"
+	}, {
+		name: "dark_chestnut",
+		hex: "#986960"
+	}, {
+		name: "dark_coral",
+		hex: "#cd5b45"
+	}, {
+		name: "dark_cyan",
+		hex: "#008b8b"
+	}, {
+		name: "dark_electric_blue",
+		hex: "#536878"
+	}, {
+		name: "dark_goldenrod",
+		hex: "#b8860b"
+	}, {
+		name: "dark_gray",
+		hex: "#a9a9a9"
+	}, {
+		name: "dark_green",
+		hex: "#013220"
+	}, {
+		name: "dark_imperial_blue",
+		hex: "#00416a"
+	}, {
+		name: "dark_jungle_green",
+		hex: "#1a2421"
+	}, {
+		name: "dark_khaki",
+		hex: "#bdb76b"
+	}, {
+		name: "dark_lava",
+		hex: "#483c32"
+	}, {
+		name: "dark_lavender",
+		hex: "#734f96"
+	}, {
+		name: "dark_magenta",
+		hex: "#8b008b"
+	}, {
+		name: "dark_midnight_blue",
+		hex: "#036"
+	}, {
+		name: "dark_olive_green",
+		hex: "#556b2f"
+	}, {
+		name: "dark_orange",
+		hex: "#ff8c00"
+	}, {
+		name: "dark_orchid",
+		hex: "#9932cc"
+	}, {
+		name: "dark_pastel_blue",
+		hex: "#779ecb"
+	}, {
+		name: "dark_pastel_green",
+		hex: "#03c03c"
+	}, {
+		name: "dark_pastel_purple",
+		hex: "#966fd6"
+	}, {
+		name: "dark_pastel_red",
+		hex: "#c23b22"
+	}, {
+		name: "dark_pink",
+		hex: "#e75480"
+	}, {
+		name: "dark_powder_blue",
+		hex: "#039"
+	}, {
+		name: "dark_raspberry",
+		hex: "#872657"
+	}, {
+		name: "dark_red",
+		hex: "#8b0000"
+	}, {
+		name: "dark_salmon",
+		hex: "#e9967a"
+	}, {
+		name: "dark_scarlet",
+		hex: "#560319"
+	}, {
+		name: "dark_sea_green",
+		hex: "#8fbc8f"
+	}, {
+		name: "dark_sienna",
+		hex: "#3c1414"
+	}, {
+		name: "dark_slate_blue",
+		hex: "#483d8b"
+	}, {
+		name: "dark_slate_gray",
+		hex: "#2f4f4f"
+	}, {
+		name: "dark_spring_green",
+		hex: "#177245"
+	}, {
+		name: "dark_tan",
+		hex: "#918151"
+	}, {
+		name: "dark_tangerine",
+		hex: "#ffa812"
+	}, {
+		name: "dark_taupe",
+		hex: "#483c32"
+	}, {
+		name: "dark_terra_cotta",
+		hex: "#cc4e5c"
+	}, {
+		name: "dark_turquoise",
+		hex: "#00ced1"
+	}, {
+		name: "dark_violet",
+		hex: "#9400d3"
+	}, {
+		name: "dark_yellow",
+		hex: "#9b870c"
+	}, {
+		name: "dartmouth_green",
+		hex: "#00703c"
+	}, {
+		name: "davy_s_grey",
+		hex: "#555"
+	}, {
+		name: "debian_red",
+		hex: "#d70a53"
+	}, {
+		name: "deep_carmine",
+		hex: "#a9203e"
+	}, {
+		name: "deep_carmine_pink",
+		hex: "#ef3038"
+	}, {
+		name: "deep_carrot_orange",
+		hex: "#e9692c"
+	}, {
+		name: "deep_cerise",
+		hex: "#da3287"
+	}, {
+		name: "deep_champagne",
+		hex: "#fad6a5"
+	}, {
+		name: "deep_chestnut",
+		hex: "#b94e48"
+	}, {
+		name: "deep_coffee",
+		hex: "#704241"
+	}, {
+		name: "deep_fuchsia",
+		hex: "#c154c1"
+	}, {
+		name: "deep_jungle_green",
+		hex: "#004b49"
+	}, {
+		name: "deep_lilac",
+		hex: "#95b"
+	}, {
+		name: "deep_magenta",
+		hex: "#c0c"
+	}, {
+		name: "deep_peach",
+		hex: "#ffcba4"
+	}, {
+		name: "deep_pink",
+		hex: "#ff1493"
+	}, {
+		name: "deep_ruby",
+		hex: "#843f5b"
+	}, {
+		name: "deep_saffron",
+		hex: "#f93"
+	}, {
+		name: "deep_sky_blue",
+		hex: "#00bfff"
+	}, {
+		name: "deep_tuscan_red",
+		hex: "#66424d"
+	}, {
+		name: "denim",
+		hex: "#1560bd"
+	}, {
+		name: "desert",
+		hex: "#c19a6b"
+	}, {
+		name: "desert_sand",
+		hex: "#edc9af"
+	}, {
+		name: "dim_gray",
+		hex: "#696969"
+	}, {
+		name: "dodger_blue",
+		hex: "#1e90ff"
+	}, {
+		name: "dogwood_rose",
+		hex: "#d71868"
+	}, {
+		name: "dollar_bill",
+		hex: "#85bb65"
+	}, {
+		name: "drab",
+		hex: "#967117"
+	}, {
+		name: "duke_blue",
+		hex: "#00009c"
+	}, {
+		name: "earth_yellow",
+		hex: "#e1a95f"
+	}, {
+		name: "ebony",
+		hex: "#555d50"
+	}, {
+		name: "ecru",
+		hex: "#c2b280"
+	}, {
+		name: "eggplant",
+		hex: "#614051"
+	}, {
+		name: "eggshell",
+		hex: "#f0ead6"
+	}, {
+		name: "egyptian_blue",
+		hex: "#1034a6"
+	}, {
+		name: "electric_blue",
+		hex: "#7df9ff"
+	}, {
+		name: "electric_crimson",
+		hex: "#ff003f"
+	}, {
+		name: "electric_cyan",
+		hex: "#0ff"
+	}, {
+		name: "electric_green",
+		hex: "#0f0"
+	}, {
+		name: "electric_indigo",
+		hex: "#6f00ff"
+	}, {
+		name: "electric_lavender",
+		hex: "#f4bbff"
+	}, {
+		name: "electric_lime",
+		hex: "#cf0"
+	}, {
+		name: "electric_purple",
+		hex: "#bf00ff"
+	}, {
+		name: "electric_ultramarine",
+		hex: "#3f00ff"
+	}, {
+		name: "electric_violet",
+		hex: "#8f00ff"
+	}, {
+		name: "electric_yellow",
+		hex: "#ff0"
+	}, {
+		name: "emerald",
+		hex: "#50c878"
+	}, {
+		name: "english_lavender",
+		hex: "#b48395"
+	}, {
+		name: "eton_blue",
+		hex: "#96c8a2"
+	}, {
+		name: "fallow",
+		hex: "#c19a6b"
+	}, {
+		name: "falu_red",
+		hex: "#801818"
+	}, {
+		name: "fandango",
+		hex: "#b53389"
+	}, {
+		name: "fashion_fuchsia",
+		hex: "#f400a1"
+	}, {
+		name: "fawn",
+		hex: "#e5aa70"
+	}, {
+		name: "feldgrau",
+		hex: "#4d5d53"
+	}, {
+		name: "fern_green",
+		hex: "#4f7942"
+	}, {
+		name: "ferrari_red",
+		hex: "#ff2800"
+	}, {
+		name: "field_drab",
+		hex: "#6c541e"
+	}, {
+		name: "fire_engine_red",
+		hex: "#ce2029"
+	}, {
+		name: "firebrick",
+		hex: "#b22222"
+	}, {
+		name: "flame",
+		hex: "#e25822"
+	}, {
+		name: "flamingo_pink",
+		hex: "#fc8eac"
+	}, {
+		name: "flavescent",
+		hex: "#f7e98e"
+	}, {
+		name: "flax",
+		hex: "#eedc82"
+	}, {
+		name: "floral_white",
+		hex: "#fffaf0"
+	}, {
+		name: "fluorescent_orange",
+		hex: "#ffbf00"
+	}, {
+		name: "fluorescent_pink",
+		hex: "#ff1493"
+	}, {
+		name: "fluorescent_yellow",
+		hex: "#cf0"
+	}, {
+		name: "folly",
+		hex: "#ff004f"
+	}, {
+		name: "forest_green_traditional",
+		hex: "#014421"
+	}, {
+		name: "forest_green_web",
+		hex: "#228b22"
+	}, {
+		name: "french_beige",
+		hex: "#a67b5b"
+	}, {
+		name: "french_blue",
+		hex: "#0072bb"
+	}, {
+		name: "french_lilac",
+		hex: "#86608e"
+	}, {
+		name: "french_lime",
+		hex: "#cf0"
+	}, {
+		name: "french_raspberry",
+		hex: "#c72c48"
+	}, {
+		name: "french_rose",
+		hex: "#f64a8a"
+	}, {
+		name: "fuchsia",
+		hex: "#f0f"
+	}, {
+		name: "fuchsia_crayola",
+		hex: "#c154c1"
+	}, {
+		name: "fuchsia_pink",
+		hex: "#f7f"
+	}, {
+		name: "fuchsia_rose",
+		hex: "#c74375"
+	}, {
+		name: "fulvous",
+		hex: "#e48400"
+	}, {
+		name: "fuzzy_wuzzy",
+		hex: "#c66"
+	}, {
+		name: "gainsboro",
+		hex: "#dcdcdc"
+	}, {
+		name: "gamboge",
+		hex: "#e49b0f"
+	}, {
+		name: "ghost_white",
+		hex: "#f8f8ff"
+	}, {
+		name: "ginger",
+		hex: "#b06500"
+	}, {
+		name: "glaucous",
+		hex: "#6082b6"
+	}, {
+		name: "glitter",
+		hex: "#e6e8fa"
+	}, {
+		name: "gold_metallic",
+		hex: "#d4af37"
+	}, {
+		name: "gold_web_golden",
+		hex: "#ffd700"
+	}, {
+		name: "golden_brown",
+		hex: "#996515"
+	}, {
+		name: "golden_poppy",
+		hex: "#fcc200"
+	}, {
+		name: "golden_yellow",
+		hex: "#ffdf00"
+	}, {
+		name: "goldenrod",
+		hex: "#daa520"
+	}, {
+		name: "granny_smith_apple",
+		hex: "#a8e4a0"
+	}, {
+		name: "gray",
+		hex: "#808080"
+	}, {
+		name: "gray_asparagus",
+		hex: "#465945"
+	}, {
+		name: "gray_html_css_gray",
+		hex: "#808080"
+	}, {
+		name: "gray_x11_gray",
+		hex: "#bebebe"
+	}, {
+		name: "green_color_wheel_x11_green",
+		hex: "#0f0"
+	}, {
+		name: "green_crayola",
+		hex: "#1cac78"
+	}, {
+		name: "green_html_css_green",
+		hex: "#008000"
+	}, {
+		name: "green_munsell",
+		hex: "#00a877"
+	}, {
+		name: "green_ncs",
+		hex: "#009f6b"
+	}, {
+		name: "green_pigment",
+		hex: "#00a550"
+	}, {
+		name: "green_ryb",
+		hex: "#66b032"
+	}, {
+		name: "green_yellow",
+		hex: "#adff2f"
+	}, {
+		name: "grullo",
+		hex: "#a99a86"
+	}, {
+		name: "guppie_green",
+		hex: "#00ff7f"
+	}, {
+		name: "halay_be",
+		hex: "#663854"
+	}, {
+		name: "han_blue",
+		hex: "#446ccf"
+	}, {
+		name: "han_purple",
+		hex: "#5218fa"
+	}, {
+		name: "hansa_yellow",
+		hex: "#e9d66b"
+	}, {
+		name: "harlequin",
+		hex: "#3fff00"
+	}, {
+		name: "harvard_crimson",
+		hex: "#c90016"
+	}, {
+		name: "harvest_gold",
+		hex: "#da9100"
+	}, {
+		name: "heart_gold",
+		hex: "#808000"
+	}, {
+		name: "heliotrope",
+		hex: "#df73ff"
+	}, {
+		name: "hollywood_cerise",
+		hex: "#f400a1"
+	}, {
+		name: "honeydew",
+		hex: "#f0fff0"
+	}, {
+		name: "honolulu_blue",
+		hex: "#007fbf"
+	}, {
+		name: "hooker_s_green",
+		hex: "#49796b"
+	}, {
+		name: "hot_magenta",
+		hex: "#ff1dce"
+	}, {
+		name: "hot_pink",
+		hex: "#ff69b4"
+	}, {
+		name: "hunter_green",
+		hex: "#355e3b"
+	}, {
+		name: "iceberg",
+		hex: "#71a6d2"
+	}, {
+		name: "icterine",
+		hex: "#fcf75e"
+	}, {
+		name: "imperial_blue",
+		hex: "#002395"
+	}, {
+		name: "inchworm",
+		hex: "#b2ec5d"
+	}, {
+		name: "india_green",
+		hex: "#138808"
+	}, {
+		name: "indian_red",
+		hex: "#cd5c5c"
+	}, {
+		name: "indian_yellow",
+		hex: "#e3a857"
+	}, {
+		name: "indigo",
+		hex: "#6f00ff"
+	}, {
+		name: "indigo_dye",
+		hex: "#00416a"
+	}, {
+		name: "indigo_web",
+		hex: "#4b0082"
+	}, {
+		name: "international_klein_blue",
+		hex: "#002fa7"
+	}, {
+		name: "international_orange_aerospace",
+		hex: "#ff4f00"
+	}, {
+		name: "international_orange_engineering",
+		hex: "#ba160c"
+	}, {
+		name: "international_orange_golden_gate_bridge",
+		hex: "#c0362c"
+	}, {
+		name: "iris",
+		hex: "#5a4fcf"
+	}, {
+		name: "isabelline",
+		hex: "#f4f0ec"
+	}, {
+		name: "islamic_green",
+		hex: "#009000"
+	}, {
+		name: "ivory",
+		hex: "#fffff0"
+	}, {
+		name: "jade",
+		hex: "#00a86b"
+	}, {
+		name: "jasmine",
+		hex: "#f8de7e"
+	}, {
+		name: "jasper",
+		hex: "#d73b3e"
+	}, {
+		name: "jazzberry_jam",
+		hex: "#a50b5e"
+	}, {
+		name: "jet",
+		hex: "#343434"
+	}, {
+		name: "jonquil",
+		hex: "#fada5e"
+	}, {
+		name: "june_bud",
+		hex: "#bdda57"
+	}, {
+		name: "jungle_green",
+		hex: "#29ab87"
+	}, {
+		name: "kelly_green",
+		hex: "#4cbb17"
+	}, {
+		name: "kenyan_copper",
+		hex: "#7c1c05"
+	}, {
+		name: "khaki_html_css_khaki",
+		hex: "#c3b091"
+	}, {
+		name: "khaki_x11_light_khaki",
+		hex: "#f0e68c"
+	}, {
+		name: "ku_crimson",
+		hex: "#e8000d"
+	}, {
+		name: "la_salle_green",
+		hex: "#087830"
+	}, {
+		name: "languid_lavender",
+		hex: "#d6cadd"
+	}, {
+		name: "lapis_lazuli",
+		hex: "#26619c"
+	}, {
+		name: "laser_lemon",
+		hex: "#fefe22"
+	}, {
+		name: "laurel_green",
+		hex: "#a9ba9d"
+	}, {
+		name: "lava",
+		hex: "#cf1020"
+	}, {
+		name: "lavender_blue",
+		hex: "#ccf"
+	}, {
+		name: "lavender_blush",
+		hex: "#fff0f5"
+	}, {
+		name: "lavender_floral",
+		hex: "#b57edc"
+	}, {
+		name: "lavender_gray",
+		hex: "#c4c3d0"
+	}, {
+		name: "lavender_indigo",
+		hex: "#9457eb"
+	}, {
+		name: "lavender_magenta",
+		hex: "#ee82ee"
+	}, {
+		name: "lavender_mist",
+		hex: "#e6e6fa"
+	}, {
+		name: "lavender_pink",
+		hex: "#fbaed2"
+	}, {
+		name: "lavender_purple",
+		hex: "#967bb6"
+	}, {
+		name: "lavender_rose",
+		hex: "#fba0e3"
+	}, {
+		name: "lavender_web",
+		hex: "#e6e6fa"
+	}, {
+		name: "lawn_green",
+		hex: "#7cfc00"
+	}, {
+		name: "lemon",
+		hex: "#fff700"
+	}, {
+		name: "lemon_chiffon",
+		hex: "#fffacd"
+	}, {
+		name: "lemon_lime",
+		hex: "#e3ff00"
+	}, {
+		name: "licorice",
+		hex: "#1a1110"
+	}, {
+		name: "light_apricot",
+		hex: "#fdd5b1"
+	}, {
+		name: "light_blue",
+		hex: "#add8e6"
+	}, {
+		name: "light_brown",
+		hex: "#b5651d"
+	}, {
+		name: "light_carmine_pink",
+		hex: "#e66771"
+	}, {
+		name: "light_coral",
+		hex: "#f08080"
+	}, {
+		name: "light_cornflower_blue",
+		hex: "#93ccea"
+	}, {
+		name: "light_crimson",
+		hex: "#f56991"
+	}, {
+		name: "light_cyan",
+		hex: "#e0ffff"
+	}, {
+		name: "light_fuchsia_pink",
+		hex: "#f984ef"
+	}, {
+		name: "light_goldenrod_yellow",
+		hex: "#fafad2"
+	}, {
+		name: "light_gray",
+		hex: "#d3d3d3"
+	}, {
+		name: "light_green",
+		hex: "#90ee90"
+	}, {
+		name: "light_khaki",
+		hex: "#f0e68c"
+	}, {
+		name: "light_pastel_purple",
+		hex: "#b19cd9"
+	}, {
+		name: "light_pink",
+		hex: "#ffb6c1"
+	}, {
+		name: "light_red_ochre",
+		hex: "#e97451"
+	}, {
+		name: "light_salmon",
+		hex: "#ffa07a"
+	}, {
+		name: "light_salmon_pink",
+		hex: "#f99"
+	}, {
+		name: "light_sea_green",
+		hex: "#20b2aa"
+	}, {
+		name: "light_sky_blue",
+		hex: "#87cefa"
+	}, {
+		name: "light_slate_gray",
+		hex: "#789"
+	}, {
+		name: "light_taupe",
+		hex: "#b38b6d"
+	}, {
+		name: "light_thulian_pink",
+		hex: "#e68fac"
+	}, {
+		name: "light_yellow",
+		hex: "#ffffe0"
+	}, {
+		name: "lilac",
+		hex: "#c8a2c8"
+	}, {
+		name: "lime_color_wheel",
+		hex: "#bfff00"
+	}, {
+		name: "lime_green",
+		hex: "#32cd32"
+	}, {
+		name: "lime_web_x11_green",
+		hex: "#0f0"
+	}, {
+		name: "limerick",
+		hex: "#9dc209"
+	}, {
+		name: "lincoln_green",
+		hex: "#195905"
+	}, {
+		name: "linen",
+		hex: "#faf0e6"
+	}, {
+		name: "lion",
+		hex: "#c19a6b"
+	}, {
+		name: "little_boy_blue",
+		hex: "#6ca0dc"
+	}, {
+		name: "liver",
+		hex: "#534b4f"
+	}, {
+		name: "lust",
+		hex: "#e62020"
+	}, {
+		name: "magenta",
+		hex: "#f0f"
+	}, {
+		name: "magenta_dye",
+		hex: "#ca1f7b"
+	}, {
+		name: "magenta_process",
+		hex: "#ff0090"
+	}, {
+		name: "magic_mint",
+		hex: "#aaf0d1"
+	}, {
+		name: "magnolia",
+		hex: "#f8f4ff"
+	}, {
+		name: "mahogany",
+		hex: "#c04000"
+	}, {
+		name: "maize",
+		hex: "#fbec5d"
+	}, {
+		name: "majorelle_blue",
+		hex: "#6050dc"
+	}, {
+		name: "malachite",
+		hex: "#0bda51"
+	}, {
+		name: "manatee",
+		hex: "#979aaa"
+	}, {
+		name: "mango_tango",
+		hex: "#ff8243"
+	}, {
+		name: "mantis",
+		hex: "#74c365"
+	}, {
+		name: "mardi_gras",
+		hex: "#880085"
+	}, {
+		name: "maroon_crayola",
+		hex: "#c32148"
+	}, {
+		name: "maroon_html_css",
+		hex: "#800000"
+	}, {
+		name: "maroon_x11",
+		hex: "#b03060"
+	}, {
+		name: "mauve",
+		hex: "#e0b0ff"
+	}, {
+		name: "mauve_taupe",
+		hex: "#915f6d"
+	}, {
+		name: "mauvelous",
+		hex: "#ef98aa"
+	}, {
+		name: "maya_blue",
+		hex: "#73c2fb"
+	}, {
+		name: "meat_brown",
+		hex: "#e5b73b"
+	}, {
+		name: "medium_aquamarine",
+		hex: "#6da"
+	}, {
+		name: "medium_blue",
+		hex: "#0000cd"
+	}, {
+		name: "medium_candy_apple_red",
+		hex: "#e2062c"
+	}, {
+		name: "medium_carmine",
+		hex: "#af4035"
+	}, {
+		name: "medium_champagne",
+		hex: "#f3e5ab"
+	}, {
+		name: "medium_electric_blue",
+		hex: "#035096"
+	}, {
+		name: "medium_jungle_green",
+		hex: "#1c352d"
+	}, {
+		name: "medium_lavender_magenta",
+		hex: "#dda0dd"
+	}, {
+		name: "medium_orchid",
+		hex: "#ba55d3"
+	}, {
+		name: "medium_persian_blue",
+		hex: "#0067a5"
+	}, {
+		name: "medium_purple",
+		hex: "#9370db"
+	}, {
+		name: "medium_red_violet",
+		hex: "#bb3385"
+	}, {
+		name: "medium_ruby",
+		hex: "#aa4069"
+	}, {
+		name: "medium_sea_green",
+		hex: "#3cb371"
+	}, {
+		name: "medium_slate_blue",
+		hex: "#7b68ee"
+	}, {
+		name: "medium_spring_bud",
+		hex: "#c9dc87"
+	}, {
+		name: "medium_spring_green",
+		hex: "#00fa9a"
+	}, {
+		name: "medium_taupe",
+		hex: "#674c47"
+	}, {
+		name: "medium_turquoise",
+		hex: "#48d1cc"
+	}, {
+		name: "medium_tuscan_red",
+		hex: "#79443b"
+	}, {
+		name: "medium_vermilion",
+		hex: "#d9603b"
+	}, {
+		name: "medium_violet_red",
+		hex: "#c71585"
+	}, {
+		name: "mellow_apricot",
+		hex: "#f8b878"
+	}, {
+		name: "mellow_yellow",
+		hex: "#f8de7e"
+	}, {
+		name: "melon",
+		hex: "#fdbcb4"
+	}, {
+		name: "midnight_blue",
+		hex: "#191970"
+	}, {
+		name: "midnight_green_eagle_green",
+		hex: "#004953"
+	}, {
+		name: "mikado_yellow",
+		hex: "#ffc40c"
+	}, {
+		name: "mint",
+		hex: "#3eb489"
+	}, {
+		name: "mint_cream",
+		hex: "#f5fffa"
+	}, {
+		name: "mint_green",
+		hex: "#98ff98"
+	}, {
+		name: "misty_rose",
+		hex: "#ffe4e1"
+	}, {
+		name: "moccasin",
+		hex: "#faebd7"
+	}, {
+		name: "mode_beige",
+		hex: "#967117"
+	}, {
+		name: "moonstone_blue",
+		hex: "#73a9c2"
+	}, {
+		name: "mordant_red_19",
+		hex: "#ae0c00"
+	}, {
+		name: "moss_green",
+		hex: "#addfad"
+	}, {
+		name: "mountain_meadow",
+		hex: "#30ba8f"
+	}, {
+		name: "mountbatten_pink",
+		hex: "#997a8d"
+	}, {
+		name: "msu_green",
+		hex: "#18453b"
+	}, {
+		name: "mulberry",
+		hex: "#c54b8c"
+	}, {
+		name: "mustard",
+		hex: "#ffdb58"
+	}, {
+		name: "myrtle",
+		hex: "#21421e"
+	}, {
+		name: "nadeshiko_pink",
+		hex: "#f6adc6"
+	}, {
+		name: "napier_green",
+		hex: "#2a8000"
+	}, {
+		name: "naples_yellow",
+		hex: "#fada5e"
+	}, {
+		name: "navajo_white",
+		hex: "#ffdead"
+	}, {
+		name: "navy_blue",
+		hex: "#000080"
+	}, {
+		name: "neon_carrot",
+		hex: "#ffa343"
+	}, {
+		name: "neon_fuchsia",
+		hex: "#fe4164"
+	}, {
+		name: "neon_green",
+		hex: "#39ff14"
+	}, {
+		name: "new_york_pink",
+		hex: "#d7837f"
+	}, {
+		name: "non_photo_blue",
+		hex: "#a4dded"
+	}, {
+		name: "north_texas_green",
+		hex: "#059033"
+	}, {
+		name: "ocean_boat_blue",
+		hex: "#0077be"
+	}, {
+		name: "ochre",
+		hex: "#c72"
+	}, {
+		name: "office_green",
+		hex: "#008000"
+	}, {
+		name: "old_gold",
+		hex: "#cfb53b"
+	}, {
+		name: "old_lace",
+		hex: "#fdf5e6"
+	}, {
+		name: "old_lavender",
+		hex: "#796878"
+	}, {
+		name: "old_mauve",
+		hex: "#673147"
+	}, {
+		name: "old_rose",
+		hex: "#c08081"
+	}, {
+		name: "olive",
+		hex: "#808000"
+	}, {
+		name: "olive_drab_7",
+		hex: "#3c341f"
+	}, {
+		name: "olive_drab_web_olive_drab_3",
+		hex: "#6b8e23"
+	}, {
+		name: "olivine",
+		hex: "#9ab973"
+	}, {
+		name: "onyx",
+		hex: "#353839"
+	}, {
+		name: "opera_mauve",
+		hex: "#b784a7"
+	}, {
+		name: "orange_color_wheel",
+		hex: "#ff7f00"
+	}, {
+		name: "orange_peel",
+		hex: "#ff9f00"
+	}, {
+		name: "orange_red",
+		hex: "#ff4500"
+	}, {
+		name: "orange_ryb",
+		hex: "#fb9902"
+	}, {
+		name: "orange_web_color",
+		hex: "#ffa500"
+	}, {
+		name: "orchid",
+		hex: "#da70d6"
+	}, {
+		name: "otter_brown",
+		hex: "#654321"
+	}, {
+		name: "ou_crimson_red",
+		hex: "#900"
+	}, {
+		name: "outer_space",
+		hex: "#414a4c"
+	}, {
+		name: "outrageous_orange",
+		hex: "#ff6e4a"
+	}, {
+		name: "oxford_blue",
+		hex: "#002147"
+	}, {
+		name: "pakistan_green",
+		hex: "#060"
+	}, {
+		name: "palatinate_blue",
+		hex: "#273be2"
+	}, {
+		name: "palatinate_purple",
+		hex: "#682860"
+	}, {
+		name: "pale_aqua",
+		hex: "#bcd4e6"
+	}, {
+		name: "pale_blue",
+		hex: "#afeeee"
+	}, {
+		name: "pale_brown",
+		hex: "#987654"
+	}, {
+		name: "pale_carmine",
+		hex: "#af4035"
+	}, {
+		name: "pale_cerulean",
+		hex: "#9bc4e2"
+	}, {
+		name: "pale_chestnut",
+		hex: "#ddadaf"
+	}, {
+		name: "pale_copper",
+		hex: "#da8a67"
+	}, {
+		name: "pale_cornflower_blue",
+		hex: "#abcdef"
+	}, {
+		name: "pale_gold",
+		hex: "#e6be8a"
+	}, {
+		name: "pale_goldenrod",
+		hex: "#eee8aa"
+	}, {
+		name: "pale_green",
+		hex: "#98fb98"
+	}, {
+		name: "pale_lavender",
+		hex: "#dcd0ff"
+	}, {
+		name: "pale_magenta",
+		hex: "#f984e5"
+	}, {
+		name: "pale_pink",
+		hex: "#fadadd"
+	}, {
+		name: "pale_plum",
+		hex: "#dda0dd"
+	}, {
+		name: "pale_red_violet",
+		hex: "#db7093"
+	}, {
+		name: "pale_robin_egg_blue",
+		hex: "#96ded1"
+	}, {
+		name: "pale_silver",
+		hex: "#c9c0bb"
+	}, {
+		name: "pale_spring_bud",
+		hex: "#ecebbd"
+	}, {
+		name: "pale_taupe",
+		hex: "#bc987e"
+	}, {
+		name: "pale_violet_red",
+		hex: "#db7093"
+	}, {
+		name: "pansy_purple",
+		hex: "#78184a"
+	}, {
+		name: "papaya_whip",
+		hex: "#ffefd5"
+	}, {
+		name: "paris_green",
+		hex: "#50c878"
+	}, {
+		name: "pastel_blue",
+		hex: "#aec6cf"
+	}, {
+		name: "pastel_brown",
+		hex: "#836953"
+	}, {
+		name: "pastel_gray",
+		hex: "#cfcfc4"
+	}, {
+		name: "pastel_green",
+		hex: "#7d7"
+	}, {
+		name: "pastel_magenta",
+		hex: "#f49ac2"
+	}, {
+		name: "pastel_orange",
+		hex: "#ffb347"
+	}, {
+		name: "pastel_pink",
+		hex: "#dea5a4"
+	}, {
+		name: "pastel_purple",
+		hex: "#b39eb5"
+	}, {
+		name: "pastel_red",
+		hex: "#ff6961"
+	}, {
+		name: "pastel_violet",
+		hex: "#cb99c9"
+	}, {
+		name: "pastel_yellow",
+		hex: "#fdfd96"
+	}, {
+		name: "patriarch",
+		hex: "#800080"
+	}, {
+		name: "payne_s_grey",
+		hex: "#536878"
+	}, {
+		name: "peach",
+		hex: "#ffe5b4"
+	}, {
+		name: "peach_crayola",
+		hex: "#ffcba4"
+	}, {
+		name: "peach_orange",
+		hex: "#fc9"
+	}, {
+		name: "peach_puff",
+		hex: "#ffdab9"
+	}, {
+		name: "peach_yellow",
+		hex: "#fadfad"
+	}, {
+		name: "pear",
+		hex: "#d1e231"
+	}, {
+		name: "pearl",
+		hex: "#eae0c8"
+	}, {
+		name: "pearl_aqua",
+		hex: "#88d8c0"
+	}, {
+		name: "pearly_purple",
+		hex: "#b768a2"
+	}, {
+		name: "peridot",
+		hex: "#e6e200"
+	}, {
+		name: "periwinkle",
+		hex: "#ccf"
+	}, {
+		name: "persian_blue",
+		hex: "#1c39bb"
+	}, {
+		name: "persian_green",
+		hex: "#00a693"
+	}, {
+		name: "persian_indigo",
+		hex: "#32127a"
+	}, {
+		name: "persian_orange",
+		hex: "#d99058"
+	}, {
+		name: "persian_pink",
+		hex: "#f77fbe"
+	}, {
+		name: "persian_plum",
+		hex: "#701c1c"
+	}, {
+		name: "persian_red",
+		hex: "#c33"
+	}, {
+		name: "persian_rose",
+		hex: "#fe28a2"
+	}, {
+		name: "persimmon",
+		hex: "#ec5800"
+	}, {
+		name: "peru",
+		hex: "#cd853f"
+	}, {
+		name: "phlox",
+		hex: "#df00ff"
+	}, {
+		name: "phthalo_blue",
+		hex: "#000f89"
+	}, {
+		name: "phthalo_green",
+		hex: "#123524"
+	}, {
+		name: "piggy_pink",
+		hex: "#fddde6"
+	}, {
+		name: "pine_green",
+		hex: "#01796f"
+	}, {
+		name: "pink",
+		hex: "#ffc0cb"
+	}, {
+		name: "pink_lace",
+		hex: "#ffddf4"
+	}, {
+		name: "pink_orange",
+		hex: "#f96"
+	}, {
+		name: "pink_pearl",
+		hex: "#e7accf"
+	}, {
+		name: "pink_sherbet",
+		hex: "#f78fa7"
+	}, {
+		name: "pistachio",
+		hex: "#93c572"
+	}, {
+		name: "platinum",
+		hex: "#e5e4e2"
+	}, {
+		name: "plum_traditional",
+		hex: "#8e4585"
+	}, {
+		name: "plum_web",
+		hex: "#dda0dd"
+	}, {
+		name: "portland_orange",
+		hex: "#ff5a36"
+	}, {
+		name: "powder_blue_web",
+		hex: "#b0e0e6"
+	}, {
+		name: "princeton_orange",
+		hex: "#ff8f00"
+	}, {
+		name: "prune",
+		hex: "#701c1c"
+	}, {
+		name: "prussian_blue",
+		hex: "#003153"
+	}, {
+		name: "psychedelic_purple",
+		hex: "#df00ff"
+	}, {
+		name: "puce",
+		hex: "#c89"
+	}, {
+		name: "pumpkin",
+		hex: "#ff7518"
+	}, {
+		name: "purple_heart",
+		hex: "#69359c"
+	}, {
+		name: "purple_html_css",
+		hex: "#800080"
+	}, {
+		name: "purple_mountain_majesty",
+		hex: "#9678b6"
+	}, {
+		name: "purple_munsell",
+		hex: "#9f00c5"
+	}, {
+		name: "purple_pizzazz",
+		hex: "#fe4eda"
+	}, {
+		name: "purple_taupe",
+		hex: "#50404d"
+	}, {
+		name: "purple_x11",
+		hex: "#a020f0"
+	}, {
+		name: "quartz",
+		hex: "#51484f"
+	}, {
+		name: "rackley",
+		hex: "#5d8aa8"
+	}, {
+		name: "radical_red",
+		hex: "#ff355e"
+	}, {
+		name: "rajah",
+		hex: "#fbab60"
+	}, {
+		name: "raspberry",
+		hex: "#e30b5d"
+	}, {
+		name: "raspberry_glace",
+		hex: "#915f6d"
+	}, {
+		name: "raspberry_pink",
+		hex: "#e25098"
+	}, {
+		name: "raspberry_rose",
+		hex: "#b3446c"
+	}, {
+		name: "raw_umber",
+		hex: "#826644"
+	}, {
+		name: "razzle_dazzle_rose",
+		hex: "#f3c"
+	}, {
+		name: "razzmatazz",
+		hex: "#e3256b"
+	}, {
+		name: "red",
+		hex: "#f00"
+	}, {
+		name: "red_brown",
+		hex: "#a52a2a"
+	}, {
+		name: "red_devil",
+		hex: "#860111"
+	}, {
+		name: "red_munsell",
+		hex: "#f2003c"
+	}, {
+		name: "red_ncs",
+		hex: "#c40233"
+	}, {
+		name: "red_orange",
+		hex: "#ff5349"
+	}, {
+		name: "red_pigment",
+		hex: "#ed1c24"
+	}, {
+		name: "red_ryb",
+		hex: "#fe2712"
+	}, {
+		name: "red_violet",
+		hex: "#c71585"
+	}, {
+		name: "redwood",
+		hex: "#ab4e52"
+	}, {
+		name: "regalia",
+		hex: "#522d80"
+	}, {
+		name: "resolution_blue",
+		hex: "#002387"
+	}, {
+		name: "rich_black",
+		hex: "#004040"
+	}, {
+		name: "rich_brilliant_lavender",
+		hex: "#f1a7fe"
+	}, {
+		name: "rich_carmine",
+		hex: "#d70040"
+	}, {
+		name: "rich_electric_blue",
+		hex: "#0892d0"
+	}, {
+		name: "rich_lavender",
+		hex: "#a76bcf"
+	}, {
+		name: "rich_lilac",
+		hex: "#b666d2"
+	}, {
+		name: "rich_maroon",
+		hex: "#b03060"
+	}, {
+		name: "rifle_green",
+		hex: "#414833"
+	}, {
+		name: "robin_egg_blue",
+		hex: "#0cc"
+	}, {
+		name: "rose",
+		hex: "#ff007f"
+	}, {
+		name: "rose_bonbon",
+		hex: "#f9429e"
+	}, {
+		name: "rose_ebony",
+		hex: "#674846"
+	}, {
+		name: "rose_gold",
+		hex: "#b76e79"
+	}, {
+		name: "rose_madder",
+		hex: "#e32636"
+	}, {
+		name: "rose_pink",
+		hex: "#f6c"
+	}, {
+		name: "rose_quartz",
+		hex: "#aa98a9"
+	}, {
+		name: "rose_taupe",
+		hex: "#905d5d"
+	}, {
+		name: "rose_vale",
+		hex: "#ab4e52"
+	}, {
+		name: "rosewood",
+		hex: "#65000b"
+	}, {
+		name: "rosso_corsa",
+		hex: "#d40000"
+	}, {
+		name: "rosy_brown",
+		hex: "#bc8f8f"
+	}, {
+		name: "royal_azure",
+		hex: "#0038a8"
+	}, {
+		name: "royal_blue_traditional",
+		hex: "#002366"
+	}, {
+		name: "royal_blue_web",
+		hex: "#4169e1"
+	}, {
+		name: "royal_fuchsia",
+		hex: "#ca2c92"
+	}, {
+		name: "royal_purple",
+		hex: "#7851a9"
+	}, {
+		name: "royal_yellow",
+		hex: "#fada5e"
+	}, {
+		name: "rubine_red",
+		hex: "#d10056"
+	}, {
+		name: "ruby",
+		hex: "#e0115f"
+	}, {
+		name: "ruby_red",
+		hex: "#9b111e"
+	}, {
+		name: "ruddy",
+		hex: "#ff0028"
+	}, {
+		name: "ruddy_brown",
+		hex: "#bb6528"
+	}, {
+		name: "ruddy_pink",
+		hex: "#e18e96"
+	}, {
+		name: "rufous",
+		hex: "#a81c07"
+	}, {
+		name: "russet",
+		hex: "#80461b"
+	}, {
+		name: "rust",
+		hex: "#b7410e"
+	}, {
+		name: "rusty_red",
+		hex: "#da2c43"
+	}, {
+		name: "sacramento_state_green",
+		hex: "#00563f"
+	}, {
+		name: "saddle_brown",
+		hex: "#8b4513"
+	}, {
+		name: "safety_orange_blaze_orange",
+		hex: "#ff6700"
+	}, {
+		name: "saffron",
+		hex: "#f4c430"
+	}, {
+		name: "salmon",
+		hex: "#ff8c69"
+	}, {
+		name: "salmon_pink",
+		hex: "#ff91a4"
+	}, {
+		name: "sand",
+		hex: "#c2b280"
+	}, {
+		name: "sand_dune",
+		hex: "#967117"
+	}, {
+		name: "sandstorm",
+		hex: "#ecd540"
+	}, {
+		name: "sandy_brown",
+		hex: "#f4a460"
+	}, {
+		name: "sandy_taupe",
+		hex: "#967117"
+	}, {
+		name: "sangria",
+		hex: "#92000a"
+	}, {
+		name: "sap_green",
+		hex: "#507d2a"
+	}, {
+		name: "sapphire",
+		hex: "#0f52ba"
+	}, {
+		name: "sapphire_blue",
+		hex: "#0067a5"
+	}, {
+		name: "satin_sheen_gold",
+		hex: "#cba135"
+	}, {
+		name: "scarlet",
+		hex: "#ff2400"
+	}, {
+		name: "scarlet_crayola",
+		hex: "#fd0e35"
+	}, {
+		name: "school_bus_yellow",
+		hex: "#ffd800"
+	}, {
+		name: "screamin_green",
+		hex: "#76ff7a"
+	}, {
+		name: "sea_blue",
+		hex: "#006994"
+	}, {
+		name: "sea_green",
+		hex: "#2e8b57"
+	}, {
+		name: "seal_brown",
+		hex: "#321414"
+	}, {
+		name: "seashell",
+		hex: "#fff5ee"
+	}, {
+		name: "selective_yellow",
+		hex: "#ffba00"
+	}, {
+		name: "sepia",
+		hex: "#704214"
+	}, {
+		name: "shadow",
+		hex: "#8a795d"
+	}, {
+		name: "shamrock_green",
+		hex: "#009e60"
+	}, {
+		name: "shocking_pink",
+		hex: "#fc0fc0"
+	}, {
+		name: "shocking_pink_crayola",
+		hex: "#ff6fff"
+	}, {
+		name: "sienna",
+		hex: "#882d17"
+	}, {
+		name: "silver",
+		hex: "#c0c0c0"
+	}, {
+		name: "sinopia",
+		hex: "#cb410b"
+	}, {
+		name: "skobeloff",
+		hex: "#007474"
+	}, {
+		name: "sky_blue",
+		hex: "#87ceeb"
+	}, {
+		name: "sky_magenta",
+		hex: "#cf71af"
+	}, {
+		name: "slate_blue",
+		hex: "#6a5acd"
+	}, {
+		name: "slate_gray",
+		hex: "#708090"
+	}, {
+		name: "smalt_dark_powder_blue",
+		hex: "#039"
+	}, {
+		name: "smokey_topaz",
+		hex: "#933d41"
+	}, {
+		name: "smoky_black",
+		hex: "#100c08"
+	}, {
+		name: "snow",
+		hex: "#fffafa"
+	}, {
+		name: "spiro_disco_ball",
+		hex: "#0fc0fc"
+	}, {
+		name: "spring_bud",
+		hex: "#a7fc00"
+	}, {
+		name: "spring_green",
+		hex: "#00ff7f"
+	}, {
+		name: "st_patrick_s_blue",
+		hex: "#23297a"
+	}, {
+		name: "steel_blue",
+		hex: "#4682b4"
+	}, {
+		name: "stil_de_grain_yellow",
+		hex: "#fada5e"
+	}, {
+		name: "stizza",
+		hex: "#900"
+	}, {
+		name: "stormcloud",
+		hex: "#4f666a"
+	}, {
+		name: "straw",
+		hex: "#e4d96f"
+	}, {
+		name: "sunglow",
+		hex: "#fc3"
+	}, {
+		name: "sunset",
+		hex: "#fad6a5"
+	}, {
+		name: "tan",
+		hex: "#d2b48c"
+	}, {
+		name: "tangelo",
+		hex: "#f94d00"
+	}, {
+		name: "tangerine",
+		hex: "#f28500"
+	}, {
+		name: "tangerine_yellow",
+		hex: "#fc0"
+	}, {
+		name: "tango_pink",
+		hex: "#e4717a"
+	}, {
+		name: "taupe",
+		hex: "#483c32"
+	}, {
+		name: "taupe_gray",
+		hex: "#8b8589"
+	}, {
+		name: "tea_green",
+		hex: "#d0f0c0"
+	}, {
+		name: "tea_rose_orange",
+		hex: "#f88379"
+	}, {
+		name: "tea_rose_rose",
+		hex: "#f4c2c2"
+	}, {
+		name: "teal",
+		hex: "#008080"
+	}, {
+		name: "teal_blue",
+		hex: "#367588"
+	}, {
+		name: "teal_green",
+		hex: "#00827f"
+	}, {
+		name: "telemagenta",
+		hex: "#cf3476"
+	}, {
+		name: "tenn_tawny",
+		hex: "#cd5700"
+	}, {
+		name: "terra_cotta",
+		hex: "#e2725b"
+	}, {
+		name: "thistle",
+		hex: "#d8bfd8"
+	}, {
+		name: "thulian_pink",
+		hex: "#de6fa1"
+	}, {
+		name: "tickle_me_pink",
+		hex: "#fc89ac"
+	}, {
+		name: "tiffany_blue",
+		hex: "#0abab5"
+	}, {
+		name: "tiger_s_eye",
+		hex: "#e08d3c"
+	}, {
+		name: "timberwolf",
+		hex: "#dbd7d2"
+	}, {
+		name: "titanium_yellow",
+		hex: "#eee600"
+	}, {
+		name: "tomato",
+		hex: "#ff6347"
+	}, {
+		name: "toolbox",
+		hex: "#746cc0"
+	}, {
+		name: "topaz",
+		hex: "#ffc87c"
+	}, {
+		name: "tractor_red",
+		hex: "#fd0e35"
+	}, {
+		name: "trolley_grey",
+		hex: "#808080"
+	}, {
+		name: "tropical_rain_forest",
+		hex: "#00755e"
+	}, {
+		name: "true_blue",
+		hex: "#0073cf"
+	}, {
+		name: "tufts_blue",
+		hex: "#417dc1"
+	}, {
+		name: "tumbleweed",
+		hex: "#deaa88"
+	}, {
+		name: "turkish_rose",
+		hex: "#b57281"
+	}, {
+		name: "turquoise",
+		hex: "#30d5c8"
+	}, {
+		name: "turquoise_blue",
+		hex: "#00ffef"
+	}, {
+		name: "turquoise_green",
+		hex: "#a0d6b4"
+	}, {
+		name: "tuscan_red",
+		hex: "#7c4848"
+	}, {
+		name: "twilight_lavender",
+		hex: "#8a496b"
+	}, {
+		name: "tyrian_purple",
+		hex: "#66023c"
+	}, {
+		name: "ua_blue",
+		hex: "#03a"
+	}, {
+		name: "ua_red",
+		hex: "#d9004c"
+	}, {
+		name: "ube",
+		hex: "#8878c3"
+	}, {
+		name: "ucla_blue",
+		hex: "#536895"
+	}, {
+		name: "ucla_gold",
+		hex: "#ffb300"
+	}, {
+		name: "ufo_green",
+		hex: "#3cd070"
+	}, {
+		name: "ultra_pink",
+		hex: "#ff6fff"
+	}, {
+		name: "ultramarine",
+		hex: "#120a8f"
+	}, {
+		name: "ultramarine_blue",
+		hex: "#4166f5"
+	}, {
+		name: "umber",
+		hex: "#635147"
+	}, {
+		name: "unbleached_silk",
+		hex: "#ffddca"
+	}, {
+		name: "united_nations_blue",
+		hex: "#5b92e5"
+	}, {
+		name: "university_of_california_gold",
+		hex: "#b78727"
+	}, {
+		name: "unmellow_yellow",
+		hex: "#ff6"
+	}, {
+		name: "up_forest_green",
+		hex: "#014421"
+	}, {
+		name: "up_maroon",
+		hex: "#7b1113"
+	}, {
+		name: "upsdell_red",
+		hex: "#ae2029"
+	}, {
+		name: "urobilin",
+		hex: "#e1ad21"
+	}, {
+		name: "usafa_blue",
+		hex: "#004f98"
+	}, {
+		name: "usc_cardinal",
+		hex: "#900"
+	}, {
+		name: "usc_gold",
+		hex: "#fc0"
+	}, {
+		name: "utah_crimson",
+		hex: "#d3003f"
+	}, {
+		name: "vanilla",
+		hex: "#f3e5ab"
+	}, {
+		name: "vegas_gold",
+		hex: "#c5b358"
+	}, {
+		name: "venetian_red",
+		hex: "#c80815"
+	}, {
+		name: "verdigris",
+		hex: "#43b3ae"
+	}, {
+		name: "vermilion_cinnabar",
+		hex: "#e34234"
+	}, {
+		name: "vermilion_plochere",
+		hex: "#d9603b"
+	}, {
+		name: "veronica",
+		hex: "#a020f0"
+	}, {
+		name: "violet",
+		hex: "#8f00ff"
+	}, {
+		name: "violet_blue",
+		hex: "#324ab2"
+	}, {
+		name: "violet_color_wheel",
+		hex: "#7f00ff"
+	}, {
+		name: "violet_ryb",
+		hex: "#8601af"
+	}, {
+		name: "violet_web",
+		hex: "#ee82ee"
+	}, {
+		name: "viridian",
+		hex: "#40826d"
+	}, {
+		name: "vivid_auburn",
+		hex: "#922724"
+	}, {
+		name: "vivid_burgundy",
+		hex: "#9f1d35"
+	}, {
+		name: "vivid_cerise",
+		hex: "#da1d81"
+	}, {
+		name: "vivid_tangerine",
+		hex: "#ffa089"
+	}, {
+		name: "vivid_violet",
+		hex: "#9f00ff"
+	}, {
+		name: "warm_black",
+		hex: "#004242"
+	}, {
+		name: "waterspout",
+		hex: "#a4f4f9"
+	}, {
+		name: "wenge",
+		hex: "#645452"
+	}, {
+		name: "wheat",
+		hex: "#f5deb3"
+	}, {
+		name: "white",
+		hex: "#fff"
+	}, {
+		name: "white_smoke",
+		hex: "#f5f5f5"
+	}, {
+		name: "wild_blue_yonder",
+		hex: "#a2add0"
+	}, {
+		name: "wild_strawberry",
+		hex: "#ff43a4"
+	}, {
+		name: "wild_watermelon",
+		hex: "#fc6c85"
+	}, {
+		name: "wine",
+		hex: "#722f37"
+	}, {
+		name: "wine_dregs",
+		hex: "#673147"
+	}, {
+		name: "wisteria",
+		hex: "#c9a0dc"
+	}, {
+		name: "wood_brown",
+		hex: "#c19a6b"
+	}, {
+		name: "xanadu",
+		hex: "#738678"
+	}, {
+		name: "yale_blue",
+		hex: "#0f4d92"
+	}, {
+		name: "yellow",
+		hex: "#ff0"
+	}, {
+		name: "yellow_green",
+		hex: "#9acd32"
+	}, {
+		name: "yellow_munsell",
+		hex: "#efcc00"
+	}, {
+		name: "yellow_ncs",
+		hex: "#ffd300"
+	}, {
+		name: "yellow_orange",
+		hex: "#ffae42"
+	}, {
+		name: "yellow_process",
+		hex: "#ffef00"
+	}, {
+		name: "yellow_ryb",
+		hex: "#fefe33"
+	}, {
+		name: "zaffre",
+		hex: "#0014a8"
+	}, {
+		name: "zinnwaldite_brown",
+		hex: "#2c1608"
+	}]
 }
