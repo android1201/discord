@@ -4,7 +4,7 @@
   "description": "An discord module for discord bots",
   "main": "src/module.js",
   "scripts": {
-    "start": "node ."
+    "start": "node .",
     "test": "node ."
   },
   "repository": {
