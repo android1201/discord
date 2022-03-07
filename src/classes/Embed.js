@@ -6,23 +6,11 @@ module.exports = class Embed extends MessageEmbed {
 	constructor(opts = {}, data = {}) {
 		super(data);
 		var colorList = color_list;
-		this.list = [];
 		this.opts = {
-			color: '#000001'
+			color: '#000001',
+			list: []
 		};
 		this.setColor(this.opts.color);
-	};
-	getColors() {
-		let data = color_list.reduce((map, obj, i, a) => {
-			map[obj.name] = obj.hex;
-			return map;
-		}, {});
-		let newMap = new Map(Object.entries(data));
-		newMap.forEach((value, key) => {
-			this.list.push(key);
-		});
-		this.list.join(',');
-		return this.list;
 	};
 	Color(d) {
 		if (!d) {
@@ -38,6 +26,18 @@ module.exports = class Embed extends MessageEmbed {
 		}
 		this.setColor(d);
 		return this;
+	};
+	getColors() {
+		let data = color_list.reduce((map, obj, i, a) => {
+			map[obj.name] = obj.hex;
+			return map;
+		}, {});
+		let newMap = new Map(Object.entries(data));
+		newMap.forEach((value, key) => {
+			this.opts.list.push(key);
+		});
+		this.opts.list.join(',');
+		return this.opts.list;
 	};
 	Json() {
 		return {
