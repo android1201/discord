@@ -6,19 +6,18 @@ module.exports = class Embed extends MessageEmbed {
   constructor(opts = {}, data = {}) {
     super(data);
     var {
-      type,
-      title,
-      description,
-      url,
-      color,
-      timestamp,
-      fields,
-      thumbnail,
-      image,
-      video,
-      author,
-      provider,
-      footer
+      title = null,
+      description = null,
+      url = null,
+      color = null,
+      timestamp = false,
+      fields = null,
+      thumbnail = null,
+      image = null,
+      video = null,
+      author = null,
+      footer = null
     } = opts;
+    
   }
 }
