@@ -1,5 +1,5 @@
-##EMBED
-##COLORS
+**EMBED**
+**COLORS**
 | NAME | HEX |
 |------------------------------------|-----------|
 |air_force_blue_raf|#5d8aa8|
