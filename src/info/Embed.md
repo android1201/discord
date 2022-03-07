@@ -1,5 +1,7 @@
 **EMBED**
-
+```
+const discord = require('dk-discors');
+```
 **COLORS**
 | NAME | HEX |
 |------------------------------------|-----------|
