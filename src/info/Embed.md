@@ -3,7 +3,8 @@ color
 ```
 | NAME | HEX |
 |------------------------------------|-----------|
-|```air_force_blue_raf```|#5d8aa8|
+|```
+air_force_blue_raf```|#5d8aa8|
 |air_force_blue_usaf|#00308f|
 |air_superiority_blue|#72a0c1|
 |alabama_crimson|#a32638|
