@@ -1,14 +1,14 @@
 {
-  "name": "npm_publish",
+  "name": "dk-embeds",
   "version": "0.0.0",
-  "description": "create publish module with autoupdate",
+  "description": "An embed module for discord embeds",
   "main": "src/module.js",
   "scripts": {
     "test": "npm install && node ."
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/devdk2004/npm_publish.git"
+    "url": "git+https://github.com/devdk2004/embeds.git"
   },
   "author": "devdk",
   "license": "ISC",
@@ -27,7 +27,7 @@
     "nodemon": "^2.0.15"
   },
   "bugs": {
-    "url": "https://github.com/devdk2004/npm_publish/issues"
+    "url": "https://github.com/devdk2004/embeds/issues"
   },
-  "homepage": "https://github.com/devdk2004/npm_publish#readme"
+  "homepage": "https://github.com/devdk2004/embeds#readme"
 }
