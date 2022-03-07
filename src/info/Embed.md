@@ -7,8 +7,8 @@ const {
 ```
 ```
 const embed = new Embed();
-embed.getColors();
-embed.Color('air_force_blue_raf');
+embed.GetColors();
+embed.AddColor('air_force_blue_raf');
 ```
 **COLORS**
 | NAME 🛸 | HEX 💦 |
