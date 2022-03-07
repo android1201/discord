@@ -12,6 +12,10 @@ module.exports = class Embed extends MessageEmbed {
 		};
 		this.setColor(this.opts.color);
 	};
+	AdFields(d) {
+		this.setFields(d);
+		return this;
+	};
 	AddAuthor(d) {
 		this.setAuthor(d);
 		return this;
@@ -41,10 +45,6 @@ module.exports = class Embed extends MessageEmbed {
 	};
 	AddFields(d) {
 		this.addFields(d);
-		return this;
-	};
-	AdFields(d) {
-		this.setFields(d);
 		return this;
 	};
 	AddFooter(d) {
