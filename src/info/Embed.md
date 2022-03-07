@@ -10,6 +10,16 @@ const embed = new Embed();
 embed.GetColors();
 embed.AddColor('air_force_blue_raf');
 ```
+**METHODS**
+```
+AdFields
+AddAuthor
+AddColor
+AddDescription
+AddField
+AddFields
+
+```
 **COLORS**
 | NAME 🛸 | HEX 💦 |
 |------------------------------------|-----------|
