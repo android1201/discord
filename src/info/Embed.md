@@ -382,6 +382,7 @@ SetFields
 |gray_asparagus|#465945|
 |gray_html_css_gray|#808080|
 |gray_x11_gray|#bebebe|
+|green|#008000|
 |green_color_wheel_x11_green|#0f0|
 |green_crayola|#1cac78|
 |green_html_css_green|#008000|
