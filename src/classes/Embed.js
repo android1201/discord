@@ -92,10 +92,6 @@ module.exports = class Embed extends MessageEmbed {
 			this.provider?.url === embed.provider?.url
 		);
 	};
-	JoinFields(d) {
-		this.addFields(d);
-		return this;
-	};
 	FieldEquals(d) {
 		this._fieldEquals(d);
 		return this;
@@ -114,6 +110,10 @@ module.exports = class Embed extends MessageEmbed {
 	};
 	get HexColor() {
 		return this.color ? `#${this.color.toString(16).padStart(6, '0')}` : null;
+	};
+	JoinFields(d) {
+		this.addFields(d);
+		return this;
 	};
 	Json() {
 		return {
