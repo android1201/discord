@@ -12,10 +12,6 @@ module.exports = class Embed extends MessageEmbed {
 		};
 		this.setColor(this.opts.color);
 	};
-	AddFields(d) {
-		this.setFields(d);
-		return this;
-	};
 	AddAuthor(d) {
 		this.setAuthor(d);
 		return this;
@@ -41,6 +37,10 @@ module.exports = class Embed extends MessageEmbed {
 	};
 	AddField(d) {
 		this.addField(d);
+		return this;
+	};
+	AddFields(d) {
+		this.addFields(d);
 		return this;
 	};
 	AddFooter(d) {
@@ -111,10 +111,6 @@ module.exports = class Embed extends MessageEmbed {
 	get HexColor() {
 		return this.color ? `#${this.color.toString(16).padStart(6, '0')}` : null;
 	};
-	JoinFields(d) {
-		this.addFields(d);
-		return this;
-	};
 	Json() {
 		return {
 			title: this.title,
@@ -150,6 +146,10 @@ module.exports = class Embed extends MessageEmbed {
 	};
 	RemoveFields(d) {
 		this.spliceFields(d);
+		return this;
+	};
+	SetFields(d) {
+		this.setFields(d);
 		return this;
 	};
 };
