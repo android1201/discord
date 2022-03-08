@@ -1,1 +1,1 @@
-
+require('./testings/Embed.js');
