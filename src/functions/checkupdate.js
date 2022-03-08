@@ -1,5 +1,5 @@
 module.exports =
-	const checkupdate = async () => {
+	checkupdate = async () => {
 		const {
 			get
 		} = require(`superagent`);
