@@ -1035,6 +1035,9 @@ module.exports = {
 		name: "gray_x11_gray",
 		hex: "#bebebe"
 	}, {
+		name: "green",
+		hex: "#008000"
+	}, {
 		name: "green_color_wheel_x11_green",
 		hex: "#0f0"
 	}, {
