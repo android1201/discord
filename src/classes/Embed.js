@@ -12,7 +12,7 @@ module.exports = class Embed extends MessageEmbed {
 		};
 		this.setColor(this.opts.color);
 	};
-	AdFields(d) {
+	AddFields(d) {
 		this.setFields(d);
 		return this;
 	};
@@ -41,10 +41,6 @@ module.exports = class Embed extends MessageEmbed {
 	};
 	AddField(d) {
 		this.addField(d);
-		return this;
-	};
-	AddFields(d) {
-		this.addFields(d);
 		return this;
 	};
 	AddFooter(d) {
@@ -95,6 +91,10 @@ module.exports = class Embed extends MessageEmbed {
 			this.provider?.name === embed.provider?.name &&
 			this.provider?.url === embed.provider?.url
 		);
+	};
+	JoinFields(d) {
+		this.addFields(d);
+		return this;
 	};
 	FieldEquals(d) {
 		this._fieldEquals(d);
