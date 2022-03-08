@@ -12,11 +12,11 @@ embed.AddColor('air_force_blue_raf');
 ```
 **METHODS**
 ```
-AddFields
 AddAuthor
 AddColor
 AddDescription
 AddField
+AddFields
 AddFooter
 AddImage
 AddThumbnail
@@ -32,6 +32,7 @@ JoinFields
 Json
 Length
 RemoveFields
+SetFields
 ```
 **COLORS**
 | NAME 🛸 | HEX 💦 |
