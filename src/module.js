@@ -7,7 +7,7 @@
 const {
 	checkupdate
 } = require('./functions/checkupdate.js');
-checkupdate();
+checkupdate;
 /*********
  * Classes
  */
