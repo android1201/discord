@@ -1,6 +1,6 @@
 {
   "name": "dk-discord",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "An discord module for discord bots",
   "main": "src/module.js",
   "scripts": {
