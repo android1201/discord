@@ -2,12 +2,9 @@
  * @Author devdk
  */
 /***************
- * Check update
+ * Check updates
  */
-const {
-	checkupdate
-} = require('./functions/checkupdate.js');
-checkupdate;
+require('./functions/checkupdates.js');
 /*********
  * Classes
  */
