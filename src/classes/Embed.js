@@ -22,10 +22,10 @@ module.exports = class Embed extends MessageEmbed {
 		};
 		if (d) {
 			let finded = color_list.find((x) => x.name.toLowerCase() === d.toLowerCase());
-			if (typeof finded === "undefined") {
-				d = d || this.opts.color;
-			} else {
+			if (typeof finded !== "undefined") {
 				d = finded.hex;
+			} else {
+				d = d || this.opts.color;
 			};
 		};
 		this.setColor(d);
