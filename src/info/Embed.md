@@ -35,976 +35,900 @@ RemoveFields
 SetFields
 ```
 **COLORS**
-| NAME 🛸 | HEX 💦 |
-|------------------------------------|-----------|
-| air_force_blue_raf | #5D8AA8 |
-| air_force_blue_usaf | #00308F |
-| air_superiority_blue | #72A0C1 |
-| alabama_crimson | #A32638 |
-| alice_blue | #F0F8FF |
-| aliceblue | #F0F8FF |
-| alizarin_crimson | #E32636 |
-| alloy_orange | #C46210 |
-| almond | #EFDECD |
-| amaranth | #E52B50 |
-| amber | #FFBF00 |
-| amber_sae_ece | #FF7E00 |
-| american_rose | #FF033E |
-| amethyst | #96C |
-| android_green | #A4C639 |
-| anti_flash_white | #F2F3F4 |
-| antique_brass | #CD9575 |
-| antique_fuchsia | #915C83 |
-| antique_ruby | #841B2D |
-| antique_white | #FAEBD7 |
-| antiquewhite | #FAEBD7 |
-| ao_english | #008000 |
-| apple_green | #8DB600 |
-| apricot | #FBCEB1 |
-| aqua | #0FF |
-| aquamarine | #7FFFD4 |
-| army_green | #4B5320 |
-| arsenic | #3B444B |
-| arylide_yellow | #E9D66B |
-| ash_grey | #B2BEB5 |
-| asparagus | #87A96B |
-| atomic_tangerine | #F96 |
-| auburn | #A52A2A |
-| aureolin | #FDEE00 |
-| aurometalsaurus | #6E7F80 |
-| avocado | #568203 |
-| azure | #F0FFFF |
-| azure_mist_web | #F0FFFF |
-| baby_blue | #89CFF0 |
-| baby_blue_eyes | #A1CAF1 |
-| baby_pink | #F4C2C2 |
-| ball_blue | #21ABCD |
-| banana_mania | #FAE7B5 |
-| banana_yellow | #FFE135 |
-| barn_red | #7C0A02 |
-| battleship_grey | #848482 |
-| bazaar | #98777B |
-| beau_blue | #BCD4E6 |
-| beaver | #9F8170 |
-| beige | #F5F5DC |
-| big_dip_o_ruby | #9C2542 |
-| bisque | #FFE4C4 |
-| bistre | #3D2B1F |
-| bittersweet | #FE6F5E |
-| bittersweet_shimmer | #BF4F51 |
-| black | #000000 |
-| black_bean | #3D0C02 |
-| black_leather_jacket | #253529 |
-| black_olive | #3B3C36 |
-| blanched_almond | #FFEBCD |
-| blanchedalmond | #FFEBCD |
-| blast_off_bronze | #A57164 |
-| bleu_de_france | #318CE7 |
-| blizzard_blue | #ACE5EE |
-| blond | #FAF0BE |
-| blue | #00F |
-| blue_bell | #A2A2D0 |
-| blue_crayola | #1F75FE |
-| blue_gray | #69C |
-| blue_green | #0D98BA |
-| blue_munsell | #0093AF |
-| blue_ncs | #0087BD |
-| blue_pigment | #339 |
-| blue_ryb | #0247FE |
-| blue_sapphire | #126180 |
-| blue_violet | #8A2BE2 |
-| blueviolet | #8A2BE2 |
-| blush | #DE5D83 |
-| bole | #79443B |
-| bondi_blue | #0095B6 |
-| bone | #E3DAC9 |
-| boston_university_red | #C00 |
-| bottle_green | #006A4E |
-| boysenberry | #873260 |
-| brandeis_blue | #0070FF |
-| brass | #B5A642 |
-| brick_red | #CB4154 |
-| bright_cerulean | #1DACD6 |
-| bright_green | #6F0 |
-| bright_lavender | #BF94E4 |
-| bright_maroon | #C32148 |
-| bright_pink | #FF007F |
-| bright_turquoise | #08E8DE |
-| bright_ube | #D19FE8 |
-| brilliant_lavender | #F4BBFF |
-| brilliant_rose | #FF55A3 |
-| brink_pink | #FB607F |
-| british_racing_green | #004225 |
-| bronze | #CD7F32 |
-| brown | #A52A2A |
-| brown_traditional | #964B00 |
-| brown_web | #A52A2A |
-| bubble_gum | #FFC1CC |
-| bubbles | #E7FEFF |
-| buff | #F0DC82 |
-| bulgarian_rose | #480607 |
-| burgundy | #800020 |
-| burlywood | #DEB887 |
-| burnt_orange | #C50 |
-| burnt_sienna | #E97451 |
-| burnt_umber | #8A3324 |
-| byzantine | #BD33A4 |
-| byzantium | #702963 |
-| cadet | #536872 |
-| cadet_blue | #5F9EA0 |
-| cadet_grey | #91A3B0 |
-| cadetblue | #5F9EA0 |
-| cadmium_green | #006B3C |
-| cadmium_orange | #ED872D |
-| cadmium_red | #E30022 |
-| cadmium_yellow | #FFF600 |
-| caf_au_lait | #A67B5B |
-| caf_noir | #4B3621 |
-| cal_poly_green | #1E4D2B |
-| cambridge_blue | #A3C1AD |
-| camel | #C19A6B |
-| cameo_pink | #EFBBCC |
-| camouflage_green | #78866B |
-| canary_yellow | #FFEF00 |
-| candy_apple_red | #FF0800 |
-| candy_pink | #E4717A |
-| capri | #00BFFF |
-| caput_mortuum | #592720 |
-| cardinal | #C41E3A |
-| caribbean_green | #0C9 |
-| carmine | #960018 |
-| carmine_m_p | #D70040 |
-| carmine_pink | #EB4C42 |
-| carmine_red | #FF0038 |
-| carnation_pink | #FFA6C9 |
-| carnelian | #B31B1B |
-| carolina_blue | #99BADD |
-| carrot_orange | #ED9121 |
-| catalina_blue | #062A78 |
-| ceil | #92A1CF |
-| celadon | #ACE1AF |
-| celadon_blue | #007BA7 |
-| celadon_green | #2F847C |
-| celeste_colour | #B2FFFF |
-| celestial_blue | #4997D0 |
-| cerise | #DE3163 |
-| cerise_pink | #EC3B83 |
-| cerulean | #007BA7 |
-| cerulean_blue | #2A52BE |
-| cerulean_frost | #6D9BC3 |
-| cg_blue | #007AA5 |
-| cg_red | #E03C31 |
-| chamoisee | #A0785A |
-| champagne | #FAD6A5 |
-| charcoal | #36454F |
-| charm_pink | #E68FAC |
-| chartreuse | #7FFF00 |
-| chartreuse_traditional | #DFFF00 |
-| chartreuse_web | #7FFF00 |
-| cherry | #DE3163 |
-| cherry_blossom_pink | #FFB7C5 |
-| chestnut | #CD5C5C |
-| china_pink | #DE6FA1 |
-| china_rose | #A8516E |
-| chinese_red | #AA381E |
-| chocolate | #D2691E |
-| chocolate_traditional | #7B3F00 |
-| chocolate_web | #D2691E |
-| chrome_yellow | #FFA700 |
-| cinereous | #98817B |
-| cinnabar | #E34234 |
-| cinnamon | #D2691E |
-| citrine | #E4D00A |
-| classic_rose | #FBCCE7 |
-| cobalt | #0047AB |
-| cocoa_brown | #D2691E |
-| coffee | #6F4E37 |
-| columbia_blue | #9BDDFF |
-| congo_pink | #F88379 |
-| cool_black | #002E63 |
-| cool_grey | #8C92AC |
-| copper | #B87333 |
-| copper_crayola | #DA8A67 |
-| copper_penny | #AD6F69 |
-| copper_red | #CB6D51 |
-| copper_rose | #966 |
-| coquelicot | #FF3800 |
-| coral | #FF7F50 |
-| coral_pink | #F88379 |
-| coral_red | #FF4040 |
-| cordovan | #893F45 |
-| corn | #FBEC5D |
-| cornell_red | #B31B1B |
-| cornflower_blue | #6495ED |
-| cornflowerblue | #6495ED |
-| cornsilk | #FFF8DC |
-| cosmic_latte | #FFF8E7 |
-| cotton_candy | #FFBCD9 |
-| cream | #FFFDD0 |
-| crimson | #DC143C |
-| crimson_glory | #BE0032 |
-| cyan | #0FF |
-| cyan_process | #00B7EB |
-| daffodil | #FFFF31 |
-| dandelion | #F0E130 |
-| dark_blue | #00008B |
-| dark_brown | #654321 |
-| dark_byzantium | #5D3954 |
-| dark_candy_apple_red | #A40000 |
-| dark_cerulean | #08457E |
-| dark_chestnut | #986960 |
-| dark_coral | #CD5B45 |
-| dark_cyan | #008B8B |
-| dark_electric_blue | #536878 |
-| dark_goldenrod | #B8860B |
-| dark_gray | #A9A9A9 |
-| dark_green | #013220 |
-| dark_imperial_blue | #00416A |
-| dark_jungle_green | #1A2421 |
-| dark_khaki | #BDB76B |
-| dark_lava | #483C32 |
-| dark_lavender | #734F96 |
-| dark_magenta | #8B008B |
-| dark_midnight_blue | #036 |
-| dark_olive_green | #556B2F |
-| dark_orange | #FF8C00 |
-| dark_orchid | #9932CC |
-| dark_pastel_blue | #779ECB |
-| dark_pastel_green | #03C03C |
-| dark_pastel_purple | #966FD6 |
-| dark_pastel_red | #C23B22 |
-| dark_pink | #E75480 |
-| dark_powder_blue | #039 |
-| dark_raspberry | #872657 |
-| dark_red | #8B0000 |
-| dark_salmon | #E9967A |
-| dark_scarlet | #560319 |
-| dark_sea_green | #8FBC8F |
-| dark_sienna | #3C1414 |
-| dark_slate_blue | #483D8B |
-| dark_slate_gray | #2F4F4F |
-| dark_spring_green | #177245 |
-| dark_tan | #918151 |
-| dark_tangerine | #FFA812 |
-| dark_taupe | #483C32 |
-| dark_terra_cotta | #CC4E5C |
-| dark_turquoise | #00CED1 |
-| dark_violet | #9400D3 |
-| dark_yellow | #9B870C |
-| darkblue | #00008B |
-| darkcyan | #008B8B |
-| darkgoldenrod | #B8860B |
-| darkgray | #A9A9A9 |
-| darkgreen | #006400 |
-| darkgrey | #A9A9A9 |
-| darkkhaki | #BDB76B |
-| darkmagenta | #8B008B |
-| darkolivegreen | #556B2F |
-| darkorange | #FF8C00 |
-| darkorchid | #9932CC |
-| darkred | #8B0000 |
-| darksalmon | #E9967A |
-| darkseagreen | #8FBC8F |
-| darkslateblue | #483D8B |
-| darkslategray | #2F4F4F |
-| darkslategrey | #2F4F4F |
-| darkturquoise | #00CED1 |
-| darkviolet | #9400D3 |
-| dartmouth_green | #00703C |
-| davy_s_grey | #555 |
-| debian_red | #D70A53 |
-| deep_carmine | #A9203E |
-| deep_carmine_pink | #EF3038 |
-| deep_carrot_orange | #E9692C |
-| deep_cerise | #DA3287 |
-| deep_champagne | #FAD6A5 |
-| deep_chestnut | #B94E48 |
-| deep_coffee | #704241 |
-| deep_fuchsia | #C154C1 |
-| deep_jungle_green | #004B49 |
-| deep_lilac | #95B |
-| deep_magenta | #C0C |
-| deep_peach | #FFCBA4 |
-| deep_pink | #FF1493 |
-| deep_ruby | #843F5B |
-| deep_saffron | #F93 |
-| deep_sky_blue | #00BFFF |
-| deep_tuscan_red | #66424D |
-| deeppink | #FF1493 |
-| deepskyblue | #00BFFF |
-| denim | #1560BD |
-| desert | #C19A6B |
-| desert_sand | #EDC9AF |
-| dim_gray | #696969 |
-| dimgray | #696969 |
-| dimgrey | #696969 |
-| dodger_blue | #1E90FF |
-| dodgerblue | #1E90FF |
-| dogwood_rose | #D71868 |
-| dollar_bill | #85BB65 |
-| drab | #967117 |
-| duke_blue | #00009C |
-| earth_yellow | #E1A95F |
-| ebony | #555D50 |
-| ecru | #C2B280 |
-| eggplant | #614051 |
-| eggshell | #F0EAD6 |
-| egyptian_blue | #1034A6 |
-| electric_blue | #7DF9FF |
-| electric_crimson | #FF003F |
-| electric_cyan | #0FF |
-| electric_green | #0F0 |
-| electric_indigo | #6F00FF |
-| electric_lavender | #F4BBFF |
-| electric_lime | #CF0 |
-| electric_purple | #BF00FF |
-| electric_ultramarine | #3F00FF |
-| electric_violet | #8F00FF |
-| electric_yellow | #FF0 |
-| emerald | #50C878 |
-| english_lavender | #B48395 |
-| eton_blue | #96C8A2 |
-| fallow | #C19A6B |
-| falu_red | #801818 |
-| fandango | #B53389 |
-| fashion_fuchsia | #F400A1 |
-| fawn | #E5AA70 |
-| feldgrau | #4D5D53 |
-| fern_green | #4F7942 |
-| ferrari_red | #FF2800 |
-| field_drab | #6C541E |
-| fire_engine_red | #CE2029 |
-| firebrick | #B22222 |
-| flame | #E25822 |
-| flamingo_pink | #FC8EAC |
-| flavescent | #F7E98E |
-| flax | #EEDC82 |
-| floral_white | #FFFAF0 |
-| floralwhite | #FFFAF0 |
-| fluorescent_orange | #FFBF00 |
-| fluorescent_pink | #FF1493 |
-| fluorescent_yellow | #CF0 |
-| folly | #FF004F |
-| forest_green_traditional | #014421 |
-| forest_green_web | #228B22 |
-| forestgreen | #228B22 |
-| french_beige | #A67B5B |
-| french_blue | #0072BB |
-| french_lilac | #86608E |
-| french_lime | #CF0 |
-| french_raspberry | #C72C48 |
-| french_rose | #F64A8A |
-| fuchsia | #F0F |
-| fuchsia_crayola | #C154C1 |
-| fuchsia_pink | #F7F |
-| fuchsia_rose | #C74375 |
-| fulvous | #E48400 |
-| fuzzy_wuzzy | #C66 |
-| gainsboro | #DCDCDC |
-| gamboge | #E49B0F |
-| ghost_white | #F8F8FF |
-| ghostwhite | #F8F8FF |
-| ginger | #B06500 |
-| glaucous | #6082B6 |
-| glitter | #E6E8FA |
-| gold | #FFD700 |
-| gold_metallic | #D4AF37 |
-| gold_web_golden | #FFD700 |
-| golden_brown | #996515 |
-| golden_poppy | #FCC200 |
-| golden_yellow | #FFDF00 |
-| goldenrod | #DAA520 |
-| granny_smith_apple | #A8E4A0 |
-| gray | #808080 |
-| gray_asparagus | #465945 |
-| gray_html_css_gray | #808080 |
-| gray_x11_gray | #BEBEBE |
-| green | #008000 |
-| green_color_wheel_x11_green | #0F0 |
-| green_crayola | #1CAC78 |
-| green_html_css_green | #008000 |
-| green_munsell | #00A877 |
-| green_ncs | #009F6B |
-| green_pigment | #00A550 |
-| green_ryb | #66B032 |
-| green_yellow | #ADFF2F |
-| greenyellow | #ADFF2F |
-| grey | #808080 |
-| grullo | #A99A86 |
-| guppie_green | #00FF7F |
-| halay_be | #663854 |
-| han_blue | #446CCF |
-| han_purple | #5218FA |
-| hansa_yellow | #E9D66B |
-| harlequin | #3FFF00 |
-| harvard_crimson | #C90016 |
-| harvest_gold | #DA9100 |
-| heart_gold | #808000 |
-| heliotrope | #DF73FF |
-| hollywood_cerise | #F400A1 |
-| honeydew | #F0FFF0 |
-| honolulu_blue | #007FBF |
-| hooker_s_green | #49796B |
-| hot_magenta | #FF1DCE |
-| hot_pink | #FF69B4 |
-| hotpink | #FF69B4 |
-| hunter_green | #355E3B |
-| iceberg | #71A6D2 |
-| icterine | #FCF75E |
-| imperial_blue | #002395 |
-| inchworm | #B2EC5D |
-| india_green | #138808 |
-| indian_red | #CD5C5C |
-| indian_yellow | #E3A857 |
-| indianred | #CD5C5C |
-| indigo | #6F00FF |
-| indigo_dye | #00416A |
-| indigo_web | #4B0082 |
-| international_klein_blue | #002FA7 |
-| international_orange_aerospace | #FF4F00 |
-| international_orange_engineering | #BA160C |
-| international_orange_golden_gate_bridge | #C0362C |
-| iris | #5A4FCF |
-| isabelline | #F4F0EC |
-| islamic_green | #009000 |
-| ivory | #FFFFF0 |
-| jade | #00A86B |
-| jasmine | #F8DE7E |
-| jasper | #D73B3E |
-| jazzberry_jam | #A50B5E |
-| jet | #343434 |
-| jonquil | #FADA5E |
-| june_bud | #BDDA57 |
-| jungle_green | #29AB87 |
-| kelly_green | #4CBB17 |
-| kenyan_copper | #7C1C05 |
-| khaki | #F0E68C |
-| khaki_html_css_khaki | #C3B091 |
-| khaki_x11_light_khaki | #F0E68C |
-| ku_crimson | #E8000D |
-| la_salle_green | #087830 |
-| languid_lavender | #D6CADD |
-| lapis_lazuli | #26619C |
-| laser_lemon | #FEFE22 |
-| laurel_green | #A9BA9D |
-| lava | #CF1020 |
-| lavender | #E6E6FA |
-| lavender_blue | #CCF |
-| lavender_blush | #FFF0F5 |
-| lavender_floral | #B57EDC |
-| lavender_gray | #C4C3D0 |
-| lavender_indigo | #9457EB |
-| lavender_magenta | #EE82EE |
-| lavender_mist | #E6E6FA |
-| lavender_pink | #FBAED2 |
-| lavender_purple | #967BB6 |
-| lavender_rose | #FBA0E3 |
-| lavender_web | #E6E6FA |
-| lavenderblush | #FFF0F5 |
-| lawn_green | #7CFC00 |
-| lawngreen | #7CFC00 |
-| lemon | #FFF700 |
-| lemon_chiffon | #FFFACD |
-| lemon_lime | #E3FF00 |
-| lemonchiffon | #FFFACD |
-| licorice | #1A1110 |
-| light_apricot | #FDD5B1 |
-| light_blue | #ADD8E6 |
-| light_brown | #B5651D |
-| light_carmine_pink | #E66771 |
-| light_coral | #F08080 |
-| light_cornflower_blue | #93CCEA |
-| light_crimson | #F56991 |
-| light_cyan | #E0FFFF |
-| light_fuchsia_pink | #F984EF |
-| light_goldenrod_yellow | #FAFAD2 |
-| light_gray | #D3D3D3 |
-| light_green | #90EE90 |
-| light_khaki | #F0E68C |
-| light_pastel_purple | #B19CD9 |
-| light_pink | #FFB6C1 |
-| light_red_ochre | #E97451 |
-| light_salmon | #FFA07A |
-| light_salmon_pink | #F99 |
-| light_sea_green | #20B2AA |
-| light_sky_blue | #87CEFA |
-| light_slate_gray | #789 |
-| light_taupe | #B38B6D |
-| light_thulian_pink | #E68FAC |
-| light_yellow | #FFFFE0 |
-| lightblue | #ADD8E6 |
-| lightcoral | #F08080 |
-| lightcyan | #E0FFFF |
-| lightgoldenrodyellow | #FAFAD2 |
-| lightgray | #D3D3D3 |
-| lightgreen | #90EE90 |
-| lightgrey | #D3D3D3 |
-| lightpink | #FFB6C1 |
-| lightsalmon | #FFA07A |
-| lightseagreen | #20B2AA |
-| lightskyblue | #87CEFA |
-| lightslategray | #778899 |
-| lightslategrey | #778899 |
-| lightsteelblue | #B0C4DE |
-| lightyellow | #FFFFE0 |
-| lilac | #C8A2C8 |
-| lime | #00FF00 |
-| lime_color_wheel | #BFFF00 |
-| lime_green | #32CD32 |
-| lime_web_x11_green | #0F0 |
-| limegreen | #32CD32 |
-| limerick | #9DC209 |
-| lincoln_green | #195905 |
-| linen | #FAF0E6 |
-| lion | #C19A6B |
-| little_boy_blue | #6CA0DC |
-| liver | #534B4F |
-| lust | #E62020 |
-| magenta | #F0F |
-| magenta_dye | #CA1F7B |
-| magenta_process | #FF0090 |
-| magic_mint | #AAF0D1 |
-| magnolia | #F8F4FF |
-| mahogany | #C04000 |
-| maize | #FBEC5D |
-| majorelle_blue | #6050DC |
-| malachite | #0BDA51 |
-| manatee | #979AAA |
-| mango_tango | #FF8243 |
-| mantis | #74C365 |
-| mardi_gras | #880085 |
-| maroon | #800000 |
-| maroon_crayola | #C32148 |
-| maroon_html_css | #800000 |
-| maroon_x11 | #B03060 |
-| mauve | #E0B0FF |
-| mauve_taupe | #915F6D |
-| mauvelous | #EF98AA |
-| maya_blue | #73C2FB |
-| meat_brown | #E5B73B |
-| medium_aquamarine | #6DA |
-| medium_blue | #0000CD |
-| medium_candy_apple_red | #E2062C |
-| medium_carmine | #AF4035 |
-| medium_champagne | #F3E5AB |
-| medium_electric_blue | #035096 |
-| medium_jungle_green | #1C352D |
-| medium_lavender_magenta | #DDA0DD |
-| medium_orchid | #BA55D3 |
-| medium_persian_blue | #0067A5 |
-| medium_purple | #9370DB |
-| medium_red_violet | #BB3385 |
-| medium_ruby | #AA4069 |
-| medium_sea_green | #3CB371 |
-| medium_slate_blue | #7B68EE |
-| medium_spring_bud | #C9DC87 |
-| medium_spring_green | #00FA9A |
-| medium_taupe | #674C47 |
-| medium_turquoise | #48D1CC |
-| medium_tuscan_red | #79443B |
-| medium_vermilion | #D9603B |
-| medium_violet_red | #C71585 |
-| mediumaquamarine | #66CDAA |
-| mediumblue | #0000CD |
-| mediumorchid | #BA55D3 |
-| mediumpurple | #9370DB |
-| mediumseagreen | #3CB371 |
-| mediumslateblue | #7B68EE |
-| mediumspringgreen | #00FA9A |
-| mediumturquoise | #48D1CC |
-| mediumvioletred | #C71585 |
-| mellow_apricot | #F8B878 |
-| mellow_yellow | #F8DE7E |
-| melon | #FDBCB4 |
-| midnight_blue | #191970 |
-| midnight_green_eagle_green | #004953 |
-| midnightblue | #191970 |
-| mikado_yellow | #FFC40C |
-| mint | #3EB489 |
-| mint_cream | #F5FFFA |
-| mint_green | #98FF98 |
-| mintcream | #F5FFFA |
-| misty_rose | #FFE4E1 |
-| mistyrose | #FFE4E1 |
-| moccasin | #FAEBD7 |
-| mode_beige | #967117 |
-| moonstone_blue | #73A9C2 |
-| mordant_red_19 | #AE0C00 |
-| moss_green | #ADDFAD |
-| mountain_meadow | #30BA8F |
-| mountbatten_pink | #997A8D |
-| msu_green | #18453B |
-| mulberry | #C54B8C |
-| mustard | #FFDB58 |
-| myrtle | #21421E |
-| nadeshiko_pink | #F6ADC6 |
-| napier_green | #2A8000 |
-| naples_yellow | #FADA5E |
-| navajo_white | #FFDEAD |
-| navajowhite | #FFDEAD |
-| navy | #000080 |
-| navy_blue | #000080 |
-| neon_carrot | #FFA343 |
-| neon_fuchsia | #FE4164 |
-| neon_green | #39FF14 |
-| new_york_pink | #D7837F |
-| non_photo_blue | #A4DDED |
-| north_texas_green | #059033 |
-| ocean_boat_blue | #0077BE |
-| ochre | #C72 |
-| office_green | #008000 |
-| old_gold | #CFB53B |
-| old_lace | #FDF5E6 |
-| old_lavender | #796878 |
-| old_mauve | #673147 |
-| old_rose | #C08081 |
-| oldlace | #FDF5E6 |
-| olive | #808000 |
-| olive_drab_7 | #3C341F |
-| olive_drab_web_olive_drab_3 | #6B8E23 |
-| olivedrab | #6B8E23 |
-| olivine | #9AB973 |
-| onyx | #353839 |
-| opera_mauve | #B784A7 |
-| orange | #FFA500 |
-| orange_color_wheel | #FF7F00 |
-| orange_peel | #FF9F00 |
-| orange_red | #FF4500 |
-| orange_ryb | #FB9902 |
-| orange_web_color | #FFA500 |
-| orangered | #FF4500 |
-| orchid | #DA70D6 |
-| otter_brown | #654321 |
-| ou_crimson_red | #900 |
-| outer_space | #414A4C |
-| outrageous_orange | #FF6E4A |
-| oxford_blue | #002147 |
-| pakistan_green | #060 |
-| palatinate_blue | #273BE2 |
-| palatinate_purple | #682860 |
-| pale_aqua | #BCD4E6 |
-| pale_blue | #AFEEEE |
-| pale_brown | #987654 |
-| pale_carmine | #AF4035 |
-| pale_cerulean | #9BC4E2 |
-| pale_chestnut | #DDADAF |
-| pale_copper | #DA8A67 |
-| pale_cornflower_blue | #ABCDEF |
-| pale_gold | #E6BE8A |
-| pale_goldenrod | #EEE8AA |
-| pale_green | #98FB98 |
-| pale_lavender | #DCD0FF |
-| pale_magenta | #F984E5 |
-| pale_pink | #FADADD |
-| pale_plum | #DDA0DD |
-| pale_red_violet | #DB7093 |
-| pale_robin_egg_blue | #96DED1 |
-| pale_silver | #C9C0BB |
-| pale_spring_bud | #ECEBBD |
-| pale_taupe | #BC987E |
-| pale_violet_red | #DB7093 |
-| palegoldenrod | #EEE8AA |
-| palegreen | #98FB98 |
-| paleturquoise | #AFEEEE |
-| palevioletred | #DB7093 |
-| pansy_purple | #78184A |
-| papaya_whip | #FFEFD5 |
-| papayawhip | #FFEFD5 |
-| paris_green | #50C878 |
-| pastel_blue | #AEC6CF |
-| pastel_brown | #836953 |
-| pastel_gray | #CFCFC4 |
-| pastel_green | #7D7 |
-| pastel_magenta | #F49AC2 |
-| pastel_orange | #FFB347 |
-| pastel_pink | #DEA5A4 |
-| pastel_purple | #B39EB5 |
-| pastel_red | #FF6961 |
-| pastel_violet | #CB99C9 |
-| pastel_yellow | #FDFD96 |
-| patriarch | #800080 |
-| payne_s_grey | #536878 |
-| peach | #FFE5B4 |
-| peach_crayola | #FFCBA4 |
-| peach_orange | #FC9 |
-| peach_puff | #FFDAB9 |
-| peach_yellow | #FADFAD |
-| peachpuff | #FFDAB9 |
-| pear | #D1E231 |
-| pearl | #EAE0C8 |
-| pearl_aqua | #88D8C0 |
-| pearly_purple | #B768A2 |
-| peridot | #E6E200 |
-| periwinkle | #CCF |
-| persian_blue | #1C39BB |
-| persian_green | #00A693 |
-| persian_indigo | #32127A |
-| persian_orange | #D99058 |
-| persian_pink | #F77FBE |
-| persian_plum | #701C1C |
-| persian_red | #C33 |
-| persian_rose | #FE28A2 |
-| persimmon | #EC5800 |
-| peru | #CD853F |
-| phlox | #DF00FF |
-| phthalo_blue | #000F89 |
-| phthalo_green | #123524 |
-| piggy_pink | #FDDDE6 |
-| pine_green | #01796F |
-| pink | #FFC0CB |
-| pink_lace | #FFDDF4 |
-| pink_orange | #F96 |
-| pink_pearl | #E7ACCF |
-| pink_sherbet | #F78FA7 |
-| pistachio | #93C572 |
-| platinum | #E5E4E2 |
-| plum | #DDA0DD |
-| plum_traditional | #8E4585 |
-| plum_web | #DDA0DD |
-| portland_orange | #FF5A36 |
-| powder_blue_web | #B0E0E6 |
-| powderblue | #B0E0E6 |
-| princeton_orange | #FF8F00 |
-| prune | #701C1C |
-| prussian_blue | #003153 |
-| psychedelic_purple | #DF00FF |
-| puce | #C89 |
-| pumpkin | #FF7518 |
-| purple | #800080 |
-| purple_heart | #69359C |
-| purple_html_css | #800080 |
-| purple_mountain_majesty | #9678B6 |
-| purple_munsell | #9F00C5 |
-| purple_pizzazz | #FE4EDA |
-| purple_taupe | #50404D |
-| purple_x11 | #A020F0 |
-| quartz | #51484F |
-| rackley | #5D8AA8 |
-| radical_red | #FF355E |
-| rajah | #FBAB60 |
-| raspberry | #E30B5D |
-| raspberry_glace | #915F6D |
-| raspberry_pink | #E25098 |
-| raspberry_rose | #B3446C |
-| raw_umber | #826644 |
-| razzle_dazzle_rose | #F3C |
-| razzmatazz | #E3256B |
-| rebeccapurple | #663399 |
-| red | #F00 |
-| red_brown | #A52A2A |
-| red_devil | #860111 |
-| red_munsell | #F2003C |
-| red_ncs | #C40233 |
-| red_orange | #FF5349 |
-| red_pigment | #ED1C24 |
-| red_ryb | #FE2712 |
-| red_violet | #C71585 |
-| redwood | #AB4E52 |
-| regalia | #522D80 |
-| resolution_blue | #002387 |
-| rich_black | #004040 |
-| rich_brilliant_lavender | #F1A7FE |
-| rich_carmine | #D70040 |
-| rich_electric_blue | #0892D0 |
-| rich_lavender | #A76BCF |
-| rich_lilac | #B666D2 |
-| rich_maroon | #B03060 |
-| rifle_green | #414833 |
-| robin_egg_blue | #0CC |
-| rose | #FF007F |
-| rose_bonbon | #F9429E |
-| rose_ebony | #674846 |
-| rose_gold | #B76E79 |
-| rose_madder | #E32636 |
-| rose_pink | #F6C |
-| rose_quartz | #AA98A9 |
-| rose_taupe | #905D5D |
-| rose_vale | #AB4E52 |
-| rosewood | #65000B |
-| rosso_corsa | #D40000 |
-| rosy_brown | #BC8F8F |
-| rosybrown | #BC8F8F |
-| royal_azure | #0038A8 |
-| royal_blue_traditional | #002366 |
-| royal_blue_web | #4169E1 |
-| royal_fuchsia | #CA2C92 |
-| royal_purple | #7851A9 |
-| royal_yellow | #FADA5E |
-| royalblue | #4169E1 |
-| rubine_red | #D10056 |
-| ruby | #E0115F |
-| ruby_red | #9B111E |
-| ruddy | #FF0028 |
-| ruddy_brown | #BB6528 |
-| ruddy_pink | #E18E96 |
-| rufous | #A81C07 |
-| russet | #80461B |
-| rust | #B7410E |
-| rusty_red | #DA2C43 |
-| sacramento_state_green | #00563F |
-| saddle_brown | #8B4513 |
-| saddlebrown | #8B4513 |
-| safety_orange_blaze_orange | #FF6700 |
-| saffron | #F4C430 |
-| salmon | #FF8C69 |
-| salmon_pink | #FF91A4 |
-| sand | #C2B280 |
-| sand_dune | #967117 |
-| sandstorm | #ECD540 |
-| sandy_brown | #F4A460 |
-| sandy_taupe | #967117 |
-| sandybrown | #F4A460 |
-| sangria | #92000A |
-| sap_green | #507D2A |
-| sapphire | #0F52BA |
-| sapphire_blue | #0067A5 |
-| satin_sheen_gold | #CBA135 |
-| scarlet | #FF2400 |
-| scarlet_crayola | #FD0E35 |
-| school_bus_yellow | #FFD800 |
-| screamin_green | #76FF7A |
-| sea_blue | #006994 |
-| sea_green | #2E8B57 |
-| seagreen | #2E8B57 |
-| seal_brown | #321414 |
-| seashell | #FFF5EE |
-| selective_yellow | #FFBA00 |
-| sepia | #704214 |
-| shadow | #8A795D |
-| shamrock_green | #009E60 |
-| shocking_pink | #FC0FC0 |
-| shocking_pink_crayola | #FF6FFF |
-| sienna | #A0522D |
-| silver | #C0C0C0 |
-| sinopia | #CB410B |
-| skobeloff | #007474 |
-| sky_blue | #87CEEB |
-| sky_magenta | #CF71AF |
-| skyblue | #87CEEB |
-| slate_blue | #6A5ACD |
-| slate_gray | #708090 |
-| slateblue | #6A5ACD |
-| slategray | #708090 |
-| slategrey | #708090 |
-| smalt_dark_powder_blue | #039 |
-| smokey_topaz | #933D41 |
-| smoky_black | #100C08 |
-| snow | #FFFAFA |
-| spiro_disco_ball | #0FC0FC |
-| spring_bud | #A7FC00 |
-| spring_green | #00FF7F |
-| springgreen | #00FF7F |
-| st_patrick_s_blue | #23297A |
-| steel_blue | #4682B4 |
-| steelblue | #4682B4 |
-| stil_de_grain_yellow | #FADA5E |
-| stizza | #900 |
-| stormcloud | #4F666A |
-| straw | #E4D96F |
-| sunglow | #FC3 |
-| sunset | #FAD6A5 |
-| tan | #D2B48C |
-| tangelo | #F94D00 |
-| tangerine | #F28500 |
-| tangerine_yellow | #FC0 |
-| tango_pink | #E4717A |
-| taupe | #483C32 |
-| taupe_gray | #8B8589 |
-| tea_green | #D0F0C0 |
-| tea_rose_orange | #F88379 |
-| tea_rose_rose | #F4C2C2 |
-| teal | #008080 |
-| teal_blue | #367588 |
-| teal_green | #00827F |
-| telemagenta | #CF3476 |
-| tenn_tawny | #CD5700 |
-| terra_cotta | #E2725B |
-| thistle | #D8BFD8 |
-| thulian_pink | #DE6FA1 |
-| tickle_me_pink | #FC89AC |
-| tiffany_blue | #0ABAB5 |
-| tiger_s_eye | #E08D3C |
-| timberwolf | #DBD7D2 |
-| titanium_yellow | #EEE600 |
-| tomato | #FF6347 |
-| toolbox | #746CC0 |
-| topaz | #FFC87C |
-| tractor_red | #FD0E35 |
-| trolley_grey | #808080 |
-| tropical_rain_forest | #00755E |
-| true_blue | #0073CF |
-| tufts_blue | #417DC1 |
-| tumbleweed | #DEAA88 |
-| turkish_rose | #B57281 |
-| turquoise | #40E0D0 |
-| turquoise_blue | #00FFEF |
-| turquoise_green | #A0D6B4 |
-| tuscan_red | #7C4848 |
-| twilight_lavender | #8A496B |
-| tyrian_purple | #66023C |
-| ua_blue | #03A |
-| ua_red | #D9004C |
-| ube | #8878C3 |
-| ucla_blue | #536895 |
-| ucla_gold | #FFB300 |
-| ufo_green | #3CD070 |
-| ultra_pink | #FF6FFF |
-| ultramarine | #120A8F |
-| ultramarine_blue | #4166F5 |
-| umber | #635147 |
-| unbleached_silk | #FFDDCA |
-| united_nations_blue | #5B92E5 |
-| university_of_california_gold | #B78727 |
-| unmellow_yellow | #FF6 |
-| up_forest_green | #014421 |
-| up_maroon | #7B1113 |
-| upsdell_red | #AE2029 |
-| urobilin | #E1AD21 |
-| usafa_blue | #004F98 |
-| usc_cardinal | #900 |
-| usc_gold | #FC0 |
-| utah_crimson | #D3003F |
-| vanilla | #F3E5AB |
-| vegas_gold | #C5B358 |
-| venetian_red | #C80815 |
-| verdigris | #43B3AE |
-| vermilion_cinnabar | #E34234 |
-| vermilion_plochere | #D9603B |
-| veronica | #A020F0 |
-| violet | #EE82EE |
-| violet_blue | #324AB2 |
-| violet_color_wheel | #7F00FF |
-| violet_ryb | #8601AF |
-| violet_web | #EE82EE |
-| viridian | #40826D |
-| vivid_auburn | #922724 |
-| vivid_burgundy | #9F1D35 |
-| vivid_cerise | #DA1D81 |
-| vivid_tangerine | #FFA089 |
-| vivid_violet | #9F00FF |
-| warm_black | #004242 |
-| waterspout | #A4F4F9 |
-| wenge | #645452 |
-| wheat | #F5DEB3 |
-| white | #FFF |
-| white_smoke | #F5F5F5 |
-| whitesmoke | #F5F5F5 |
-| wild_blue_yonder | #A2ADD0 |
-| wild_strawberry | #FF43A4 |
-| wild_watermelon | #FC6C85 |
-| wine | #722F37 |
-| wine_dregs | #673147 |
-| wisteria | #C9A0DC |
-| wood_brown | #C19A6B |
-| xanadu | #738678 |
-| yale_blue | #0F4D92 |
-| yellow | #FF0 |
-| yellow_green | #9ACD32 |
-| yellow_munsell | #EFCC00 |
-| yellow_ncs | #FFD300 |
-| yellow_orange | #FFAE42 |
-| yellow_process | #FFEF00 |
-| yellow_ryb | #FEFE33 |
-| yellowgreen | #9ACD32 |
-| zaffre | #0014A8 |
-| zinnwaldite_brown | #2C1608 |
+| 🖊️ | NAME 🛸 | HEX 💦 |
+|--------|------------------------------------|-----------|
+| 0 | airforceblueraf | #5D8AA8 |
+| 1 | airforceblueusaf | #00308F |
+| 2 | airsuperiorityblue | #72A0C1 |
+| 3 | alabamacrimson | #A32638 |
+| 4 | aliceblue | #F0F8FF |
+| 5 | alizarincrimson | #E32636 |
+| 6 | alloyorange | #C46210 |
+| 7 | almond | #EFDECD |
+| 8 | amaranth | #E52B50 |
+| 9 | amber | #FFBF00 |
+| 10 | ambersaeece | #FF7E00 |
+| 11 | americanrose | #FF033E |
+| 12 | amethyst | #96C |
+| 13 | androidgreen | #A4C639 |
+| 14 | antiflashwhite | #F2F3F4 |
+| 15 | antiquebrass | #CD9575 |
+| 16 | antiquefuchsia | #915C83 |
+| 17 | antiqueruby | #841B2D |
+| 18 | antiquewhite | #FAEBD7 |
+| 19 | aoenglish | #008000 |
+| 20 | applegreen | #8DB600 |
+| 21 | apricot | #FBCEB1 |
+| 22 | aqua | #0FF |
+| 23 | aquamarine | #7FFFD4 |
+| 24 | armygreen | #4B5320 |
+| 25 | arsenic | #3B444B |
+| 26 | arylideyellow | #E9D66B |
+| 27 | ashgrey | #B2BEB5 |
+| 28 | asparagus | #87A96B |
+| 29 | atomictangerine | #F96 |
+| 30 | auburn | #A52A2A |
+| 31 | aureolin | #FDEE00 |
+| 32 | aurometalsaurus | #6E7F80 |
+| 33 | avocado | #568203 |
+| 34 | azure | #F0FFFF |
+| 35 | azuremistweb | #F0FFFF |
+| 36 | babyblue | #89CFF0 |
+| 37 | babyblueeyes | #A1CAF1 |
+| 38 | babypink | #F4C2C2 |
+| 39 | ballblue | #21ABCD |
+| 40 | bananamania | #FAE7B5 |
+| 41 | bananayellow | #FFE135 |
+| 42 | barnred | #7C0A02 |
+| 43 | battleshipgrey | #848482 |
+| 44 | bazaar | #98777B |
+| 45 | beaublue | #BCD4E6 |
+| 46 | beaver | #9F8170 |
+| 47 | beige | #F5F5DC |
+| 48 | bigdiporuby | #9C2542 |
+| 49 | bisque | #FFE4C4 |
+| 50 | bistre | #3D2B1F |
+| 51 | bittersweet | #FE6F5E |
+| 52 | bittersweetshimmer | #BF4F51 |
+| 53 | black | #000000 |
+| 54 | blackbean | #3D0C02 |
+| 55 | blackleatherjacket | #253529 |
+| 56 | blackolive | #3B3C36 |
+| 57 | blanchedalmond | #FFEBCD |
+| 58 | blastoffbronze | #A57164 |
+| 59 | bleudefrance | #318CE7 |
+| 60 | blizzardblue | #ACE5EE |
+| 61 | blond | #FAF0BE |
+| 62 | blue | #00F |
+| 63 | bluebell | #A2A2D0 |
+| 64 | bluecrayola | #1F75FE |
+| 65 | bluegray | #69C |
+| 66 | bluegreen | #0D98BA |
+| 67 | bluemunsell | #0093AF |
+| 68 | bluencs | #0087BD |
+| 69 | bluepigment | #339 |
+| 70 | blueryb | #0247FE |
+| 71 | bluesapphire | #126180 |
+| 72 | blueviolet | #8A2BE2 |
+| 73 | blush | #DE5D83 |
+| 74 | bole | #79443B |
+| 75 | bondiblue | #0095B6 |
+| 76 | bone | #E3DAC9 |
+| 77 | bostonuniversityred | #C00 |
+| 78 | bottlegreen | #006A4E |
+| 79 | boysenberry | #873260 |
+| 80 | brandeisblue | #0070FF |
+| 81 | brass | #B5A642 |
+| 82 | brickred | #CB4154 |
+| 83 | brightcerulean | #1DACD6 |
+| 84 | brightgreen | #6F0 |
+| 85 | brightlavender | #BF94E4 |
+| 86 | brightmaroon | #C32148 |
+| 87 | brightpink | #FF007F |
+| 88 | brightturquoise | #08E8DE |
+| 89 | brightube | #D19FE8 |
+| 90 | brilliantlavender | #F4BBFF |
+| 91 | brilliantrose | #FF55A3 |
+| 92 | brinkpink | #FB607F |
+| 93 | britishracinggreen | #004225 |
+| 94 | bronze | #CD7F32 |
+| 95 | brown | #A52A2A |
+| 96 | browntraditional | #964B00 |
+| 97 | brownweb | #A52A2A |
+| 98 | bubblegum | #FFC1CC |
+| 99 | bubbles | #E7FEFF |
+| 100 | buff | #F0DC82 |
+| 101 | bulgarianrose | #480607 |
+| 102 | burgundy | #800020 |
+| 103 | burlywood | #DEB887 |
+| 104 | burntorange | #C50 |
+| 105 | burntsienna | #E97451 |
+| 106 | burntumber | #8A3324 |
+| 107 | byzantine | #BD33A4 |
+| 108 | byzantium | #702963 |
+| 109 | cadet | #536872 |
+| 110 | cadetblue | #5F9EA0 |
+| 111 | cadetgrey | #91A3B0 |
+| 112 | cadmiumgreen | #006B3C |
+| 113 | cadmiumorange | #ED872D |
+| 114 | cadmiumred | #E30022 |
+| 115 | cadmiumyellow | #FFF600 |
+| 116 | cafaulait | #A67B5B |
+| 117 | cafnoir | #4B3621 |
+| 118 | calpolygreen | #1E4D2B |
+| 119 | cambridgeblue | #A3C1AD |
+| 120 | camel | #C19A6B |
+| 121 | cameopink | #EFBBCC |
+| 122 | camouflagegreen | #78866B |
+| 123 | canaryyellow | #FFEF00 |
+| 124 | candyapplered | #FF0800 |
+| 125 | candypink | #E4717A |
+| 126 | capri | #00BFFF |
+| 127 | caputmortuum | #592720 |
+| 128 | cardinal | #C41E3A |
+| 129 | caribbeangreen | #0C9 |
+| 130 | carmine | #960018 |
+| 131 | carminemp | #D70040 |
+| 132 | carminepink | #EB4C42 |
+| 133 | carminered | #FF0038 |
+| 134 | carnationpink | #FFA6C9 |
+| 135 | carnelian | #B31B1B |
+| 136 | carolinablue | #99BADD |
+| 137 | carrotorange | #ED9121 |
+| 138 | catalinablue | #062A78 |
+| 139 | ceil | #92A1CF |
+| 140 | celadon | #ACE1AF |
+| 141 | celadonblue | #007BA7 |
+| 142 | celadongreen | #2F847C |
+| 143 | celestecolour | #B2FFFF |
+| 144 | celestialblue | #4997D0 |
+| 145 | cerise | #DE3163 |
+| 146 | cerisepink | #EC3B83 |
+| 147 | cerulean | #007BA7 |
+| 148 | ceruleanblue | #2A52BE |
+| 149 | ceruleanfrost | #6D9BC3 |
+| 150 | cgblue | #007AA5 |
+| 151 | cgred | #E03C31 |
+| 152 | chamoisee | #A0785A |
+| 153 | champagne | #FAD6A5 |
+| 154 | charcoal | #36454F |
+| 155 | charmpink | #E68FAC |
+| 156 | chartreuse | #7FFF00 |
+| 157 | chartreusetraditional | #DFFF00 |
+| 158 | chartreuseweb | #7FFF00 |
+| 159 | cherry | #DE3163 |
+| 160 | cherryblossompink | #FFB7C5 |
+| 161 | chestnut | #CD5C5C |
+| 162 | chinapink | #DE6FA1 |
+| 163 | chinarose | #A8516E |
+| 164 | chinesered | #AA381E |
+| 165 | chocolate | #D2691E |
+| 166 | chocolatetraditional | #7B3F00 |
+| 167 | chocolateweb | #D2691E |
+| 168 | chromeyellow | #FFA700 |
+| 169 | cinereous | #98817B |
+| 170 | cinnabar | #E34234 |
+| 171 | cinnamon | #D2691E |
+| 172 | citrine | #E4D00A |
+| 173 | classicrose | #FBCCE7 |
+| 174 | cobalt | #0047AB |
+| 175 | cocoabrown | #D2691E |
+| 176 | coffee | #6F4E37 |
+| 177 | columbiablue | #9BDDFF |
+| 178 | congopink | #F88379 |
+| 179 | coolblack | #002E63 |
+| 180 | coolgrey | #8C92AC |
+| 181 | copper | #B87333 |
+| 182 | coppercrayola | #DA8A67 |
+| 183 | copperpenny | #AD6F69 |
+| 184 | copperred | #CB6D51 |
+| 185 | copperrose | #966 |
+| 186 | coquelicot | #FF3800 |
+| 187 | coral | #FF7F50 |
+| 188 | coralpink | #F88379 |
+| 189 | coralred | #FF4040 |
+| 190 | cordovan | #893F45 |
+| 191 | corn | #FBEC5D |
+| 192 | cornellred | #B31B1B |
+| 193 | cornflowerblue | #6495ED |
+| 194 | cornsilk | #FFF8DC |
+| 195 | cosmiclatte | #FFF8E7 |
+| 196 | cottoncandy | #FFBCD9 |
+| 197 | cream | #FFFDD0 |
+| 198 | crimson | #DC143C |
+| 199 | crimsonglory | #BE0032 |
+| 200 | cyan | #0FF |
+| 201 | cyanprocess | #00B7EB |
+| 202 | daffodil | #FFFF31 |
+| 203 | dandelion | #F0E130 |
+| 204 | darkblue | #00008B |
+| 205 | darkbrown | #654321 |
+| 206 | darkbyzantium | #5D3954 |
+| 207 | darkcandyapplered | #A40000 |
+| 208 | darkcerulean | #08457E |
+| 209 | darkchestnut | #986960 |
+| 210 | darkcoral | #CD5B45 |
+| 211 | darkcyan | #008B8B |
+| 212 | darkelectricblue | #536878 |
+| 213 | darkgoldenrod | #B8860B |
+| 214 | darkgray | #A9A9A9 |
+| 215 | darkgreen | #006400 |
+| 216 | darkgreen | #013220 |
+| 217 | darkgrey | #A9A9A9 |
+| 218 | darkimperialblue | #00416A |
+| 219 | darkjunglegreen | #1A2421 |
+| 220 | darkkhaki | #BDB76B |
+| 221 | darklava | #483C32 |
+| 222 | darklavender | #734F96 |
+| 223 | darkmagenta | #8B008B |
+| 224 | darkmidnightblue | #036 |
+| 225 | darkolivegreen | #556B2F |
+| 226 | darkorange | #FF8C00 |
+| 227 | darkorchid | #9932CC |
+| 228 | darkpastelblue | #779ECB |
+| 229 | darkpastelgreen | #03C03C |
+| 230 | darkpastelpurple | #966FD6 |
+| 231 | darkpastelred | #C23B22 |
+| 232 | darkpink | #E75480 |
+| 233 | darkpowderblue | #039 |
+| 234 | darkraspberry | #872657 |
+| 235 | darkred | #8B0000 |
+| 236 | darksalmon | #E9967A |
+| 237 | darkscarlet | #560319 |
+| 238 | darkseagreen | #8FBC8F |
+| 239 | darksienna | #3C1414 |
+| 240 | darkslateblue | #483D8B |
+| 241 | darkslategray | #2F4F4F |
+| 242 | darkslategrey | #2F4F4F |
+| 243 | darkspringgreen | #177245 |
+| 244 | darktan | #918151 |
+| 245 | darktangerine | #FFA812 |
+| 246 | darktaupe | #483C32 |
+| 247 | darkterracotta | #CC4E5C |
+| 248 | darkturquoise | #00CED1 |
+| 249 | darkviolet | #9400D3 |
+| 250 | darkyellow | #9B870C |
+| 251 | dartmouthgreen | #00703C |
+| 252 | davysgrey | #555 |
+| 253 | debianred | #D70A53 |
+| 254 | deepcarmine | #A9203E |
+| 255 | deepcarminepink | #EF3038 |
+| 256 | deepcarrotorange | #E9692C |
+| 257 | deepcerise | #DA3287 |
+| 258 | deepchampagne | #FAD6A5 |
+| 259 | deepchestnut | #B94E48 |
+| 260 | deepcoffee | #704241 |
+| 261 | deepfuchsia | #C154C1 |
+| 262 | deepjunglegreen | #004B49 |
+| 263 | deeplilac | #95B |
+| 264 | deepmagenta | #C0C |
+| 265 | deeppeach | #FFCBA4 |
+| 266 | deeppink | #FF1493 |
+| 267 | deepruby | #843F5B |
+| 268 | deepsaffron | #F93 |
+| 269 | deepskyblue | #00BFFF |
+| 270 | deeptuscanred | #66424D |
+| 271 | denim | #1560BD |
+| 272 | desert | #C19A6B |
+| 273 | desertsand | #EDC9AF |
+| 274 | dimgray | #696969 |
+| 275 | dimgrey | #696969 |
+| 276 | dodgerblue | #1E90FF |
+| 277 | dogwoodrose | #D71868 |
+| 278 | dollarbill | #85BB65 |
+| 279 | drab | #967117 |
+| 280 | dukeblue | #00009C |
+| 281 | earthyellow | #E1A95F |
+| 282 | ebony | #555D50 |
+| 283 | ecru | #C2B280 |
+| 284 | eggplant | #614051 |
+| 285 | eggshell | #F0EAD6 |
+| 286 | egyptianblue | #1034A6 |
+| 287 | electricblue | #7DF9FF |
+| 288 | electriccrimson | #FF003F |
+| 289 | electriccyan | #0FF |
+| 290 | electricgreen | #0F0 |
+| 291 | electricindigo | #6F00FF |
+| 292 | electriclavender | #F4BBFF |
+| 293 | electriclime | #CF0 |
+| 294 | electricpurple | #BF00FF |
+| 295 | electricultramarine | #3F00FF |
+| 296 | electricviolet | #8F00FF |
+| 297 | electricyellow | #FF0 |
+| 298 | emerald | #50C878 |
+| 299 | englishlavender | #B48395 |
+| 300 | etonblue | #96C8A2 |
+| 301 | fallow | #C19A6B |
+| 302 | falured | #801818 |
+| 303 | fandango | #B53389 |
+| 304 | fashionfuchsia | #F400A1 |
+| 305 | fawn | #E5AA70 |
+| 306 | feldgrau | #4D5D53 |
+| 307 | ferngreen | #4F7942 |
+| 308 | ferrarired | #FF2800 |
+| 309 | fielddrab | #6C541E |
+| 310 | firebrick | #B22222 |
+| 311 | fireenginered | #CE2029 |
+| 312 | flame | #E25822 |
+| 313 | flamingopink | #FC8EAC |
+| 314 | flavescent | #F7E98E |
+| 315 | flax | #EEDC82 |
+| 316 | floralwhite | #FFFAF0 |
+| 317 | fluorescentorange | #FFBF00 |
+| 318 | fluorescentpink | #FF1493 |
+| 319 | fluorescentyellow | #CF0 |
+| 320 | folly | #FF004F |
+| 321 | forestgreen | #228B22 |
+| 322 | forestgreentraditional | #014421 |
+| 323 | forestgreenweb | #228B22 |
+| 324 | frenchbeige | #A67B5B |
+| 325 | frenchblue | #0072BB |
+| 326 | frenchlilac | #86608E |
+| 327 | frenchlime | #CF0 |
+| 328 | frenchraspberry | #C72C48 |
+| 329 | frenchrose | #F64A8A |
+| 330 | fuchsia | #F0F |
+| 331 | fuchsiacrayola | #C154C1 |
+| 332 | fuchsiapink | #F7F |
+| 333 | fuchsiarose | #C74375 |
+| 334 | fulvous | #E48400 |
+| 335 | fuzzywuzzy | #C66 |
+| 336 | gainsboro | #DCDCDC |
+| 337 | gamboge | #E49B0F |
+| 338 | ghostwhite | #F8F8FF |
+| 339 | ginger | #B06500 |
+| 340 | glaucous | #6082B6 |
+| 341 | glitter | #E6E8FA |
+| 342 | gold | #FFD700 |
+| 343 | goldenbrown | #996515 |
+| 344 | goldenpoppy | #FCC200 |
+| 345 | goldenrod | #DAA520 |
+| 346 | goldenyellow | #FFDF00 |
+| 347 | goldmetallic | #D4AF37 |
+| 348 | goldwebgolden | #FFD700 |
+| 349 | grannysmithapple | #A8E4A0 |
+| 350 | gray | #808080 |
+| 351 | grayasparagus | #465945 |
+| 352 | grayhtmlcssgray | #808080 |
+| 353 | grayx11gray | #BEBEBE |
+| 354 | green | #008000 |
+| 355 | greencolorwheelx11green | #0F0 |
+| 356 | greencrayola | #1CAC78 |
+| 357 | greenhtmlcssgreen | #008000 |
+| 358 | greenmunsell | #00A877 |
+| 359 | greenncs | #009F6B |
+| 360 | greenpigment | #00A550 |
+| 361 | greenryb | #66B032 |
+| 362 | greenyellow | #ADFF2F |
+| 363 | grey | #808080 |
+| 364 | grullo | #A99A86 |
+| 365 | guppiegreen | #00FF7F |
+| 366 | halaybe | #663854 |
+| 367 | hanblue | #446CCF |
+| 368 | hanpurple | #5218FA |
+| 369 | hansayellow | #E9D66B |
+| 370 | harlequin | #3FFF00 |
+| 371 | harvardcrimson | #C90016 |
+| 372 | harvestgold | #DA9100 |
+| 373 | heartgold | #808000 |
+| 374 | heliotrope | #DF73FF |
+| 375 | hollywoodcerise | #F400A1 |
+| 376 | honeydew | #F0FFF0 |
+| 377 | honolulublue | #007FBF |
+| 378 | hookersgreen | #49796B |
+| 379 | hotmagenta | #FF1DCE |
+| 380 | hotpink | #FF69B4 |
+| 381 | huntergreen | #355E3B |
+| 382 | iceberg | #71A6D2 |
+| 383 | icterine | #FCF75E |
+| 384 | imperialblue | #002395 |
+| 385 | inchworm | #B2EC5D |
+| 386 | indiagreen | #138808 |
+| 387 | indianred | #CD5C5C |
+| 388 | indianyellow | #E3A857 |
+| 389 | indigo | #6F00FF |
+| 390 | indigodye | #00416A |
+| 391 | indigoweb | #4B0082 |
+| 392 | internationalkleinblue | #002FA7 |
+| 393 | internationalorangeaerospace | #FF4F00 |
+| 394 | internationalorangeengineering | #BA160C |
+| 395 | internationalorangegoldengatebridge | #C0362C |
+| 396 | iris | #5A4FCF |
+| 397 | isabelline | #F4F0EC |
+| 398 | islamicgreen | #009000 |
+| 399 | ivory | #FFFFF0 |
+| 400 | jade | #00A86B |
+| 401 | jasmine | #F8DE7E |
+| 402 | jasper | #D73B3E |
+| 403 | jazzberryjam | #A50B5E |
+| 404 | jet | #343434 |
+| 405 | jonquil | #FADA5E |
+| 406 | junebud | #BDDA57 |
+| 407 | junglegreen | #29AB87 |
+| 408 | kellygreen | #4CBB17 |
+| 409 | kenyancopper | #7C1C05 |
+| 410 | khaki | #F0E68C |
+| 411 | khakihtmlcsskhaki | #C3B091 |
+| 412 | khakix11lightkhaki | #F0E68C |
+| 413 | kucrimson | #E8000D |
+| 414 | languidlavender | #D6CADD |
+| 415 | lapislazuli | #26619C |
+| 416 | lasallegreen | #087830 |
+| 417 | laserlemon | #FEFE22 |
+| 418 | laurelgreen | #A9BA9D |
+| 419 | lava | #CF1020 |
+| 420 | lavender | #E6E6FA |
+| 421 | lavenderblue | #CCF |
+| 422 | lavenderblush | #FFF0F5 |
+| 423 | lavenderfloral | #B57EDC |
+| 424 | lavendergray | #C4C3D0 |
+| 425 | lavenderindigo | #9457EB |
+| 426 | lavendermagenta | #EE82EE |
+| 427 | lavendermist | #E6E6FA |
+| 428 | lavenderpink | #FBAED2 |
+| 429 | lavenderpurple | #967BB6 |
+| 430 | lavenderrose | #FBA0E3 |
+| 431 | lavenderweb | #E6E6FA |
+| 432 | lawngreen | #7CFC00 |
+| 433 | lemon | #FFF700 |
+| 434 | lemonchiffon | #FFFACD |
+| 435 | lemonlime | #E3FF00 |
+| 436 | licorice | #1A1110 |
+| 437 | lightapricot | #FDD5B1 |
+| 438 | lightblue | #ADD8E6 |
+| 439 | lightbrown | #B5651D |
+| 440 | lightcarminepink | #E66771 |
+| 441 | lightcoral | #F08080 |
+| 442 | lightcornflowerblue | #93CCEA |
+| 443 | lightcrimson | #F56991 |
+| 444 | lightcyan | #E0FFFF |
+| 445 | lightfuchsiapink | #F984EF |
+| 446 | lightgoldenrodyellow | #FAFAD2 |
+| 447 | lightgray | #D3D3D3 |
+| 448 | lightgreen | #90EE90 |
+| 449 | lightgrey | #D3D3D3 |
+| 450 | lightkhaki | #F0E68C |
+| 451 | lightpastelpurple | #B19CD9 |
+| 452 | lightpink | #FFB6C1 |
+| 453 | lightredochre | #E97451 |
+| 454 | lightsalmon | #FFA07A |
+| 455 | lightsalmonpink | #F99 |
+| 456 | lightseagreen | #20B2AA |
+| 457 | lightskyblue | #87CEFA |
+| 458 | lightslategray | #778899 |
+| 459 | lightslategray | #789 |
+| 460 | lightslategrey | #778899 |
+| 461 | lightsteelblue | #B0C4DE |
+| 462 | lighttaupe | #B38B6D |
+| 463 | lightthulianpink | #E68FAC |
+| 464 | lightyellow | #FFFFE0 |
+| 465 | lilac | #C8A2C8 |
+| 466 | lime | #00FF00 |
+| 467 | limecolorwheel | #BFFF00 |
+| 468 | limegreen | #32CD32 |
+| 469 | limerick | #9DC209 |
+| 470 | limewebx11green | #0F0 |
+| 471 | lincolngreen | #195905 |
+| 472 | linen | #FAF0E6 |
+| 473 | lion | #C19A6B |
+| 474 | littleboyblue | #6CA0DC |
+| 475 | liver | #534B4F |
+| 476 | lust | #E62020 |
+| 477 | magenta | #F0F |
+| 478 | magentadye | #CA1F7B |
+| 479 | magentaprocess | #FF0090 |
+| 480 | magicmint | #AAF0D1 |
+| 481 | magnolia | #F8F4FF |
+| 482 | mahogany | #C04000 |
+| 483 | maize | #FBEC5D |
+| 484 | majorelleblue | #6050DC |
+| 485 | malachite | #0BDA51 |
+| 486 | manatee | #979AAA |
+| 487 | mangotango | #FF8243 |
+| 488 | mantis | #74C365 |
+| 489 | mardigras | #880085 |
+| 490 | maroon | #800000 |
+| 491 | marooncrayola | #C32148 |
+| 492 | maroonhtmlcss | #800000 |
+| 493 | maroonx11 | #B03060 |
+| 494 | mauve | #E0B0FF |
+| 495 | mauvelous | #EF98AA |
+| 496 | mauvetaupe | #915F6D |
+| 497 | mayablue | #73C2FB |
+| 498 | meatbrown | #E5B73B |
+| 499 | mediumaquamarine | #66CDAA |
+| 500 | mediumaquamarine | #6DA |
+| 501 | mediumblue | #0000CD |
+| 502 | mediumcandyapplered | #E2062C |
+| 503 | mediumcarmine | #AF4035 |
+| 504 | mediumchampagne | #F3E5AB |
+| 505 | mediumelectricblue | #035096 |
+| 506 | mediumjunglegreen | #1C352D |
+| 507 | mediumlavendermagenta | #DDA0DD |
+| 508 | mediumorchid | #BA55D3 |
+| 509 | mediumpersianblue | #0067A5 |
+| 510 | mediumpurple | #9370DB |
+| 511 | mediumredviolet | #BB3385 |
+| 512 | mediumruby | #AA4069 |
+| 513 | mediumseagreen | #3CB371 |
+| 514 | mediumslateblue | #7B68EE |
+| 515 | mediumspringbud | #C9DC87 |
+| 516 | mediumspringgreen | #00FA9A |
+| 517 | mediumtaupe | #674C47 |
+| 518 | mediumturquoise | #48D1CC |
+| 519 | mediumtuscanred | #79443B |
+| 520 | mediumvermilion | #D9603B |
+| 521 | mediumvioletred | #C71585 |
+| 522 | mellowapricot | #F8B878 |
+| 523 | mellowyellow | #F8DE7E |
+| 524 | melon | #FDBCB4 |
+| 525 | midnightblue | #191970 |
+| 526 | midnightgreeneaglegreen | #004953 |
+| 527 | mikadoyellow | #FFC40C |
+| 528 | mint | #3EB489 |
+| 529 | mintcream | #F5FFFA |
+| 530 | mintgreen | #98FF98 |
+| 531 | mistyrose | #FFE4E1 |
+| 532 | moccasin | #FAEBD7 |
+| 533 | modebeige | #967117 |
+| 534 | moonstoneblue | #73A9C2 |
+| 535 | mordantred19 | #AE0C00 |
+| 536 | mossgreen | #ADDFAD |
+| 537 | mountainmeadow | #30BA8F |
+| 538 | mountbattenpink | #997A8D |
+| 539 | msugreen | #18453B |
+| 540 | mulberry | #C54B8C |
+| 541 | mustard | #FFDB58 |
+| 542 | myrtle | #21421E |
+| 543 | nadeshikopink | #F6ADC6 |
+| 544 | napiergreen | #2A8000 |
+| 545 | naplesyellow | #FADA5E |
+| 546 | navajowhite | #FFDEAD |
+| 547 | navy | #000080 |
+| 548 | navyblue | #000080 |
+| 549 | neoncarrot | #FFA343 |
+| 550 | neonfuchsia | #FE4164 |
+| 551 | neongreen | #39FF14 |
+| 552 | newyorkpink | #D7837F |
+| 553 | nonphotoblue | #A4DDED |
+| 554 | northtexasgreen | #059033 |
+| 555 | oceanboatblue | #0077BE |
+| 556 | ochre | #C72 |
+| 557 | officegreen | #008000 |
+| 558 | oldgold | #CFB53B |
+| 559 | oldlace | #FDF5E6 |
+| 560 | oldlavender | #796878 |
+| 561 | oldmauve | #673147 |
+| 562 | oldrose | #C08081 |
+| 563 | olive | #808000 |
+| 564 | olivedrab | #6B8E23 |
+| 565 | olivedrab7 | #3C341F |
+| 566 | olivedrabwebolivedrab3 | #6B8E23 |
+| 567 | olivine | #9AB973 |
+| 568 | onyx | #353839 |
+| 569 | operamauve | #B784A7 |
+| 570 | orange | #FFA500 |
+| 571 | orangecolorwheel | #FF7F00 |
+| 572 | orangepeel | #FF9F00 |
+| 573 | orangered | #FF4500 |
+| 574 | orangeryb | #FB9902 |
+| 575 | orangewebcolor | #FFA500 |
+| 576 | orchid | #DA70D6 |
+| 577 | otterbrown | #654321 |
+| 578 | oucrimsonred | #900 |
+| 579 | outerspace | #414A4C |
+| 580 | outrageousorange | #FF6E4A |
+| 581 | oxfordblue | #002147 |
+| 582 | pakistangreen | #060 |
+| 583 | palatinateblue | #273BE2 |
+| 584 | palatinatepurple | #682860 |
+| 585 | paleaqua | #BCD4E6 |
+| 586 | paleblue | #AFEEEE |
+| 587 | palebrown | #987654 |
+| 588 | palecarmine | #AF4035 |
+| 589 | palecerulean | #9BC4E2 |
+| 590 | palechestnut | #DDADAF |
+| 591 | palecopper | #DA8A67 |
+| 592 | palecornflowerblue | #ABCDEF |
+| 593 | palegold | #E6BE8A |
+| 594 | palegoldenrod | #EEE8AA |
+| 595 | palegreen | #98FB98 |
+| 596 | palelavender | #DCD0FF |
+| 597 | palemagenta | #F984E5 |
+| 598 | palepink | #FADADD |
+| 599 | paleplum | #DDA0DD |
+| 600 | paleredviolet | #DB7093 |
+| 601 | palerobineggblue | #96DED1 |
+| 602 | palesilver | #C9C0BB |
+| 603 | palespringbud | #ECEBBD |
+| 604 | paletaupe | #BC987E |
+| 605 | paleturquoise | #AFEEEE |
+| 606 | palevioletred | #DB7093 |
+| 607 | pansypurple | #78184A |
+| 608 | papayawhip | #FFEFD5 |
+| 609 | parisgreen | #50C878 |
+| 610 | pastelblue | #AEC6CF |
+| 611 | pastelbrown | #836953 |
+| 612 | pastelgray | #CFCFC4 |
+| 613 | pastelgreen | #7D7 |
+| 614 | pastelmagenta | #F49AC2 |
+| 615 | pastelorange | #FFB347 |
+| 616 | pastelpink | #DEA5A4 |
+| 617 | pastelpurple | #B39EB5 |
+| 618 | pastelred | #FF6961 |
+| 619 | pastelviolet | #CB99C9 |
+| 620 | pastelyellow | #FDFD96 |
+| 621 | patriarch | #800080 |
+| 622 | paynesgrey | #536878 |
+| 623 | peach | #FFE5B4 |
+| 624 | peachcrayola | #FFCBA4 |
+| 625 | peachorange | #FC9 |
+| 626 | peachpuff | #FFDAB9 |
+| 627 | peachyellow | #FADFAD |
+| 628 | pear | #D1E231 |
+| 629 | pearl | #EAE0C8 |
+| 630 | pearlaqua | #88D8C0 |
+| 631 | pearlypurple | #B768A2 |
+| 632 | peridot | #E6E200 |
+| 633 | periwinkle | #CCF |
+| 634 | persianblue | #1C39BB |
+| 635 | persiangreen | #00A693 |
+| 636 | persianindigo | #32127A |
+| 637 | persianorange | #D99058 |
+| 638 | persianpink | #F77FBE |
+| 639 | persianplum | #701C1C |
+| 640 | persianred | #C33 |
+| 641 | persianrose | #FE28A2 |
+| 642 | persimmon | #EC5800 |
+| 643 | peru | #CD853F |
+| 644 | phlox | #DF00FF |
+| 645 | phthaloblue | #000F89 |
+| 646 | phthalogreen | #123524 |
+| 647 | piggypink | #FDDDE6 |
+| 648 | pinegreen | #01796F |
+| 649 | pink | #FFC0CB |
+| 650 | pinklace | #FFDDF4 |
+| 651 | pinkorange | #F96 |
+| 652 | pinkpearl | #E7ACCF |
+| 653 | pinksherbet | #F78FA7 |
+| 654 | pistachio | #93C572 |
+| 655 | platinum | #E5E4E2 |
+| 656 | plum | #DDA0DD |
+| 657 | plumtraditional | #8E4585 |
+| 658 | plumweb | #DDA0DD |
+| 659 | portlandorange | #FF5A36 |
+| 660 | powderblue | #B0E0E6 |
+| 661 | powderblueweb | #B0E0E6 |
+| 662 | princetonorange | #FF8F00 |
+| 663 | prune | #701C1C |
+| 664 | prussianblue | #003153 |
+| 665 | psychedelicpurple | #DF00FF |
+| 666 | puce | #C89 |
+| 667 | pumpkin | #FF7518 |
+| 668 | purple | #800080 |
+| 669 | purpleheart | #69359C |
+| 670 | purplehtmlcss | #800080 |
+| 671 | purplemountainmajesty | #9678B6 |
+| 672 | purplemunsell | #9F00C5 |
+| 673 | purplepizzazz | #FE4EDA |
+| 674 | purpletaupe | #50404D |
+| 675 | purplex11 | #A020F0 |
+| 676 | quartz | #51484F |
+| 677 | rackley | #5D8AA8 |
+| 678 | radicalred | #FF355E |
+| 679 | rajah | #FBAB60 |
+| 680 | raspberry | #E30B5D |
+| 681 | raspberryglace | #915F6D |
+| 682 | raspberrypink | #E25098 |
+| 683 | raspberryrose | #B3446C |
+| 684 | rawumber | #826644 |
+| 685 | razzledazzlerose | #F3C |
+| 686 | razzmatazz | #E3256B |
+| 687 | rebeccapurple | #663399 |
+| 688 | red | #F00 |
+| 689 | redbrown | #A52A2A |
+| 690 | reddevil | #860111 |
+| 691 | redmunsell | #F2003C |
+| 692 | redncs | #C40233 |
+| 693 | redorange | #FF5349 |
+| 694 | redpigment | #ED1C24 |
+| 695 | redryb | #FE2712 |
+| 696 | redviolet | #C71585 |
+| 697 | redwood | #AB4E52 |
+| 698 | regalia | #522D80 |
+| 699 | resolutionblue | #002387 |
+| 700 | richblack | #004040 |
+| 701 | richbrilliantlavender | #F1A7FE |
+| 702 | richcarmine | #D70040 |
+| 703 | richelectricblue | #0892D0 |
+| 704 | richlavender | #A76BCF |
+| 705 | richlilac | #B666D2 |
+| 706 | richmaroon | #B03060 |
+| 707 | riflegreen | #414833 |
+| 708 | robineggblue | #0CC |
+| 709 | rose | #FF007F |
+| 710 | rosebonbon | #F9429E |
+| 711 | roseebony | #674846 |
+| 712 | rosegold | #B76E79 |
+| 713 | rosemadder | #E32636 |
+| 714 | rosepink | #F6C |
+| 715 | rosequartz | #AA98A9 |
+| 716 | rosetaupe | #905D5D |
+| 717 | rosevale | #AB4E52 |
+| 718 | rosewood | #65000B |
+| 719 | rossocorsa | #D40000 |
+| 720 | rosybrown | #BC8F8F |
+| 721 | royalazure | #0038A8 |
+| 722 | royalblue | #4169E1 |
+| 723 | royalbluetraditional | #002366 |
+| 724 | royalblueweb | #4169E1 |
+| 725 | royalfuchsia | #CA2C92 |
+| 726 | royalpurple | #7851A9 |
+| 727 | royalyellow | #FADA5E |
+| 728 | rubinered | #D10056 |
+| 729 | ruby | #E0115F |
+| 730 | rubyred | #9B111E |
+| 731 | ruddy | #FF0028 |
+| 732 | ruddybrown | #BB6528 |
+| 733 | ruddypink | #E18E96 |
+| 734 | rufous | #A81C07 |
+| 735 | russet | #80461B |
+| 736 | rust | #B7410E |
+| 737 | rustyred | #DA2C43 |
+| 738 | sacramentostategreen | #00563F |
+| 739 | saddlebrown | #8B4513 |
+| 740 | safetyorangeblazeorange | #FF6700 |
+| 741 | saffron | #F4C430 |
+| 742 | salmon | #FF8C69 |
+| 743 | salmonpink | #FF91A4 |
+| 744 | sand | #C2B280 |
+| 745 | sanddune | #967117 |
+| 746 | sandstorm | #ECD540 |
+| 747 | sandybrown | #F4A460 |
+| 748 | sandytaupe | #967117 |
+| 749 | sangria | #92000A |
+| 750 | sapgreen | #507D2A |
+| 751 | sapphire | #0F52BA |
+| 752 | sapphireblue | #0067A5 |
+| 753 | satinsheengold | #CBA135 |
+| 754 | scarlet | #FF2400 |
+| 755 | scarletcrayola | #FD0E35 |
+| 756 | schoolbusyellow | #FFD800 |
+| 757 | screamingreen | #76FF7A |
+| 758 | seablue | #006994 |
+| 759 | seagreen | #2E8B57 |
+| 760 | sealbrown | #321414 |
+| 761 | seashell | #FFF5EE |
+| 762 | selectiveyellow | #FFBA00 |
+| 763 | sepia | #704214 |
+| 764 | shadow | #8A795D |
+| 765 | shamrockgreen | #009E60 |
+| 766 | shockingpink | #FC0FC0 |
+| 767 | shockingpinkcrayola | #FF6FFF |
+| 768 | sienna | #A0522D |
+| 769 | silver | #C0C0C0 |
+| 770 | sinopia | #CB410B |
+| 771 | skobeloff | #007474 |
+| 772 | skyblue | #87CEEB |
+| 773 | skymagenta | #CF71AF |
+| 774 | slateblue | #6A5ACD |
+| 775 | slategray | #708090 |
+| 776 | slategrey | #708090 |
+| 777 | smaltdarkpowderblue | #039 |
+| 778 | smokeytopaz | #933D41 |
+| 779 | smokyblack | #100C08 |
+| 780 | snow | #FFFAFA |
+| 781 | spirodiscoball | #0FC0FC |
+| 782 | springbud | #A7FC00 |
+| 783 | springgreen | #00FF7F |
+| 784 | steelblue | #4682B4 |
+| 785 | stildegrainyellow | #FADA5E |
+| 786 | stizza | #900 |
+| 787 | stormcloud | #4F666A |
+| 788 | stpatricksblue | #23297A |
+| 789 | straw | #E4D96F |
+| 790 | sunglow | #FC3 |
+| 791 | sunset | #FAD6A5 |
+| 792 | tan | #D2B48C |
+| 793 | tangelo | #F94D00 |
+| 794 | tangerine | #F28500 |
+| 795 | tangerineyellow | #FC0 |
+| 796 | tangopink | #E4717A |
+| 797 | taupe | #483C32 |
+| 798 | taupegray | #8B8589 |
+| 799 | teagreen | #D0F0C0 |
+| 800 | teal | #008080 |
+| 801 | tealblue | #367588 |
+| 802 | tealgreen | #00827F |
+| 803 | tearoseorange | #F88379 |
+| 804 | tearoserose | #F4C2C2 |
+| 805 | telemagenta | #CF3476 |
+| 806 | tenntawny | #CD5700 |
+| 807 | terracotta | #E2725B |
+| 808 | thistle | #D8BFD8 |
+| 809 | thulianpink | #DE6FA1 |
+| 810 | ticklemepink | #FC89AC |
+| 811 | tiffanyblue | #0ABAB5 |
+| 812 | tigerseye | #E08D3C |
+| 813 | timberwolf | #DBD7D2 |
+| 814 | titaniumyellow | #EEE600 |
+| 815 | tomato | #FF6347 |
+| 816 | toolbox | #746CC0 |
+| 817 | topaz | #FFC87C |
+| 818 | tractorred | #FD0E35 |
+| 819 | trolleygrey | #808080 |
+| 820 | tropicalrainforest | #00755E |
+| 821 | trueblue | #0073CF |
+| 822 | tuftsblue | #417DC1 |
+| 823 | tumbleweed | #DEAA88 |
+| 824 | turkishrose | #B57281 |
+| 825 | turquoise | #40E0D0 |
+| 826 | turquoiseblue | #00FFEF |
+| 827 | turquoisegreen | #A0D6B4 |
+| 828 | tuscanred | #7C4848 |
+| 829 | twilightlavender | #8A496B |
+| 830 | tyrianpurple | #66023C |
+| 831 | uablue | #03A |
+| 832 | uared | #D9004C |
+| 833 | ube | #8878C3 |
+| 834 | uclablue | #536895 |
+| 835 | uclagold | #FFB300 |
+| 836 | ufogreen | #3CD070 |
+| 837 | ultramarine | #120A8F |
+| 838 | ultramarineblue | #4166F5 |
+| 839 | ultrapink | #FF6FFF |
+| 840 | umber | #635147 |
+| 841 | unbleachedsilk | #FFDDCA |
+| 842 | unitednationsblue | #5B92E5 |
+| 843 | universityofcaliforniagold | #B78727 |
+| 844 | unmellowyellow | #FF6 |
+| 845 | upforestgreen | #014421 |
+| 846 | upmaroon | #7B1113 |
+| 847 | upsdellred | #AE2029 |
+| 848 | urobilin | #E1AD21 |
+| 849 | usafablue | #004F98 |
+| 850 | usccardinal | #900 |
+| 851 | uscgold | #FC0 |
+| 852 | utahcrimson | #D3003F |
+| 853 | vanilla | #F3E5AB |
+| 854 | vegasgold | #C5B358 |
+| 855 | venetianred | #C80815 |
+| 856 | verdigris | #43B3AE |
+| 857 | vermilioncinnabar | #E34234 |
+| 858 | vermilionplochere | #D9603B |
+| 859 | veronica | #A020F0 |
+| 860 | violet | #EE82EE |
+| 861 | violetblue | #324AB2 |
+| 862 | violetcolorwheel | #7F00FF |
+| 863 | violetryb | #8601AF |
+| 864 | violetweb | #EE82EE |
+| 865 | viridian | #40826D |
+| 866 | vividauburn | #922724 |
+| 867 | vividburgundy | #9F1D35 |
+| 868 | vividcerise | #DA1D81 |
+| 869 | vividtangerine | #FFA089 |
+| 870 | vividviolet | #9F00FF |
+| 871 | warmblack | #004242 |
+| 872 | waterspout | #A4F4F9 |
+| 873 | wenge | #645452 |
+| 874 | wheat | #F5DEB3 |
+| 875 | white | #FFF |
+| 876 | whitesmoke | #F5F5F5 |
+| 877 | wildblueyonder | #A2ADD0 |
+| 878 | wildstrawberry | #FF43A4 |
+| 879 | wildwatermelon | #FC6C85 |
+| 880 | wine | #722F37 |
+| 881 | winedregs | #673147 |
+| 882 | wisteria | #C9A0DC |
+| 883 | woodbrown | #C19A6B |
+| 884 | xanadu | #738678 |
+| 885 | yaleblue | #0F4D92 |
+| 886 | yellow | #FF0 |
+| 887 | yellowgreen | #9ACD32 |
+| 888 | yellowmunsell | #EFCC00 |
+| 889 | yellowncs | #FFD300 |
+| 890 | yelloworange | #FFAE42 |
+| 891 | yellowprocess | #FFEF00 |
+| 892 | yellowryb | #FEFE33 |
+| 893 | zaffre | #0014A8 |
+| 894 | zinnwalditebrown | #2C1608 |
