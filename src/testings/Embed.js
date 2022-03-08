@@ -2,7 +2,7 @@ const {
 	Embed
 } = require('../module.js');
 const embed = new Embed();
-embed.AddColor('')
+embed.AddColor('green')
 	.AddAuthor('author', 'https://img.icons8.com/external-icongeek26-outline-gradient-icongeek26/2x/external-url-essentials-icongeek26-outline-gradient-icongeek26.png')
 	.AddDescription('AddDescription')
 	.AddFooter('AddFooter', 'https://img.icons8.com/external-icongeek26-outline-gradient-icongeek26/2x/external-url-essentials-icongeek26-outline-gradient-icongeek26.png')
@@ -11,4 +11,4 @@ embed.AddColor('')
 	.AddTimestamp()
 	.AddTitle('Title')
 	.AddUrl('https://img.icons8.com/external-icongeek26-outline-gradient-icongeek26/2x/external-url-essentials-icongeek26-outline-gradient-icongeek26.png');
-console.log(embed.Json())
+console.log(embed.Json());
