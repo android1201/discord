@@ -67,7 +67,7 @@ module.exports = class Embed extends MessageEmbed {
 		this.setURL(d);
 		return this;
 	};
-	get CreatedAt() {
+	CreatedAt() {
 		return this.timestamp ? new Date(this.timestamp) : null;
 	};
 	Equals(embed) {
@@ -108,7 +108,7 @@ module.exports = class Embed extends MessageEmbed {
 		this.opts.list.join(',');
 		return this.opts.list;
 	};
-	get HexColor() {
+	HexColor() {
 		return this.color ? `#${this.color.toString(16).padStart(6, '0')}` : null;
 	};
 	Json() {
@@ -133,7 +133,7 @@ module.exports = class Embed extends MessageEmbed {
 			},
 		};
 	};
-	get Length() {
+	Length() {
 		return (
 			(this.title?.length ?? 0) +
 			(this.description?.length ?? 0) +
